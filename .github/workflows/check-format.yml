@@ -1,0 +1,55 @@
+name: Check Agent Output Format
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  format-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: 安装 jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+      
+      - name: 创建检查脚本
+        run: |
+          mkdir -p scripts
+          cat > scripts/check-format.sh << 'SCRIPT'
+          #!/bin/bash
+          INPUT=$(cat)
+          if ! echo "$INPUT" | jq -e . > /dev/null 2>&1; then
+            echo "❌ 输出不是有效的 JSON 格式"
+            exit 1
+          fi
+          if ! echo "$INPUT" | jq -e '.success != null' > /dev/null 2>&1; then
+            echo "❌ 缺少 success 字段"
+            exit 1
+          fi
+          SUCCESS=$(echo "$INPUT" | jq -r '.success')
+          if [ "$SUCCESS" = "true" ]; then
+            if ! echo "$INPUT" | jq -e '.data != null' > /dev/null 2>&1; then
+              echo "❌ success=true 时缺少 data 字段"
+              exit 1
+            fi
+          else
+            if ! echo "$INPUT" | jq -e '.error != null' > /dev/null 2>&1; then
+              echo "❌ success=false 时缺少 error 字段"
+              exit 1
+            fi
+          fi
+          echo "✅ 格式正确"
+          exit 0
+          SCRIPT
+          chmod +x scripts/check-format.sh
+      
+      - name: 检查 JSON 格式
+        run: |
+          # 查找所有 .json 文件并检查
+          for file in $(find . -name "*.json" -not -path "./.git/*"); do
+            echo "检查: $file"
+            cat "$file" | ./scripts/check-format.sh
+          done
