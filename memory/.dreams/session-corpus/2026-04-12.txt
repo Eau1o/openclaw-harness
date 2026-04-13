@@ -1,0 +1,8 @@
+[main/sessions/ab4a73f1-daf0-4755-ba42-7afcd7483e92.jsonl#L146] User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/admin_wsl/.openclaw/workspace/HEARTBEAT.md (exact c
+[main/sessions/ab4a73f1-daf0-4755-ba42-7afcd7483e92.jsonl#L147] Assistant: HEARTBEAT_OK
+[main/sessions/ab4a73f1-daf0-4755-ba42-7afcd7483e92.jsonl#L148] User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/admin_wsl/.openclaw/workspace/HEARTBEAT.md (exact c
+[main/sessions/ab4a73f1-daf0-4755-ba42-7afcd7483e92.jsonl#L152] Assistant: HEARTBEAT_OK
+[main/sessions/ab4a73f1-daf0-4755-ba42-7afcd7483e92.jsonl#L153] User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/admin_wsl/.openclaw/workspace/HEARTBEAT.md (exact c
+[main/sessions/ab4a73f1-daf0-4755-ba42-7afcd7483e92.jsonl#L157] Assistant: HEARTBEAT_OK
+[main/sessions/ab4a73f1-daf0-4755-ba42-7afcd7483e92.jsonl#L158] User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/admin_wsl/.openclaw/workspace/HEARTBEAT.md (exact c
+[main/sessions/ab4a73f1-daf0-4755-ba42-7afcd7483e92.jsonl#L162] Assistant: HEARTBEAT_OK

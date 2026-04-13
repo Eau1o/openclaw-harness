@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "ebook-to-md": {
+      "version": "1.0.0",
+      "installedAt": 1776076028602
+    },
+    "pdf-processing": {
+      "version": "1.0.0",
+      "installedAt": 1776076045126
+    },
+    "weread-book-finder": {
+      "version": "1.0.1",
+      "installedAt": 1776076058842
+    },
+    "find-the-book": {
+      "version": "1.0.1",
+      "installedAt": 1776076058906
+    },
+    "find-skill": {
+      "version": "1.0.0",
+      "installedAt": 1776082141659
+    }
+  }
+}

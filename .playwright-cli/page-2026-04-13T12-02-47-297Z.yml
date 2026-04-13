@@ -1,0 +1,429 @@
+- generic [ref=e1]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]:
+      - link "Z-Library Home" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - text: Z-Library Home  
+      - link "My Library" [ref=e7] [cursor=pointer]:
+        - /url: /profile#tags
+        - text: My Library  
+    - generic [ref=e9]:
+      - link "English" [ref=e10] [cursor=pointer]:
+        - /url: https://z-library.sk/
+      - link "Русский" [ref=e11] [cursor=pointer]:
+        - /url: https://ru.z-library.sk/
+      - link "Español" [ref=e12] [cursor=pointer]:
+        - /url: https://es.z-library.sk/
+      - link "Italiano" [ref=e13] [cursor=pointer]:
+        - /url: https://it.z-library.sk/
+      - link "Ελληνικά" [ref=e14] [cursor=pointer]:
+        - /url: https://el.z-library.sk/
+      - link "اللغة العربية" [ref=e15] [cursor=pointer]:
+        - /url: https://ar.z-library.sk/
+      - link "Bahasa Indonesia" [ref=e16] [cursor=pointer]:
+        - /url: https://id.z-library.sk/
+      - link "Bahasa Malaysia" [ref=e17] [cursor=pointer]:
+        - /url: https://ms.z-library.sk/
+      - link "हिन्दी" [ref=e18] [cursor=pointer]:
+        - /url: https://hi.z-library.sk/
+      - link "Deutsch" [ref=e19] [cursor=pointer]:
+        - /url: https://de.z-library.sk/
+      - link "Français" [ref=e20] [cursor=pointer]:
+        - /url: https://fr.z-library.sk/
+      - link "Português" [ref=e21] [cursor=pointer]:
+        - /url: https://pt.z-library.sk/
+      - link "Українська" [ref=e22] [cursor=pointer]:
+        - /url: https://uk.z-library.sk/
+      - link "Polski" [ref=e23] [cursor=pointer]:
+        - /url: https://pl.z-library.sk/
+      - link "中文" [ref=e24] [cursor=pointer]:
+        - /url: https://zh.z-library.sk/
+      - link "繁體中文" [ref=e25] [cursor=pointer]:
+        - /url: https://tw.z-library.sk/
+      - link "日本語" [ref=e26] [cursor=pointer]:
+        - /url: https://ja.z-library.sk/
+      - link "Tiếng Việt" [ref=e27] [cursor=pointer]:
+        - /url: https://vi.z-library.sk/
+      - link "Azərbaycan Dili" [ref=e28] [cursor=pointer]:
+        - /url: https://az.z-library.sk/
+      - link "Հայոց լեզու" [ref=e29] [cursor=pointer]:
+        - /url: https://hy.z-library.sk/
+      - link "ภาษาไทย" [ref=e30] [cursor=pointer]:
+        - /url: https://th.z-library.sk/
+      - link "Türk Dili" [ref=e31] [cursor=pointer]:
+        - /url: https://tr.z-library.sk/
+      - link "ქართველი" [ref=e32] [cursor=pointer]:
+        - /url: https://ka.z-library.sk/
+      - link "বাংলা" [ref=e33] [cursor=pointer]:
+        - /url: https://bn.z-library.sk/
+      - link "پښتو" [ref=e34] [cursor=pointer]:
+        - /url: https://ps.z-library.sk/
+      - link "తెలుగు" [ref=e35] [cursor=pointer]:
+        - /url: https://te.z-library.sk/
+      - link "اردو" [ref=e36] [cursor=pointer]:
+        - /url: https://ur.z-library.sk/
+      - link "한국어" [ref=e37] [cursor=pointer]:
+        - /url: https://ko.z-library.sk/
+      - link "Srpski" [ref=e38] [cursor=pointer]:
+        - /url: https://sr.z-library.sk/
+      - link "Български" [ref=e39] [cursor=pointer]:
+        - /url: https://bg.z-library.sk/
+    - link "Donate" [ref=e41] [cursor=pointer]:
+      - /url: /how-to-donate
+    - generic [ref=e42]:
+      - generic [ref=e44] [cursor=pointer]: 
+      - textbox "Search for title, author, ISBN, DOI, publisher, md5…" [ref=e45]
+    - generic [ref=e48] [cursor=pointer]:
+      - generic [ref=e50]: 
+      - generic [ref=e51]: 
+      - generic [ref=e52]: 
+    - link "Log In" [ref=e54] [cursor=pointer]:
+      - /url: /login?redirectUrl=https%253A%252F%252Fz-library.sk%252F
+    - generic [ref=e55]:
+      - generic [ref=e57] [cursor=pointer]: 
+      - text:                         
+  - generic [ref=e60]:
+    - generic [ref=e61]:
+      - generic [ref=e62]:
+        - link "Z-Library" [ref=e64] [cursor=pointer]:
+          - /url: /
+          - img "Z-Library" [ref=e65]
+        - generic [ref=e66]: Your gateway to knowledge and culture. Accessible for everyone.
+      - generic [ref=e67]:
+        - text: Are you familiar with a high-risk merchant or do you process payments?
+        - link "Yes, I am." [ref=e68] [cursor=pointer]:
+          - /url: javascript://
+        - link "×" [ref=e69] [cursor=pointer]:
+          - /url: javascript://
+      - generic [ref=e70]:
+        - list [ref=e71]:
+          - listitem [ref=e73]:
+            - tab "General Search" [ref=e74] [cursor=pointer]
+          - listitem [ref=e76]:
+            - tab "Full-Text Search" [ref=e77] [cursor=pointer]
+        - generic [ref=e80]:
+          - textbox "Search for title, author, ISBN, DOI, publisher, md5…" [active] [ref=e82]
+          - button "Search" [ref=e85] [cursor=pointer]: Search 
+        - generic [ref=e89] [cursor=pointer]: Search options
+    - generic [ref=e90]:
+      - generic [ref=e91]:
+        - heading "Most Popular" [level=2] [ref=e92]
+        - generic [ref=e95]:
+          - text: Explore books in
+          - generic [ref=e96]:
+            - generic [ref=e97]: 
+            - link "Z-Recommend!" [ref=e98] [cursor=pointer]:
+              - /url: /users/zrecommended#17576434,121881882,119661982,30152455,1646104,103073205,124627236,124218393,117313875,124226011,28307349,123819642,24253049,88886268,116914383,5529984,633777,115919952,17052070,26899268,28826820,119638511,17524597,119684129,11735659,3558229,124477843,2474831,5816907,122037602,11686419,24926554,123486655,1571773,122037600,5040527,24330566,5781799,124280934,117069468
+      - generic [ref=e100]:
+        - generic [ref=e101]:
+          - link "Project Hail Mary Andy Weir Downloaded":
+            - /url: /book/QRMagdN0RV/project-hail-mary.html?dsource=mostpopular
+            - generic "Project Hail Mary" [ref=e102] [cursor=pointer]:
+              - generic "Project Hail Mary" [ref=e103]:
+                - generic [ref=e104]:
+                  - generic [ref=e109]: Project Hail Mary
+                  - generic [ref=e110]: Andy Weir
+                - img [ref=e114]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e115]:
+                  - /url: /book/QRMagdN0RV/project-hail-mary.html?dsource=mostpopular
+        - generic [ref=e116]:
+          - 'link "The Art of Spending Money: Simple Choices for a Richer Life Morgan Housel Downloaded"':
+            - /url: /book/gjrWBkBEve/the-art-of-spending-money-simple-choices-for-a-richer-life.html?dsource=mostpopular
+            - 'generic "The Art of Spending Money: Simple Choices for a Richer Life" [ref=e117] [cursor=pointer]':
+              - 'generic "The Art of Spending Money: Simple Choices for a Richer Life" [ref=e118]':
+                - generic [ref=e119]:
+                  - generic [ref=e124]: "The Art of Spending Money: Simple Choices for a Richer Life"
+                  - generic [ref=e125]: Morgan Housel
+                - img [ref=e129]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e130]:
+                  - /url: /book/gjrWBkBEve/the-art-of-spending-money-simple-choices-for-a-richer-life.html?dsource=mostpopular
+        - generic [ref=e131]:
+          - 'link "Building Applications with AI Agents: Designing and Implementing Multiagent Systems Michael Albada Downloaded"':
+            - /url: /book/gjr7VW2Bve/building-applications-with-ai-agents-designing-and-implementing-multiagent-systems.html?dsource=mostpopular
+            - 'generic "Building Applications with AI Agents: Designing and Implementing Multiagent Systems" [ref=e132] [cursor=pointer]':
+              - 'generic "Building Applications with AI Agents: Designing and Implementing Multiagent Systems" [ref=e133]':
+                - generic [ref=e134]:
+                  - generic [ref=e139]: "Building Applications with AI Agents: Designing and Implementing Multiagent Systems"
+                  - generic [ref=e140]: Michael Albada
+                - img [ref=e144]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e145]:
+                  - /url: /book/gjr7VW2Bve/building-applications-with-ai-agents-designing-and-implementing-multiagent-systems.html?dsource=mostpopular
+        - generic [ref=e146]:
+          - link "Atomic Habits James Clear Downloaded":
+            - /url: /book/5R0qY275jp/atomic-habits.html?dsource=mostpopular
+            - generic "Atomic Habits" [ref=e147] [cursor=pointer]:
+              - generic "Atomic Habits" [ref=e148]:
+                - generic [ref=e149]:
+                  - generic [ref=e154]: Atomic Habits
+                  - generic [ref=e155]: James Clear
+                - img [ref=e159]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e160]:
+                  - /url: /book/5R0qY275jp/atomic-habits.html?dsource=mostpopular
+        - generic [ref=e161]:
+          - link "Wuthering Heights Emily Brontë Downloaded":
+            - /url: /book/VJve9Ql5vE/wuthering-heights.html?dsource=mostpopular
+            - generic "Wuthering Heights" [ref=e162] [cursor=pointer]:
+              - generic "Wuthering Heights" [ref=e163]:
+                - generic [ref=e164]:
+                  - generic [ref=e169]: Wuthering Heights
+                  - generic [ref=e170]: Emily Brontë
+                - img [ref=e174]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e175]:
+                  - /url: /book/VJve9Ql5vE/wuthering-heights.html?dsource=mostpopular
+        - generic [ref=e176]:
+          - 'link "The Let Them Theory: A Life-Changing Tool That Millions of People Can’t Stop Talking About Mel Robbins, Sawyer Robbins Downloaded"':
+            - /url: /book/8vlJ7p6MRe/the-let-them-theory-a-lifechanging-tool-that-millions-of-people-cant-stop-talking-about.html?dsource=mostpopular
+            - 'generic "The Let Them Theory: A Life-Changing Tool That Millions of People Can’t Stop Talking About" [ref=e177] [cursor=pointer]':
+              - 'generic "The Let Them Theory: A Life-Changing Tool That Millions of People Can’t Stop Talking About" [ref=e178]':
+                - generic [ref=e179]:
+                  - generic [ref=e184]: "The Let Them Theory: A Life-Changing Tool That Millions of People Can’t Stop Talking About"
+                  - generic [ref=e185]: Mel Robbins, Sawyer Robbins
+                - img [ref=e189]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e190]:
+                  - /url: /book/8vlJ7p6MRe/the-let-them-theory-a-lifechanging-tool-that-millions-of-people-cant-stop-talking-about.html?dsource=mostpopular
+        - generic [ref=e191]:
+          - link "In Her Own League Liz Tomforde Downloaded":
+            - /url: /book/Bj4GQXeqR3/in-her-own-league.html?dsource=mostpopular
+            - generic "In Her Own League" [ref=e192] [cursor=pointer]:
+              - generic "In Her Own League" [ref=e193]:
+                - generic [ref=e194]:
+                  - generic [ref=e199]: In Her Own League
+                  - generic [ref=e200]: Liz Tomforde
+                - img [ref=e204]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e205]:
+                  - /url: /book/Bj4GQXeqR3/in-her-own-league.html?dsource=mostpopular
+        - generic [ref=e206]:
+          - link "And Now, Back to You B.K. Borison Downloaded":
+            - /url: /book/8vl0Lz4Vve/and-now-back-to-you.html?dsource=mostpopular
+            - generic "And Now, Back to You" [ref=e207] [cursor=pointer]:
+              - generic "And Now, Back to You" [ref=e208]:
+                - generic [ref=e209]:
+                  - generic [ref=e214]: And Now, Back to You
+                  - generic [ref=e215]: B.K. Borison
+                - img [ref=e219]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e220]:
+                  - /url: /book/8vl0Lz4Vve/and-now-back-to-you.html?dsource=mostpopular
+        - generic [ref=e221]:
+          - link "The Correspondent Virginia Evans Downloaded":
+            - /url: /book/DOg18ndbjX/the-correspondent.html?dsource=mostpopular
+            - generic "The Correspondent" [ref=e222] [cursor=pointer]:
+              - generic "The Correspondent" [ref=e223]:
+                - generic [ref=e224]:
+                  - generic [ref=e229]: The Correspondent
+                  - generic [ref=e230]: Virginia Evans
+                - img [ref=e234]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e235]:
+                  - /url: /book/DOg18ndbjX/the-correspondent.html?dsource=mostpopular
+        - generic [ref=e236]:
+          - link "Two Can Play Ali Hazelwood Downloaded":
+            - /url: /book/5R06lNNzvp/two-can-play.html?dsource=mostpopular
+            - generic "Two Can Play" [ref=e237] [cursor=pointer]:
+              - generic "Two Can Play" [ref=e238]:
+                - generic [ref=e239]:
+                  - generic [ref=e244]: Two Can Play
+                  - generic [ref=e245]: Ali Hazelwood
+                - img [ref=e249]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e250]:
+                  - /url: /book/5R06lNNzvp/two-can-play.html?dsource=mostpopular
+        - generic [ref=e251]:
+          - link "Dictionary of Fine Distinctions. Nuances, Niceties, and Subtle Shades of Meaning Eli Burnstein Downloaded":
+            - /url: /book/8vlwKVKMje/dictionary-of-fine-distinctions-nuances-niceties-and-subtle-shades-of-meaning.html?dsource=mostpopular
+            - generic "Dictionary of Fine Distinctions. Nuances, Niceties, and Subtle Shades of Meaning" [ref=e252] [cursor=pointer]:
+              - generic "Dictionary of Fine Distinctions. Nuances, Niceties, and Subtle Shades of Meaning" [ref=e253]:
+                - generic [ref=e254]:
+                  - generic [ref=e259]: Dictionary of Fine Distinctions. Nuances, Niceties, and Subtle Shades of Meaning
+                  - generic [ref=e260]: Eli Burnstein
+                - img [ref=e264]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e265]:
+                  - /url: /book/8vlwKVKMje/dictionary-of-fine-distinctions-nuances-niceties-and-subtle-shades-of-meaning.html?dsource=mostpopular
+        - generic [ref=e266]:
+          - link "Alchemised SenLinYu Downloaded":
+            - /url: /book/5jJXwmynOp/alchemised.html?dsource=mostpopular
+            - generic "Alchemised" [ref=e267] [cursor=pointer]:
+              - generic "Alchemised" [ref=e268]:
+                - generic [ref=e269]:
+                  - generic [ref=e274]: Alchemised
+                  - generic [ref=e275]: SenLinYu
+                - img [ref=e279]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e280]:
+                  - /url: /book/5jJXwmynOp/alchemised.html?dsource=mostpopular
+        - generic [ref=e281]:
+          - 'link "Atomic Habits: Tiny Changes, Remarkable Results James Clear Downloaded"':
+            - /url: /book/8vlL5B4Pve/atomic-habits-tiny-changes-remarkable-results.html?dsource=mostpopular
+            - 'generic "Atomic Habits: Tiny Changes, Remarkable Results" [ref=e282] [cursor=pointer]':
+              - 'generic "Atomic Habits: Tiny Changes, Remarkable Results" [ref=e283]':
+                - generic [ref=e284]:
+                  - generic [ref=e289]: "Atomic Habits: Tiny Changes, Remarkable Results"
+                  - generic [ref=e290]: James Clear
+                - img [ref=e294]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e295]:
+                  - /url: /book/8vlL5B4Pve/atomic-habits-tiny-changes-remarkable-results.html?dsource=mostpopular
+        - generic [ref=e296]:
+          - 'link "AI Engineering: Building Applications with Foundation Models Chip Huyen Downloaded"':
+            - /url: /book/3RkLZ5e5jX/ai-engineering-building-applications-with-foundation-models.html?dsource=mostpopular
+            - 'generic "AI Engineering: Building Applications with Foundation Models" [ref=e297] [cursor=pointer]':
+              - 'generic "AI Engineering: Building Applications with Foundation Models" [ref=e298]':
+                - generic [ref=e299]:
+                  - generic [ref=e304]: "AI Engineering: Building Applications with Foundation Models"
+                  - generic [ref=e305]: Chip Huyen
+                - img [ref=e309]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e310]:
+                  - /url: /book/3RkLZ5e5jX/ai-engineering-building-applications-with-foundation-models.html?dsource=mostpopular
+        - generic [ref=e311]:
+          - 'link "The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery Brianna Wiest Downloaded"':
+            - /url: /book/eOWELNDrjb/the-mountain-is-you-transforming-selfsabotage-into-selfmastery.html?dsource=mostpopular
+            - 'generic "The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery" [ref=e312] [cursor=pointer]':
+              - 'generic "The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery" [ref=e313]':
+                - generic [ref=e314]:
+                  - generic [ref=e319]: "The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery"
+                  - generic [ref=e320]: Brianna Wiest
+                - img [ref=e324]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e325]:
+                  - /url: /book/eOWELNDrjb/the-mountain-is-you-transforming-selfsabotage-into-selfmastery.html?dsource=mostpopular
+        - generic [ref=e326]:
+          - link "Hamnet Maggie O’Farrell Downloaded":
+            - /url: /book/9vqD5bN5jA/hamnet.html?dsource=mostpopular
+            - generic "Hamnet" [ref=e327] [cursor=pointer]:
+              - generic "Hamnet" [ref=e328]:
+                - generic [ref=e329]:
+                  - generic [ref=e334]: Hamnet
+                  - generic [ref=e335]: Maggie O’Farrell
+                - img [ref=e339]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e340]:
+                  - /url: /book/9vqD5bN5jA/hamnet.html?dsource=mostpopular
+        - generic [ref=e341]:
+          - 'link "How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships Leil Lowndes Downloaded"':
+            - /url: /book/pdRzwDnQjo/how-to-talk-to-anyone-92-little-tricks-for-big-success-in-relationships.html?dsource=mostpopular
+            - 'generic "How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships" [ref=e342] [cursor=pointer]':
+              - 'generic "How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships" [ref=e343]':
+                - generic [ref=e344]:
+                  - generic [ref=e349]: "How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships"
+                  - generic [ref=e350]: Leil Lowndes
+                - img [ref=e354]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e355]:
+                  - /url: /book/pdRzwDnQjo/how-to-talk-to-anyone-92-little-tricks-for-big-success-in-relationships.html?dsource=mostpopular
+        - generic [ref=e356]:
+          - link "AI Agents in Action Micheal Lanham Downloaded":
+            - /url: /book/LvybmlanOW/ai-agents-in-action.html?dsource=mostpopular
+            - generic "AI Agents in Action" [ref=e357] [cursor=pointer]:
+              - generic "AI Agents in Action" [ref=e358]:
+                - generic [ref=e359]:
+                  - generic [ref=e364]: AI Agents in Action
+                  - generic [ref=e365]: Micheal Lanham
+                - img [ref=e369]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e370]:
+                  - /url: /book/LvybmlanOW/ai-agents-in-action.html?dsource=mostpopular
+        - generic [ref=e371]:
+          - link "Red Rising Pierce Brown Downloaded":
+            - /url: /book/1RQaAG80Rx/red-rising.html?dsource=mostpopular
+            - generic "Red Rising" [ref=e372] [cursor=pointer]:
+              - generic "Red Rising" [ref=e373]:
+                - generic [ref=e374]:
+                  - generic [ref=e379]: Red Rising
+                  - generic [ref=e380]: Pierce Brown
+                - img [ref=e384]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e385]:
+                  - /url: /book/1RQaAG80Rx/red-rising.html?dsource=mostpopular
+        - generic [ref=e386]:
+          - link "Thinking, Fast and Slow Daniel Kahneman Downloaded":
+            - /url: /book/3Rk33EoDRX/thinking-fast-and-slow.html?dsource=mostpopular
+            - generic "Thinking, Fast and Slow" [ref=e387] [cursor=pointer]:
+              - generic "Thinking, Fast and Slow" [ref=e388]:
+                - generic [ref=e389]:
+                  - generic [ref=e394]: Thinking, Fast and Slow
+                  - generic [ref=e395]: Daniel Kahneman
+                - img [ref=e399]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e400]:
+                  - /url: /book/3Rk33EoDRX/thinking-fast-and-slow.html?dsource=mostpopular
+        - generic [ref=e401]:
+          - link "Behave Robert M. Sapolsky Downloaded":
+            - /url: /book/ojLqgb76vL/behave.html?dsource=mostpopular
+            - generic "Behave" [ref=e402] [cursor=pointer]:
+              - generic "Behave" [ref=e403]:
+                - generic [ref=e404]:
+                  - generic [ref=e409]: Behave
+                  - generic [ref=e410]: Robert M. Sapolsky
+                - img [ref=e414]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e415]:
+                  - /url: /book/ojLqgb76vL/behave.html?dsource=mostpopular
+        - generic [ref=e416]:
+          - link "Heart the Lover Lily King Downloaded":
+            - /url: /book/5R0waP65Op/heart-the-lover.html?dsource=mostpopular
+            - generic "Heart the Lover" [ref=e417] [cursor=pointer]:
+              - generic "Heart the Lover" [ref=e418]:
+                - generic [ref=e419]:
+                  - generic [ref=e424]: Heart the Lover
+                  - generic [ref=e425]: Lily King
+                - img [ref=e429]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e430]:
+                  - /url: /book/5R0waP65Op/heart-the-lover.html?dsource=mostpopular
+        - generic [ref=e431]:
+          - link "The Laws of Human Nature Robert Greene Downloaded":
+            - /url: /book/ZjKVXaDBR0/the-laws-of-human-nature.html?dsource=mostpopular
+            - generic "The Laws of Human Nature" [ref=e432] [cursor=pointer]:
+              - generic "The Laws of Human Nature" [ref=e433]:
+                - generic [ref=e434]:
+                  - generic [ref=e439]: The Laws of Human Nature
+                  - generic [ref=e440]: Robert Greene
+                - img [ref=e444]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e445]:
+                  - /url: /book/ZjKVXaDBR0/the-laws-of-human-nature.html?dsource=mostpopular
+        - generic [ref=e446]:
+          - link "The Poison Daughter Sheila Masterson Downloaded":
+            - /url: /book/QO5yGqNVOr/the-poison-daughter.html?dsource=mostpopular
+            - generic "The Poison Daughter" [ref=e447] [cursor=pointer]:
+              - generic "The Poison Daughter" [ref=e448]:
+                - generic [ref=e449]:
+                  - generic [ref=e454]: The Poison Daughter
+                  - generic [ref=e455]: Sheila Masterson
+                - img [ref=e459]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e460]:
+                  - /url: /book/QO5yGqNVOr/the-poison-daughter.html?dsource=mostpopular

@@ -1,0 +1,2519 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4] [cursor=pointer]: 
+    - generic [ref=e6] [cursor=pointer]: 
+    - generic [ref=e8] [cursor=pointer]: 
+    - generic [ref=e10] [cursor=pointer]: 
+    - generic [ref=e12] [cursor=pointer]: 
+    - generic [ref=e14] [cursor=pointer]: 
+    - generic [ref=e16] [cursor=pointer]: 
+  - navigation [ref=e19]:
+    - generic [ref=e20]:
+      - link "Z-Library Home" [ref=e21] [cursor=pointer]:
+        - /url: /
+        - text: Z-Library Home  
+      - link "My Library" [ref=e22] [cursor=pointer]:
+        - /url: /profile#tags
+        - text: My Library  
+    - generic [ref=e26] [cursor=pointer]:
+      - generic [ref=e27]: 
+      - generic [ref=e28]: English
+    - link "Donate" [ref=e31] [cursor=pointer]:
+      - /url: /how-to-donate
+    - generic [ref=e32]:
+      - generic [ref=e34] [cursor=pointer]: 
+      - generic:
+        - generic:
+          - generic:
+            - textbox "Search for title, author, ISBN, DOI, publisher, md5…" [ref=e35]
+            - button "" [ref=e36] [cursor=pointer]:
+              - generic [ref=e37]: 
+            - button "" [ref=e38] [cursor=pointer]:
+              - generic [ref=e39]: 
+    - generic [ref=e42] [cursor=pointer]:
+      - generic [ref=e44]: 
+      - generic [ref=e45]: 
+      - generic [ref=e46]: 
+    - link "Log In" [ref=e48] [cursor=pointer]:
+      - /url: /login?redirectUrl=https%253A%252F%252Fz-lib.by%252Fbook%252FZoRmrqdp92%252F%2525E5%2525B7%2525A5%2525E7%2525A8%25258B%2525E6%25258E%2525A7%2525E5%252588%2525B6%2525E8%2525AE%2525BA-engineering-cybernetics.html
+    - generic [ref=e49]:
+      - generic [ref=e51] [cursor=pointer]: 
+      - text:                         
+  - generic [ref=e54]:
+    - generic [ref=e55]:
+      - generic [ref=e56]:
+        - link [ref=e57] [cursor=pointer]:
+          - /url: /
+        - heading "工程控制论 Engineering Cybernetics" [level=2] [ref=e58]
+      - list [ref=e60]:
+        - listitem [ref=e61]:
+          - link "Main" [ref=e62] [cursor=pointer]:
+            - /url: /
+          - text: /
+        - listitem [ref=e63]:
+          - link "Computers - Cybernetics" [ref=e64] [cursor=pointer]:
+            - /url: /category/176/Computers-Cybernetics
+          - text: /
+        - listitem [ref=e65]: 工程控制论 Engineering Cybernetics
+    - generic [ref=e67]:
+      - generic "工程控制论 Engineering Cybernetics" [ref=e69]:
+        - generic "工程控制论 Engineering Cybernetics" [ref=e70]:
+          - generic [ref=e71]:
+            - generic [ref=e76]: 工程控制论 Engineering Cybernetics
+            - generic [ref=e77]: 钱学森 Qian, Xuesen (Hsue Shen Tsien)
+          - img [ref=e79] [cursor=pointer]
+          - generic [ref=e80] [cursor=pointer]: Mark as downloaded
+          - generic:
+            - generic: Downloaded
+      - generic [ref=e81]:
+        - heading "工程控制论 Engineering Cybernetics" [level=1] [ref=e82]
+        - generic [ref=e83]:
+          - link "钱学森 Qian" [ref=e84] [cursor=pointer]:
+            - /url: /author/%E9%92%B1%E5%AD%A6%E6%A3%AE Qian
+          - text: ","
+          - link "Xuesen (Hsue Shen Tsien)" [ref=e85] [cursor=pointer]:
+            - /url: /author/Xuesen %28Hsue Shen Tsien%29
+        - generic [ref=e87]:
+          - generic [ref=e88]:
+            - link "Read Online" [active] [ref=e91] [cursor=pointer]:
+              - /url: https://reader.z-lib.by/read/43385a6c382c6bc6156f527480c5e14539633af44c116645df3cecf233b20615/book/ZoRmrqdp92/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-engineering-cybernetics.html?client_key=1fFLi67gBrNRP1j1iPy1&extension=pdf&signature=a08a62950480fd3c8036efc216935ba5c52a48bd1491063015788973b6c4c186&file_access_token=eyJleHAiOjE3NzY2ODU5OTgsInZlciI6IjEuMCIsInR5cCI6IkpXVCIsImFsZyI6IkhTMjU2In0.eyJzdWIiOiJmaWxlX2FjY2VzcyIsImZpbGVfc2hhMjU2IjoiNDMzODVhNmMzODJjNmJjNjE1NmY1Mjc0ODBjNWUxNDUzOTYzM2FmNDRjMTE2NjQ1ZGYzY2VjZjIzM2IyMDYxNSIsImFjY2Vzc19sZXZlbCI6ImxpbWl0ZWQiLCJpc19wdWJsaWMiOnRydWV9.l1DN9mjsb7c2U_IIF_CUy5YNJFwqd3gSk-6EA2eqVf0
+              - generic [ref=e92]: 
+              - text: Read Online
+            - generic [ref=e94]:
+              - generic [ref=e95] [cursor=pointer]:
+                - generic [ref=e96]: 
+                - text: Add to My Library
+              - text: 
+            - generic [ref=e100]:
+              - link "pdf, 6.74 MB" [ref=e101] [cursor=pointer]:
+                - /url: /dl/9X6yxBqrMG
+                - generic [ref=e102]: 
+                - text: pdf, 6.74 MB
+              - button " Toggle Dropdown" [ref=e103] [cursor=pointer]:
+                - generic [ref=e104]: 
+                - generic [ref=e105]: Toggle Dropdown
+            - button "Send to    " [ref=e108] [cursor=pointer]:
+              - text: Send to
+              - generic [ref=e109]:
+                - generic [ref=e110]: 
+                - generic [ref=e111]: 
+                - generic [ref=e112]: 
+                - generic [ref=e113]: 
+          - generic:  
+        - generic [ref=e116]:
+          - generic [ref=e117] [cursor=pointer]: About book
+          - generic [ref=e118] [cursor=pointer]: Comments
+        - generic [ref=e120]:
+          - generic [ref=e121]:
+            - generic [ref=e122]:
+              - generic [ref=e123] [cursor=pointer]: 
+              - text:  5.0 / 3.0
+            - generic [ref=e124]:
+              - generic [ref=e125] [cursor=pointer]: 
+              - generic [ref=e126]: Paperback
+          - generic [ref=e128]:
+            - generic [ref=e129]:
+              - generic [ref=e130]: "Categories:"
+              - link "Computers - Cybernetics" [ref=e132] [cursor=pointer]:
+                - /url: /category/176/Computers-Cybernetics
+            - generic [ref=e133]:
+              - generic [ref=e134]: "Content Type:"
+              - generic [ref=e135]: Books
+            - generic [ref=e136]:
+              - generic [ref=e137]: "Year:"
+              - generic [ref=e138]: "1958"
+            - generic [ref=e139]:
+              - generic [ref=e140]: "Publisher:"
+              - generic [ref=e141]: 科学出版社
+            - generic [ref=e142]:
+              - generic [ref=e143]: "Language:"
+              - generic [ref=e144]: Chinese
+            - generic [ref=e145]:
+              - generic [ref=e146]: "File:"
+              - generic [ref=e147]: PDF, 6.74 MB
+            - generic [ref=e148]:
+              - generic [ref=e149]: "IPFS:"
+              - generic [ref=e150]:
+                - generic [ref=e151] [cursor=pointer]: CID
+                - text: ","
+                - generic [ref=e152] [cursor=pointer]: CID Blake2b
+        - text: 
+    - text:    
+    - generic [ref=e154]:
+      - heading "Related Booklists" [level=2] [ref=e155]
+      - generic [ref=e159]:
+        - generic [ref=e161]:
+          - link "初识量子计算 【美】帕拉格·K.拉拉(Parag K. Lala) Downloaded 量子计算和量子信息 2 量子信息部分 Michael A.Nielsen, Isaac L.Chuang Downloaded 量子计算机编程:从入门到实践 [美] 埃里克 • R. 约翰斯顿, [英] 尼古拉斯 • 哈里根, [西] 梅塞德丝 • 希梅诺-塞戈维亚 Downloaded 量子计算机研究 下 纠错和容错计算 李承祖, 陈平形, 梁林梅, 戴宏毅 Downloaded 量子计算机编程 从入门到实践 [美] 埃里克 • R. 约翰斯顿, [英] 尼古拉斯 • 哈里根, [西] 梅塞德丝 • 希梅诺-塞戈维亚 Downloaded 伯克利物理学教程（第4卷）：量子物理学 E. H. Wichmann, 潘笃武(译) Downloaded 量子计算与编程入门 郭国平 陈昭昀 郭光灿 Downloaded 从一到无穷大：科学中的事实和臆测 乔治·伽莫夫 (George Gamow) Downloaded + 959 Books 自然、科学、技术" [ref=e163] [cursor=pointer]:
+            - /url: /booklist/462882/eeba0c/%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF.html
+            - generic [ref=e164]:
+              - generic [ref=e165]:
+                - generic "初识量子计算" [ref=e166]:
+                  - generic "初识量子计算" [ref=e167]:
+                    - generic [ref=e168]:
+                      - generic [ref=e173]: 初识量子计算
+                      - generic [ref=e174]: 【美】帕拉格·K.拉拉(Parag K. Lala)
+                    - img [ref=e178]
+                    - generic:
+                      - generic: Downloaded
+                - generic "量子计算和量子信息 2 量子信息部分" [ref=e179]:
+                  - generic "量子计算和量子信息 2 量子信息部分" [ref=e180]:
+                    - generic [ref=e181]:
+                      - generic [ref=e186]: 量子计算和量子信息 2 量子信息部分
+                      - generic [ref=e187]: Michael A.Nielsen, Isaac L.Chuang
+                    - img [ref=e191]
+                    - generic:
+                      - generic: Downloaded
+                - generic "量子计算机编程:从入门到实践" [ref=e192]:
+                  - generic "量子计算机编程:从入门到实践" [ref=e193]:
+                    - generic [ref=e194]:
+                      - generic [ref=e199]: 量子计算机编程:从入门到实践
+                      - generic [ref=e200]: "[美] 埃里克 • R. 约翰斯顿, [英] 尼古拉斯 • 哈里根, [西] 梅塞德丝 • 希梅诺-塞戈维亚"
+                    - img [ref=e204]
+                    - generic:
+                      - generic: Downloaded
+                - generic "量子计算机研究 下 纠错和容错计算" [ref=e205]:
+                  - generic "量子计算机研究 下 纠错和容错计算" [ref=e206]:
+                    - generic [ref=e207]:
+                      - generic [ref=e212]: 量子计算机研究 下 纠错和容错计算
+                      - generic [ref=e213]: 李承祖, 陈平形, 梁林梅, 戴宏毅
+                    - img [ref=e217]
+                    - generic:
+                      - generic: Downloaded
+                - generic "量子计算机编程 从入门到实践" [ref=e218]:
+                  - generic "量子计算机编程 从入门到实践" [ref=e219]:
+                    - generic [ref=e220]:
+                      - generic [ref=e225]: 量子计算机编程 从入门到实践
+                      - generic [ref=e226]: "[美] 埃里克 • R. 约翰斯顿, [英] 尼古拉斯 • 哈里根, [西] 梅塞德丝 • 希梅诺-塞戈维亚"
+                    - img [ref=e230]
+                    - generic:
+                      - generic: Downloaded
+                - generic "伯克利物理学教程（第4卷）：量子物理学" [ref=e231]:
+                  - generic "伯克利物理学教程（第4卷）：量子物理学" [ref=e232]:
+                    - generic [ref=e233]:
+                      - generic [ref=e238]: 伯克利物理学教程（第4卷）：量子物理学
+                      - generic [ref=e239]: E. H. Wichmann, 潘笃武(译)
+                    - img [ref=e243]
+                    - generic:
+                      - generic: Downloaded
+                - generic "量子计算与编程入门" [ref=e244]:
+                  - generic "量子计算与编程入门" [ref=e245]:
+                    - generic [ref=e246]:
+                      - generic [ref=e251]: 量子计算与编程入门
+                      - generic [ref=e252]: 郭国平 陈昭昀 郭光灿
+                    - img [ref=e256]
+                    - generic:
+                      - generic: Downloaded
+                - generic "从一到无穷大：科学中的事实和臆测" [ref=e257]:
+                  - generic "从一到无穷大：科学中的事实和臆测" [ref=e258]:
+                    - generic [ref=e259]:
+                      - generic [ref=e264]: 从一到无穷大：科学中的事实和臆测
+                      - generic [ref=e265]: 乔治·伽莫夫 (George Gamow)
+                    - img [ref=e269]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e270]:
+                  - generic [ref=e271]: + 959
+                  - generic [ref=e272]: Books
+              - list [ref=e273]:
+                - listitem [ref=e274]
+                - listitem [ref=e275]
+                - listitem [ref=e276]
+                - listitem [ref=e277]
+                - listitem [ref=e278]
+                - listitem [ref=e279]
+                - listitem [ref=e280]
+                - listitem [ref=e281]
+              - img [ref=e282]
+            - generic [ref=e285]: 自然、科学、技术
+          - 'link "朗道理论物理学教程 第一卷 力学(第五版)【带书签】 Л. Д. 朗道, Е. М. 栗弗席兹 著, 李俊峰, 鞠国兴 译校 Downloaded 场论 Л.Д.朗道 (L. D. Landau), Е.М.栗弗席兹(E. M. Lifshitz) Downloaded 朗道理论物理学教程 第八卷 连续介质电动力学（第四版） Л. Д. 朗道, Е. М. 栗弗席兹 著,刘寄星,周奇 译 Downloaded 力学: 理论物理学教程 第一卷 П.Д.朗道; Е.М.栗弗席兹 Downloaded 统计物理学II 凝聚态理论(第四版) (俄)E.M.粟弗席兹, (俄)л.п.皮塔耶夫斯基 著, 王锡绂 译 Downloaded 理论物理学教程5-统计物理学 1 原书第5版 朗道，栗弗席兹 Downloaded 朗道理论物理教程（卷4）量子电动力学 别列斯捷茨基, 栗弗席兹, 皮塔耶夫斯基 Downloaded 统计物理学 I(Statistical Physics, Part 1) 列夫·达维多维奇·朗道 (作者),‎ E.M.栗弗席兹 (作者),‎ 郑伟谋 (注释 解说词),‎ 束仁贵 (译者),‎ 束莼 (译者) Downloaded + 228 Books 物理" [ref=e287] [cursor=pointer]':
+            - /url: /booklist/396756/11da5d/%E7%89%A9%E7%90%86.html
+            - generic [ref=e288]:
+              - generic [ref=e289]:
+                - generic "朗道理论物理学教程 第一卷 力学(第五版)【带书签】" [ref=e290]:
+                  - generic "朗道理论物理学教程 第一卷 力学(第五版)【带书签】" [ref=e291]:
+                    - generic [ref=e292]:
+                      - generic [ref=e297]: 朗道理论物理学教程 第一卷 力学(第五版)【带书签】
+                      - generic [ref=e298]: Л. Д. 朗道, Е. М. 栗弗席兹 著, 李俊峰, 鞠国兴 译校
+                    - img [ref=e302]
+                    - generic:
+                      - generic: Downloaded
+                - generic "场论" [ref=e303]:
+                  - generic "场论" [ref=e304]:
+                    - generic [ref=e305]:
+                      - generic [ref=e310]: 场论
+                      - generic [ref=e311]: Л.Д.朗道 (L. D. Landau), Е.М.栗弗席兹(E. M. Lifshitz)
+                    - img [ref=e315]
+                    - generic:
+                      - generic: Downloaded
+                - generic "朗道理论物理学教程 第八卷 连续介质电动力学（第四版）" [ref=e316]:
+                  - generic "朗道理论物理学教程 第八卷 连续介质电动力学（第四版）" [ref=e317]:
+                    - generic [ref=e318]:
+                      - generic [ref=e323]: 朗道理论物理学教程 第八卷 连续介质电动力学（第四版）
+                      - generic [ref=e324]: Л. Д. 朗道, Е. М. 栗弗席兹 著,刘寄星,周奇 译
+                    - img [ref=e328]
+                    - generic:
+                      - generic: Downloaded
+                - 'generic "力学: 理论物理学教程 第一卷" [ref=e329]':
+                  - 'generic "力学: 理论物理学教程 第一卷" [ref=e330]':
+                    - generic [ref=e331]:
+                      - generic [ref=e336]: "力学: 理论物理学教程 第一卷"
+                      - generic [ref=e337]: П.Д.朗道; Е.М.栗弗席兹
+                    - img [ref=e341]
+                    - generic:
+                      - generic: Downloaded
+                - generic "统计物理学II 凝聚态理论(第四版)" [ref=e342]:
+                  - generic "统计物理学II 凝聚态理论(第四版)" [ref=e343]:
+                    - generic [ref=e344]:
+                      - generic [ref=e349]: 统计物理学II 凝聚态理论(第四版)
+                      - generic [ref=e350]: (俄)E.M.粟弗席兹, (俄)л.п.皮塔耶夫斯基 著, 王锡绂 译
+                    - img [ref=e354]
+                    - generic:
+                      - generic: Downloaded
+                - generic "理论物理学教程5-统计物理学 1 原书第5版" [ref=e355]:
+                  - generic "理论物理学教程5-统计物理学 1 原书第5版" [ref=e356]:
+                    - generic [ref=e357]:
+                      - generic [ref=e362]: 理论物理学教程5-统计物理学 1 原书第5版
+                      - generic [ref=e363]: 朗道，栗弗席兹
+                    - img [ref=e367]
+                    - generic:
+                      - generic: Downloaded
+                - generic "朗道理论物理教程（卷4）量子电动力学" [ref=e368]:
+                  - generic "朗道理论物理教程（卷4）量子电动力学" [ref=e369]:
+                    - generic [ref=e370]:
+                      - generic [ref=e375]: 朗道理论物理教程（卷4）量子电动力学
+                      - generic [ref=e376]: 别列斯捷茨基, 栗弗席兹, 皮塔耶夫斯基
+                    - img [ref=e380]
+                    - generic:
+                      - generic: Downloaded
+                - generic "统计物理学 I(Statistical Physics, Part 1)" [ref=e381]:
+                  - generic "统计物理学 I(Statistical Physics, Part 1)" [ref=e382]:
+                    - generic [ref=e383]:
+                      - generic [ref=e388]: 统计物理学 I(Statistical Physics, Part 1)
+                      - generic [ref=e389]: 列夫·达维多维奇·朗道 (作者),‎ E.M.栗弗席兹 (作者),‎ 郑伟谋 (注释 解说词),‎ 束仁贵 (译者),‎ 束莼 (译者)
+                    - img [ref=e391]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e392]:
+                  - generic [ref=e393]: + 228
+                  - generic [ref=e394]: Books
+              - list [ref=e395]:
+                - listitem [ref=e396]
+                - listitem [ref=e397]
+                - listitem [ref=e398]
+                - listitem [ref=e399]
+                - listitem [ref=e400]
+                - listitem [ref=e401]
+                - listitem [ref=e402]
+                - listitem [ref=e403]
+              - img [ref=e404]
+            - generic [ref=e407]: 物理
+          - link "托洛茨基叛国集团案、布哈林叛国集团案、贝利亚叛国集团案资料选辑 中国人民大学马克思列宁主义教研室编辑 Downloaded 中国四大家族 陈伯达 Downloaded 历史科学中两条道路的斗争 人民出版社编辑部 Downloaded 关于国际共产主义运动总路线的论战 中共中央 Downloaded 鸦片战争前中英通商史 格林堡, 康成 Downloaded 剑术练习 中国体育运动委员会运动司武术科; 中華傳統文化, 武術功夫, 古聖先賢 Downloaded 中国海关与庚子赔款 中国近代史资料丛刊编辑委员会主编 Downloaded 为什么资本家发财而工人贫穷 资本主义积累的一般规律 （苏）捷尔诺莫尔吉克（Д.Черномордик）著；孙本义，陈宗亮译 Downloaded + 992 Books 1980年前的书籍1" [ref=e409] [cursor=pointer]:
+            - /url: /booklist/2665251/c84be2/1980%E5%B9%B4%E5%89%8D%E7%9A%84%E4%B9%A6%E7%B1%8D1.html
+            - generic [ref=e410]:
+              - generic [ref=e411]:
+                - generic "托洛茨基叛国集团案、布哈林叛国集团案、贝利亚叛国集团案资料选辑" [ref=e412]:
+                  - generic "托洛茨基叛国集团案、布哈林叛国集团案、贝利亚叛国集团案资料选辑" [ref=e413]:
+                    - generic [ref=e414]:
+                      - generic [ref=e419]: 托洛茨基叛国集团案、布哈林叛国集团案、贝利亚叛国集团案资料选辑
+                      - generic [ref=e420]: 中国人民大学马克思列宁主义教研室编辑
+                    - img [ref=e424]
+                    - generic:
+                      - generic: Downloaded
+                - generic "中国四大家族" [ref=e425]:
+                  - generic "中国四大家族" [ref=e426]:
+                    - generic [ref=e427]:
+                      - generic [ref=e432]: 中国四大家族
+                      - generic [ref=e433]: 陈伯达
+                    - img [ref=e437]
+                    - generic:
+                      - generic: Downloaded
+                - generic "历史科学中两条道路的斗争" [ref=e438]:
+                  - generic "历史科学中两条道路的斗争" [ref=e439]:
+                    - generic [ref=e440]:
+                      - generic [ref=e445]: 历史科学中两条道路的斗争
+                      - generic [ref=e446]: 人民出版社编辑部
+                    - img [ref=e450]
+                    - generic:
+                      - generic: Downloaded
+                - generic "关于国际共产主义运动总路线的论战" [ref=e451]:
+                  - generic "关于国际共产主义运动总路线的论战" [ref=e452]:
+                    - generic [ref=e453]:
+                      - generic [ref=e458]: 关于国际共产主义运动总路线的论战
+                      - generic [ref=e459]: 中共中央
+                    - img [ref=e463]
+                    - generic:
+                      - generic: Downloaded
+                - generic "鸦片战争前中英通商史" [ref=e464]:
+                  - generic "鸦片战争前中英通商史" [ref=e465]:
+                    - generic [ref=e466]:
+                      - generic [ref=e471]: 鸦片战争前中英通商史
+                      - generic [ref=e472]: 格林堡, 康成
+                    - img [ref=e476]
+                    - generic:
+                      - generic: Downloaded
+                - generic "剑术练习" [ref=e477]:
+                  - generic "剑术练习" [ref=e478]:
+                    - generic [ref=e479]:
+                      - generic [ref=e484]: 剑术练习
+                      - generic [ref=e485]: 中国体育运动委员会运动司武术科; 中華傳統文化, 武術功夫, 古聖先賢
+                    - img [ref=e489]
+                    - generic:
+                      - generic: Downloaded
+                - generic "中国海关与庚子赔款" [ref=e490]:
+                  - generic "中国海关与庚子赔款" [ref=e491]:
+                    - generic [ref=e492]:
+                      - generic [ref=e497]: 中国海关与庚子赔款
+                      - generic [ref=e498]: 中国近代史资料丛刊编辑委员会主编
+                    - img [ref=e502]
+                    - generic:
+                      - generic: Downloaded
+                - generic "为什么资本家发财而工人贫穷 资本主义积累的一般规律" [ref=e503]:
+                  - generic "为什么资本家发财而工人贫穷 资本主义积累的一般规律" [ref=e504]:
+                    - generic [ref=e505]:
+                      - generic [ref=e510]: 为什么资本家发财而工人贫穷 资本主义积累的一般规律
+                      - generic [ref=e511]: （苏）捷尔诺莫尔吉克（Д.Черномордик）著；孙本义，陈宗亮译
+                    - img [ref=e515]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e516]:
+                  - generic [ref=e517]: + 992
+                  - generic [ref=e518]: Books
+              - list [ref=e519]:
+                - listitem [ref=e520]
+                - listitem [ref=e521]
+                - listitem [ref=e522]
+                - listitem [ref=e523]
+                - listitem [ref=e524]
+                - listitem [ref=e525]
+                - listitem [ref=e526]
+                - listitem [ref=e527]
+              - img [ref=e528]
+            - generic [ref=e531]: 1980年前的书籍1
+          - link "贝雷：油脂化学与工艺学 第5版 第4卷 Y.H.Hui，译：徐生庚，裘爱泳 Downloaded 贝雷：油脂化学与工艺学 第5版 第1卷 Y.H.Hui，译：徐生庚，裘爱泳 Downloaded 贝雷：油脂化学与工艺学 第5版 第5卷 Y.H.Hui，译：徐生庚，裘爱泳 Downloaded 贝雷：油脂化学与工艺学 第5版 第2卷 Y.H.Hui，译：徐生庚，裘爱泳 Downloaded 贝雷：油脂化学与工艺学 第5版 第3卷 Y.H.Hui，译：徐生庚，裘爱泳 Downloaded 锂离子电池制造工艺原理与应用 杨绍斌 梁正 Downloaded 烧结球团理论与工艺 张汉泉 Downloaded 制药设备与车间设计 郭永学 Downloaded + 257 Books 化工制药" [ref=e533] [cursor=pointer]:
+            - /url: /booklist/1276650/faf729/%E5%8C%96%E5%B7%A5%E5%88%B6%E8%8D%AF.html
+            - generic [ref=e534]:
+              - generic [ref=e535]:
+                - generic "贝雷：油脂化学与工艺学 第5版 第4卷" [ref=e536]:
+                  - generic "贝雷：油脂化学与工艺学 第5版 第4卷" [ref=e537]:
+                    - generic [ref=e538]:
+                      - generic [ref=e543]: 贝雷：油脂化学与工艺学 第5版 第4卷
+                      - generic [ref=e544]: Y.H.Hui，译：徐生庚，裘爱泳
+                    - img [ref=e548]
+                    - generic:
+                      - generic: Downloaded
+                - generic "贝雷：油脂化学与工艺学 第5版 第1卷" [ref=e549]:
+                  - generic "贝雷：油脂化学与工艺学 第5版 第1卷" [ref=e550]:
+                    - generic [ref=e551]:
+                      - generic [ref=e556]: 贝雷：油脂化学与工艺学 第5版 第1卷
+                      - generic [ref=e557]: Y.H.Hui，译：徐生庚，裘爱泳
+                    - img [ref=e561]
+                    - generic:
+                      - generic: Downloaded
+                - generic "贝雷：油脂化学与工艺学 第5版 第5卷" [ref=e562]:
+                  - generic "贝雷：油脂化学与工艺学 第5版 第5卷" [ref=e563]:
+                    - generic [ref=e564]:
+                      - generic [ref=e569]: 贝雷：油脂化学与工艺学 第5版 第5卷
+                      - generic [ref=e570]: Y.H.Hui，译：徐生庚，裘爱泳
+                    - img [ref=e574]
+                    - generic:
+                      - generic: Downloaded
+                - generic "贝雷：油脂化学与工艺学 第5版 第2卷" [ref=e575]:
+                  - generic "贝雷：油脂化学与工艺学 第5版 第2卷" [ref=e576]:
+                    - generic [ref=e577]:
+                      - generic [ref=e582]: 贝雷：油脂化学与工艺学 第5版 第2卷
+                      - generic [ref=e583]: Y.H.Hui，译：徐生庚，裘爱泳
+                    - img [ref=e587]
+                    - generic:
+                      - generic: Downloaded
+                - generic "贝雷：油脂化学与工艺学 第5版 第3卷" [ref=e588]:
+                  - generic "贝雷：油脂化学与工艺学 第5版 第3卷" [ref=e589]:
+                    - generic [ref=e590]:
+                      - generic [ref=e595]: 贝雷：油脂化学与工艺学 第5版 第3卷
+                      - generic [ref=e596]: Y.H.Hui，译：徐生庚，裘爱泳
+                    - img [ref=e600]
+                    - generic:
+                      - generic: Downloaded
+                - generic "锂离子电池制造工艺原理与应用" [ref=e601]:
+                  - generic "锂离子电池制造工艺原理与应用" [ref=e602]:
+                    - generic [ref=e603]:
+                      - generic [ref=e608]: 锂离子电池制造工艺原理与应用
+                      - generic [ref=e609]: 杨绍斌 梁正
+                    - img [ref=e613]
+                    - generic:
+                      - generic: Downloaded
+                - generic "烧结球团理论与工艺" [ref=e614]:
+                  - generic "烧结球团理论与工艺" [ref=e615]:
+                    - generic [ref=e616]:
+                      - generic [ref=e621]: 烧结球团理论与工艺
+                      - generic [ref=e622]: 张汉泉
+                    - img [ref=e626]
+                    - generic:
+                      - generic: Downloaded
+                - generic "制药设备与车间设计" [ref=e627]:
+                  - generic "制药设备与车间设计" [ref=e628]:
+                    - generic [ref=e629]:
+                      - generic [ref=e634]: 制药设备与车间设计
+                      - generic [ref=e635]: 郭永学
+                    - img [ref=e637]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e638]:
+                  - generic [ref=e639]: + 257
+                  - generic [ref=e640]: Books
+              - list [ref=e641]:
+                - listitem [ref=e642]
+                - listitem [ref=e643]
+                - listitem [ref=e644]
+                - listitem [ref=e645]
+                - listitem [ref=e646]
+                - listitem [ref=e647]
+                - listitem [ref=e648]
+                - listitem [ref=e649]
+              - img [ref=e650]
+            - generic [ref=e653]: 化工制药
+          - link "创建系统学 钱学森著；于景元，涂元季编, 钱学森著 , 于景元, 涂元季编, 钱学森, 于景元, 涂元季, 钱学森, 1911-2009 Downloaded 论信息空间的大成智慧 思维科学、文学艺术与信息网络的交融 钱学森，戴汝为著, 钱学森, 戴汝为著, 钱学森, 戴汝为, 钱学森, (1911~) Downloaded 钱学森讲谈录 钱学森著, Qian Xuesen zhu, 钱学森, 1911-2009, 钱学森著, 钱学森 Downloaded 钱学森书信选 下 《钱学森书信选》编辑组, \\\"Qian Xuesen shu xin xuan\\\" bian ji zu, 《钱学森书信选》编辑组[编, 钱学森, 钱学森, 1911-2009, Ben She Downloaded 钱学森力学手稿 10 钱学森著, 钱学森, (1911-2009), 钱学森[著, 钱学森 Downloaded 钱学森文集 英文版 钱学森著, 钱学森, 1911-2009, Xuesen Qian, 钱学森著, 钱学森 Downloaded 钱学森力学手稿 7 钱学森著, 钱学森, (1911-2009), Qian Xuesen, 钱学森著, 钱学森 Downloaded 钱学森力学手稿 9 钱学森编, 钱学森, (1911-2009), 钱学森[著, 钱学森 Downloaded + 88 Books 钱学森" [ref=e655] [cursor=pointer]:
+            - /url: /booklist/2172841/8b38e9/%E9%92%B1%E5%AD%A6%E6%A3%AE.html
+            - generic [ref=e656]:
+              - generic [ref=e657]:
+                - generic "创建系统学" [ref=e658]:
+                  - generic "创建系统学" [ref=e659]:
+                    - generic [ref=e660]:
+                      - generic [ref=e665]: 创建系统学
+                      - generic [ref=e666]: 钱学森著；于景元，涂元季编, 钱学森著 , 于景元, 涂元季编, 钱学森, 于景元, 涂元季, 钱学森, 1911-2009
+                    - img [ref=e670]
+                    - generic:
+                      - generic: Downloaded
+                - generic "论信息空间的大成智慧 思维科学、文学艺术与信息网络的交融" [ref=e671]:
+                  - generic "论信息空间的大成智慧 思维科学、文学艺术与信息网络的交融" [ref=e672]:
+                    - generic [ref=e673]:
+                      - generic [ref=e678]: 论信息空间的大成智慧 思维科学、文学艺术与信息网络的交融
+                      - generic [ref=e679]: 钱学森，戴汝为著, 钱学森, 戴汝为著, 钱学森, 戴汝为, 钱学森, (1911~)
+                    - img [ref=e683]
+                    - generic:
+                      - generic: Downloaded
+                - generic "钱学森讲谈录" [ref=e684]:
+                  - generic "钱学森讲谈录" [ref=e685]:
+                    - generic [ref=e686]:
+                      - generic [ref=e691]: 钱学森讲谈录
+                      - generic [ref=e692]: 钱学森著, Qian Xuesen zhu, 钱学森, 1911-2009, 钱学森著, 钱学森
+                    - img [ref=e696]
+                    - generic:
+                      - generic: Downloaded
+                - generic "钱学森书信选 下" [ref=e697]:
+                  - generic "钱学森书信选 下" [ref=e698]:
+                    - generic [ref=e699]:
+                      - generic [ref=e704]: 钱学森书信选 下
+                      - generic [ref=e705]: 《钱学森书信选》编辑组, \"Qian Xuesen shu xin xuan\" bian ji zu, 《钱学森书信选》编辑组[编, 钱学森, 钱学森, 1911-2009, Ben She
+                    - img [ref=e709]
+                    - generic:
+                      - generic: Downloaded
+                - generic "钱学森力学手稿 10" [ref=e710]:
+                  - generic "钱学森力学手稿 10" [ref=e711]:
+                    - generic [ref=e712]:
+                      - generic [ref=e717]: 钱学森力学手稿 10
+                      - generic [ref=e718]: 钱学森著, 钱学森, (1911-2009), 钱学森[著, 钱学森
+                    - img [ref=e722]
+                    - generic:
+                      - generic: Downloaded
+                - generic "钱学森文集 英文版" [ref=e723]:
+                  - generic "钱学森文集 英文版" [ref=e724]:
+                    - generic [ref=e725]:
+                      - generic [ref=e730]: 钱学森文集 英文版
+                      - generic [ref=e731]: 钱学森著, 钱学森, 1911-2009, Xuesen Qian, 钱学森著, 钱学森
+                    - img [ref=e735]
+                    - generic:
+                      - generic: Downloaded
+                - generic "钱学森力学手稿 7" [ref=e736]:
+                  - generic "钱学森力学手稿 7" [ref=e737]:
+                    - generic [ref=e738]:
+                      - generic [ref=e743]: 钱学森力学手稿 7
+                      - generic [ref=e744]: 钱学森著, 钱学森, (1911-2009), Qian Xuesen, 钱学森著, 钱学森
+                    - img [ref=e748]
+                    - generic:
+                      - generic: Downloaded
+                - generic "钱学森力学手稿 9" [ref=e749]:
+                  - generic "钱学森力学手稿 9" [ref=e750]:
+                    - generic [ref=e751]:
+                      - generic [ref=e756]: 钱学森力学手稿 9
+                      - generic [ref=e757]: 钱学森编, 钱学森, (1911-2009), 钱学森[著, 钱学森
+                    - img [ref=e759]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e760]:
+                  - generic [ref=e761]: + 88
+                  - generic [ref=e762]: Books
+              - list [ref=e763]:
+                - listitem [ref=e764]
+                - listitem [ref=e765]
+                - listitem [ref=e766]
+                - listitem [ref=e767]
+                - listitem [ref=e768]
+                - listitem [ref=e769]
+                - listitem [ref=e770]
+                - listitem [ref=e771]
+              - img [ref=e772]
+            - generic [ref=e775]: 钱学森
+          - 'link "Linear System Theory and Design: International Fourth Edition (The Oxford Series in Electrical and Computer Engineering) Chen, Chi-Tsong Downloaded 现代控制系统: 国外计算机科学教材系列 Richard C.Dorf; Robert H.Bishop Downloaded 控制论：或关于在动物和机器中控制和通信的科学 [美]维纳 Downloaded 工程控制论（上、下册） 钱学森、宋健 Downloaded 工程控制论 Engineering Cybernetics 钱学森 Qian, Xuesen (Hsue Shen Tsien) Downloaded 钱学森思维科学思想 卢明森 Downloaded 论人体科学与现代科技 钱学森 Downloaded 工程控制论(新世纪版) 钱学森 Downloaded + 11 Books 控制" [ref=e777] [cursor=pointer]':
+            - /url: /booklist/253741/2e491f/%E6%8E%A7%E5%88%B6.html
+            - generic [ref=e778]:
+              - generic [ref=e779]:
+                - 'generic "Linear System Theory and Design: International Fourth Edition (The Oxford Series in Electrical and Computer Engineering)" [ref=e780]':
+                  - 'generic "Linear System Theory and Design: International Fourth Edition (The Oxford Series in Electrical and Computer Engineering)" [ref=e781]':
+                    - generic [ref=e782]:
+                      - generic [ref=e787]: "Linear System Theory and Design: International Fourth Edition (The Oxford Series in Electrical and Computer Engineering)"
+                      - generic [ref=e788]: Chen, Chi-Tsong
+                    - img [ref=e792]
+                    - generic:
+                      - generic: Downloaded
+                - 'generic "现代控制系统: 国外计算机科学教材系列" [ref=e793]':
+                  - 'generic "现代控制系统: 国外计算机科学教材系列" [ref=e794]':
+                    - generic [ref=e795]:
+                      - generic [ref=e800]: "现代控制系统: 国外计算机科学教材系列"
+                      - generic [ref=e801]: Richard C.Dorf; Robert H.Bishop
+                    - img [ref=e805]
+                    - generic:
+                      - generic: Downloaded
+                - generic "控制论：或关于在动物和机器中控制和通信的科学" [ref=e806]:
+                  - generic "控制论：或关于在动物和机器中控制和通信的科学" [ref=e807]:
+                    - generic [ref=e808]:
+                      - generic [ref=e813]: 控制论：或关于在动物和机器中控制和通信的科学
+                      - generic [ref=e814]: "[美]维纳"
+                    - img [ref=e818]
+                    - generic:
+                      - generic: Downloaded
+                - generic "工程控制论（上、下册）" [ref=e819]:
+                  - generic "工程控制论（上、下册）" [ref=e820]:
+                    - generic [ref=e821]:
+                      - generic [ref=e826]: 工程控制论（上、下册）
+                      - generic [ref=e827]: 钱学森、宋健
+                    - img [ref=e831]
+                    - generic:
+                      - generic: Downloaded
+                - generic "工程控制论 Engineering Cybernetics" [ref=e832]:
+                  - generic "工程控制论 Engineering Cybernetics" [ref=e833]:
+                    - generic [ref=e834]:
+                      - generic [ref=e839]: 工程控制论 Engineering Cybernetics
+                      - generic [ref=e840]: 钱学森 Qian, Xuesen (Hsue Shen Tsien)
+                    - img [ref=e844]
+                    - generic:
+                      - generic: Downloaded
+                - generic "钱学森思维科学思想" [ref=e845]:
+                  - generic "钱学森思维科学思想" [ref=e846]:
+                    - generic [ref=e847]:
+                      - generic [ref=e852]: 钱学森思维科学思想
+                      - generic [ref=e853]: 卢明森
+                    - img [ref=e857]
+                    - generic:
+                      - generic: Downloaded
+                - generic "论人体科学与现代科技" [ref=e858]:
+                  - generic "论人体科学与现代科技" [ref=e859]:
+                    - generic [ref=e860]:
+                      - generic [ref=e865]: 论人体科学与现代科技
+                      - generic [ref=e866]: 钱学森
+                    - img [ref=e870]
+                    - generic:
+                      - generic: Downloaded
+                - generic "工程控制论(新世纪版)" [ref=e871]:
+                  - generic "工程控制论(新世纪版)" [ref=e872]:
+                    - generic [ref=e873]:
+                      - generic [ref=e878]: 工程控制论(新世纪版)
+                      - generic [ref=e879]: 钱学森
+                    - img [ref=e883]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e884]:
+                  - generic [ref=e885]: + 11
+                  - generic [ref=e886]: Books
+              - list [ref=e887]:
+                - listitem [ref=e888]
+                - listitem [ref=e889]
+                - listitem [ref=e890]
+                - listitem [ref=e891]
+                - listitem [ref=e892]
+                - listitem [ref=e893]
+                - listitem [ref=e894]
+                - listitem [ref=e895]
+              - img [ref=e896]
+            - generic [ref=e899]: 控制
+          - link "腹语术 夏宇 Downloaded 几乎消失的偷闲艺术 [加拿大] 达尼·拉费里埃 Downloaded 西门子PLC、变频器、触摸屏工程应用及故障诊断.pdf 向哓汉 Downloaded 触摸屏技术与应用.pdf 越石健司,黑沢理 Downloaded 低压电动机控制电路与实际接线详解 黄北刚 编著 Downloaded PLC与触摸屏、变频器、组态软件应用一本通 韩相争 Downloaded 核电厂辐射防护 中国核能电力股份有限公司 Downloaded 亚细亚大观.第9至12辑.总16辑 亚细亚写真大观社编 Downloaded + 992 Books 2025-1" [ref=e901] [cursor=pointer]:
+            - /url: /booklist/1864661/c7caab/20251.html
+            - generic [ref=e902]:
+              - generic [ref=e903]:
+                - generic "腹语术" [ref=e904]:
+                  - generic "腹语术" [ref=e905]:
+                    - generic [ref=e906]:
+                      - generic [ref=e911]: 腹语术
+                      - generic [ref=e912]: 夏宇
+                    - img [ref=e916]
+                    - generic:
+                      - generic: Downloaded
+                - generic "几乎消失的偷闲艺术" [ref=e917]:
+                  - generic "几乎消失的偷闲艺术" [ref=e918]:
+                    - generic [ref=e919]:
+                      - generic [ref=e924]: 几乎消失的偷闲艺术
+                      - generic [ref=e925]: "[加拿大] 达尼·拉费里埃"
+                    - img [ref=e929]
+                    - generic:
+                      - generic: Downloaded
+                - generic "西门子PLC、变频器、触摸屏工程应用及故障诊断.pdf" [ref=e930]:
+                  - generic "西门子PLC、变频器、触摸屏工程应用及故障诊断.pdf" [ref=e931]:
+                    - generic [ref=e932]:
+                      - generic [ref=e937]: 西门子PLC、变频器、触摸屏工程应用及故障诊断.pdf
+                      - generic [ref=e938]: 向哓汉
+                    - img [ref=e942]
+                    - generic:
+                      - generic: Downloaded
+                - generic "触摸屏技术与应用.pdf" [ref=e943]:
+                  - generic "触摸屏技术与应用.pdf" [ref=e944]:
+                    - generic [ref=e945]:
+                      - generic [ref=e950]: 触摸屏技术与应用.pdf
+                      - generic [ref=e951]: 越石健司,黑沢理
+                    - img [ref=e955]
+                    - generic:
+                      - generic: Downloaded
+                - generic "低压电动机控制电路与实际接线详解" [ref=e956]:
+                  - generic "低压电动机控制电路与实际接线详解" [ref=e957]:
+                    - generic [ref=e958]:
+                      - generic [ref=e963]: 低压电动机控制电路与实际接线详解
+                      - generic [ref=e964]: 黄北刚 编著
+                    - img [ref=e968]
+                    - generic:
+                      - generic: Downloaded
+                - generic "PLC与触摸屏、变频器、组态软件应用一本通" [ref=e969]:
+                  - generic "PLC与触摸屏、变频器、组态软件应用一本通" [ref=e970]:
+                    - generic [ref=e971]:
+                      - generic [ref=e976]: PLC与触摸屏、变频器、组态软件应用一本通
+                      - generic [ref=e977]: 韩相争
+                    - img [ref=e981]
+                    - generic:
+                      - generic: Downloaded
+                - generic "核电厂辐射防护" [ref=e982]:
+                  - generic "核电厂辐射防护" [ref=e983]:
+                    - generic [ref=e984]:
+                      - generic [ref=e989]: 核电厂辐射防护
+                      - generic [ref=e990]: 中国核能电力股份有限公司
+                    - img [ref=e994]
+                    - generic:
+                      - generic: Downloaded
+                - generic "亚细亚大观.第9至12辑.总16辑" [ref=e995]:
+                  - generic "亚细亚大观.第9至12辑.总16辑" [ref=e996]:
+                    - generic [ref=e997]:
+                      - generic [ref=e1002]: 亚细亚大观.第9至12辑.总16辑
+                      - generic [ref=e1003]: 亚细亚写真大观社编
+                    - img [ref=e1007]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e1008]:
+                  - generic [ref=e1009]: + 992
+                  - generic [ref=e1010]: Books
+              - list [ref=e1011]:
+                - listitem [ref=e1012]
+                - listitem [ref=e1013]
+                - listitem [ref=e1014]
+                - listitem [ref=e1015]
+                - listitem [ref=e1016]
+                - listitem [ref=e1017]
+                - listitem [ref=e1018]
+                - listitem [ref=e1019]
+              - img [ref=e1020]
+            - generic [ref=e1023]: 2025-1
+          - link "万事不求人 生活百科篇 王书良等编 Downloaded 十万个为什么(1) 上海市出版革命组 Downloaded 炸药与火药 （苏）布德尼柯夫（М.А.Будников）等著；夏禹昌等译 Downloaded 乳化炸药 汪旭光著 Downloaded 浓硝酸制造 （苏）福季尼奇（И.Д.Хотинич）著；张坚，张祖禹译 Downloaded 副业生产手册 《副业生产手册》写组编 Downloaded 认知：人行为背后的思维与智能 赫伯特 · 西蒙 (Herbert A. Simon) 著 ; 荆其诚, 张厚粲 译 Downloaded 弗洛伊德心理学（套装全4册） 西格蒙德·弗洛伊德 Downloaded + 288 Books 必看书" [ref=e1025] [cursor=pointer]:
+            - /url: /booklist/1346429/280b20/%E5%BF%85%E7%9C%8B%E4%B9%A6.html
+            - generic [ref=e1026]:
+              - generic [ref=e1027]:
+                - generic "万事不求人 生活百科篇" [ref=e1028]:
+                  - generic "万事不求人 生活百科篇" [ref=e1029]:
+                    - generic [ref=e1030]:
+                      - generic [ref=e1035]: 万事不求人 生活百科篇
+                      - generic [ref=e1036]: 王书良等编
+                    - img [ref=e1040]
+                    - generic:
+                      - generic: Downloaded
+                - generic "十万个为什么(1)" [ref=e1041]:
+                  - generic "十万个为什么(1)" [ref=e1042]:
+                    - generic [ref=e1043]:
+                      - generic [ref=e1048]: 十万个为什么(1)
+                      - generic [ref=e1049]: 上海市出版革命组
+                    - img [ref=e1053]
+                    - generic:
+                      - generic: Downloaded
+                - generic "炸药与火药" [ref=e1054]:
+                  - generic "炸药与火药" [ref=e1055]:
+                    - generic [ref=e1056]:
+                      - generic [ref=e1061]: 炸药与火药
+                      - generic [ref=e1062]: （苏）布德尼柯夫（М.А.Будников）等著；夏禹昌等译
+                    - img [ref=e1066]
+                    - generic:
+                      - generic: Downloaded
+                - generic "乳化炸药" [ref=e1067]:
+                  - generic "乳化炸药" [ref=e1068]:
+                    - generic [ref=e1069]:
+                      - generic [ref=e1074]: 乳化炸药
+                      - generic [ref=e1075]: 汪旭光著
+                    - img [ref=e1079]
+                    - generic:
+                      - generic: Downloaded
+                - generic "浓硝酸制造" [ref=e1080]:
+                  - generic "浓硝酸制造" [ref=e1081]:
+                    - generic [ref=e1082]:
+                      - generic [ref=e1087]: 浓硝酸制造
+                      - generic [ref=e1088]: （苏）福季尼奇（И.Д.Хотинич）著；张坚，张祖禹译
+                    - img [ref=e1092]
+                    - generic:
+                      - generic: Downloaded
+                - generic "副业生产手册" [ref=e1093]:
+                  - generic "副业生产手册" [ref=e1094]:
+                    - generic [ref=e1095]:
+                      - generic [ref=e1100]: 副业生产手册
+                      - generic [ref=e1101]: 《副业生产手册》写组编
+                    - img [ref=e1105]
+                    - generic:
+                      - generic: Downloaded
+                - generic "认知：人行为背后的思维与智能" [ref=e1106]:
+                  - generic "认知：人行为背后的思维与智能" [ref=e1107]:
+                    - generic [ref=e1108]:
+                      - generic [ref=e1113]: 认知：人行为背后的思维与智能
+                      - generic [ref=e1114]: 赫伯特 · 西蒙 (Herbert A. Simon) 著 ; 荆其诚, 张厚粲 译
+                    - img [ref=e1118]
+                    - generic:
+                      - generic: Downloaded
+                - generic "弗洛伊德心理学（套装全4册）" [ref=e1119]:
+                  - generic "弗洛伊德心理学（套装全4册）" [ref=e1120]:
+                    - generic [ref=e1121]:
+                      - generic [ref=e1126]: 弗洛伊德心理学（套装全4册）
+                      - generic [ref=e1127]: 西格蒙德·弗洛伊德
+                    - img [ref=e1131]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e1132]:
+                  - generic [ref=e1133]: + 288
+                  - generic [ref=e1134]: Books
+              - list [ref=e1135]:
+                - listitem [ref=e1136]
+                - listitem [ref=e1137]
+                - listitem [ref=e1138]
+                - listitem [ref=e1139]
+                - listitem [ref=e1140]
+                - listitem [ref=e1141]
+                - listitem [ref=e1142]
+                - listitem [ref=e1143]
+              - img [ref=e1144]
+            - generic [ref=e1147]: 必看书
+          - 'link "古雅典的民主与法治 爱德华·M.哈里斯 Downloaded 拳王格斗:爆炸式重拳与侵略性防守 Championship Fighting: Explosive Punching and Aggressive Defense 杰克·邓普西 (Jack Dempsey) Downloaded 像法律人一樣思考:法學院長寫給年輕人的法學思辨與論理方法 威廉・包沃斯(William Powers Jr.) Downloaded 世界還能變好嗎? : 劍橋大學教授談12位時代思想巨人, 開展平等、正義與革命的關鍵思考 = The History of Ideas: Equality, Justice and Revolution 大衛 · 朗西曼 (David Runciman) 著 ; 陳禹仲 譯 Downloaded 暮日耀光:张居正与明代中后期政局(精装珍藏版) 韦庆远 Downloaded 继承与叛逆:现代科学为何出现于西方(整理) 陈方正 Downloaded 我们的思维方式:概念整合与心智的隐匿复杂性 (法)吉勒·福柯尼耶,(美)马克·特纳 Downloaded 新华大字典 苏培成, 张联荣主编, 商务印书馆辞书研究中心编 Downloaded + 836 Books 子非鱼非我" [ref=e1149] [cursor=pointer]':
+            - /url: /booklist/2958838/408f45/%E5%AD%90%E9%9D%9E%E9%B1%BC%E9%9D%9E%E6%88%91.html
+            - generic [ref=e1150]:
+              - generic [ref=e1151]:
+                - generic "古雅典的民主与法治" [ref=e1152]:
+                  - generic "古雅典的民主与法治" [ref=e1153]:
+                    - generic [ref=e1154]:
+                      - generic [ref=e1159]: 古雅典的民主与法治
+                      - generic [ref=e1160]: 爱德华·M.哈里斯
+                    - img [ref=e1164]
+                    - generic:
+                      - generic: Downloaded
+                - 'generic "拳王格斗:爆炸式重拳与侵略性防守 Championship Fighting: Explosive Punching and Aggressive Defense" [ref=e1165]':
+                  - 'generic "拳王格斗:爆炸式重拳与侵略性防守 Championship Fighting: Explosive Punching and Aggressive Defense" [ref=e1166]':
+                    - generic [ref=e1167]:
+                      - generic [ref=e1172]: "拳王格斗:爆炸式重拳与侵略性防守 Championship Fighting: Explosive Punching and Aggressive Defense"
+                      - generic [ref=e1173]: 杰克·邓普西 (Jack Dempsey)
+                    - img [ref=e1177]
+                    - generic:
+                      - generic: Downloaded
+                - generic "像法律人一樣思考:法學院長寫給年輕人的法學思辨與論理方法" [ref=e1178]:
+                  - generic "像法律人一樣思考:法學院長寫給年輕人的法學思辨與論理方法" [ref=e1179]:
+                    - generic [ref=e1180]:
+                      - generic [ref=e1185]: 像法律人一樣思考:法學院長寫給年輕人的法學思辨與論理方法
+                      - generic [ref=e1186]: 威廉・包沃斯(William Powers Jr.)
+                    - img [ref=e1190]
+                    - generic:
+                      - generic: Downloaded
+                - 'generic "世界還能變好嗎? : 劍橋大學教授談12位時代思想巨人, 開展平等、正義與革命的關鍵思考 = The History of Ideas: Equality, Justice and Revolution" [ref=e1191]':
+                  - 'generic "世界還能變好嗎? : 劍橋大學教授談12位時代思想巨人, 開展平等、正義與革命的關鍵思考 = The History of Ideas: Equality, Justice and Revolution" [ref=e1192]':
+                    - generic [ref=e1193]:
+                      - generic [ref=e1198]: "世界還能變好嗎? : 劍橋大學教授談12位時代思想巨人, 開展平等、正義與革命的關鍵思考 = The History of Ideas: Equality, Justice and Revolution"
+                      - generic [ref=e1199]: 大衛 · 朗西曼 (David Runciman) 著 ; 陳禹仲 譯
+                    - img [ref=e1203]
+                    - generic:
+                      - generic: Downloaded
+                - generic "暮日耀光:张居正与明代中后期政局(精装珍藏版)" [ref=e1204]:
+                  - generic "暮日耀光:张居正与明代中后期政局(精装珍藏版)" [ref=e1205]:
+                    - generic [ref=e1206]:
+                      - generic [ref=e1211]: 暮日耀光:张居正与明代中后期政局(精装珍藏版)
+                      - generic [ref=e1212]: 韦庆远
+                    - img [ref=e1216]
+                    - generic:
+                      - generic: Downloaded
+                - generic "继承与叛逆:现代科学为何出现于西方(整理)" [ref=e1217]:
+                  - generic "继承与叛逆:现代科学为何出现于西方(整理)" [ref=e1218]:
+                    - generic [ref=e1219]:
+                      - generic [ref=e1224]: 继承与叛逆:现代科学为何出现于西方(整理)
+                      - generic [ref=e1225]: 陈方正
+                    - img [ref=e1229]
+                    - generic:
+                      - generic: Downloaded
+                - generic "我们的思维方式:概念整合与心智的隐匿复杂性" [ref=e1230]:
+                  - generic "我们的思维方式:概念整合与心智的隐匿复杂性" [ref=e1231]:
+                    - generic [ref=e1232]:
+                      - generic [ref=e1237]: 我们的思维方式:概念整合与心智的隐匿复杂性
+                      - generic [ref=e1238]: (法)吉勒·福柯尼耶,(美)马克·特纳
+                    - img [ref=e1242]
+                    - generic:
+                      - generic: Downloaded
+                - generic "新华大字典" [ref=e1243]:
+                  - generic "新华大字典" [ref=e1244]:
+                    - generic [ref=e1245]:
+                      - generic [ref=e1250]: 新华大字典
+                      - generic [ref=e1251]: 苏培成, 张联荣主编, 商务印书馆辞书研究中心编
+                    - img [ref=e1255]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e1256]:
+                  - generic [ref=e1257]: + 836
+                  - generic [ref=e1258]: Books
+              - list [ref=e1259]:
+                - listitem [ref=e1260]
+                - listitem [ref=e1261]
+                - listitem [ref=e1262]
+                - listitem [ref=e1263]
+                - listitem [ref=e1264]
+                - listitem [ref=e1265]
+                - listitem [ref=e1266]
+                - listitem [ref=e1267]
+              - img [ref=e1268]
+            - generic [ref=e1271]: 子非鱼非我
+          - link "超级智能 路线图、危险性与应对策略 （英）尼克·波斯特洛姆（NICKBOSTROM）著；张体伟，张玉青译, [ YING ] NI KE BO SI TE LUO MU, 波斯特洛姆 (Bostrom, Nick), Nick Bostrom Downloaded 危险!可怕的病毒杀手 谢小军著, 谢小军 (科普) Downloaded 危险化学品企业隐患排查治理 崔政斌，赵海波编著 Downloaded 危险废物处理技术 孙英杰等编 Downloaded 高效提问 建构批判性思维技能的七步法 （美）伊凡·汉耐尔（G.Ivan Hannel）著；黄洁华译, (美)伊凡·汉耐尔(G. Ivan Hannel)著 , 黄洁华译, 汉耐尔, 黄洁华, 伊凡・汉耐尔著 [and others] , 黃洁华译, Lee Hannel, Lee Hannel, 1971-, Lee Hannel, 黃潔華 Downloaded 批判性思维 罗楠著, 罗楠 (哲学) Downloaded 批判性思维：思考让你永远年轻（美）彼得·法乔恩 未知作者 Downloaded 心理学批判性思维 a unified skills approach （美）D. Alan Bensley著；李小平等译, (美)D. Alan Bensley著 , 李小平等译, 本斯利, 李小平 Downloaded + 992 Books 旧书2" [ref=e1273] [cursor=pointer]:
+            - /url: /booklist/2771670/2f883b/%E6%97%A7%E4%B9%A62.html
+            - generic [ref=e1274]:
+              - generic [ref=e1275]:
+                - generic "超级智能 路线图、危险性与应对策略" [ref=e1276]:
+                  - generic "超级智能 路线图、危险性与应对策略" [ref=e1277]:
+                    - generic [ref=e1278]:
+                      - generic [ref=e1283]: 超级智能 路线图、危险性与应对策略
+                      - generic [ref=e1284]: （英）尼克·波斯特洛姆（NICKBOSTROM）著；张体伟，张玉青译, [ YING ] NI KE BO SI TE LUO MU, 波斯特洛姆 (Bostrom, Nick), Nick Bostrom
+                    - img [ref=e1288]
+                    - generic:
+                      - generic: Downloaded
+                - generic "危险!可怕的病毒杀手" [ref=e1289]:
+                  - generic "危险!可怕的病毒杀手" [ref=e1290]:
+                    - generic [ref=e1291]:
+                      - generic [ref=e1296]: 危险!可怕的病毒杀手
+                      - generic [ref=e1297]: 谢小军著, 谢小军 (科普)
+                    - img [ref=e1301]
+                    - generic:
+                      - generic: Downloaded
+                - generic "危险化学品企业隐患排查治理" [ref=e1302]:
+                  - generic "危险化学品企业隐患排查治理" [ref=e1303]:
+                    - generic [ref=e1304]:
+                      - generic [ref=e1309]: 危险化学品企业隐患排查治理
+                      - generic [ref=e1310]: 崔政斌，赵海波编著
+                    - img [ref=e1314]
+                    - generic:
+                      - generic: Downloaded
+                - generic "危险废物处理技术" [ref=e1315]:
+                  - generic "危险废物处理技术" [ref=e1316]:
+                    - generic [ref=e1317]:
+                      - generic [ref=e1322]: 危险废物处理技术
+                      - generic [ref=e1323]: 孙英杰等编
+                    - img [ref=e1327]
+                    - generic:
+                      - generic: Downloaded
+                - generic "高效提问 建构批判性思维技能的七步法" [ref=e1328]:
+                  - generic "高效提问 建构批判性思维技能的七步法" [ref=e1329]:
+                    - generic [ref=e1330]:
+                      - generic [ref=e1335]: 高效提问 建构批判性思维技能的七步法
+                      - generic [ref=e1336]: （美）伊凡·汉耐尔（G.Ivan Hannel）著；黄洁华译, (美)伊凡·汉耐尔(G. Ivan Hannel)著 , 黄洁华译, 汉耐尔, 黄洁华, 伊凡・汉耐尔著 [and others] , 黃洁华译, Lee Hannel, Lee Hannel, 1971-, Lee Hannel, 黃潔華
+                    - img [ref=e1340]
+                    - generic:
+                      - generic: Downloaded
+                - generic "批判性思维" [ref=e1341]:
+                  - generic "批判性思维" [ref=e1342]:
+                    - generic [ref=e1343]:
+                      - generic [ref=e1348]: 批判性思维
+                      - generic [ref=e1349]: 罗楠著, 罗楠 (哲学)
+                    - img [ref=e1353]
+                    - generic:
+                      - generic: Downloaded
+                - generic "批判性思维：思考让你永远年轻（美）彼得·法乔恩" [ref=e1354]:
+                  - generic "批判性思维：思考让你永远年轻（美）彼得·法乔恩" [ref=e1355]:
+                    - generic [ref=e1356]:
+                      - generic [ref=e1361]: 批判性思维：思考让你永远年轻（美）彼得·法乔恩
+                      - generic [ref=e1362]: 未知作者
+                    - img [ref=e1366]
+                    - generic:
+                      - generic: Downloaded
+                - generic "心理学批判性思维 a unified skills approach" [ref=e1367]:
+                  - generic "心理学批判性思维 a unified skills approach" [ref=e1368]:
+                    - generic [ref=e1369]:
+                      - generic [ref=e1374]: 心理学批判性思维 a unified skills approach
+                      - generic [ref=e1375]: （美）D. Alan Bensley著；李小平等译, (美)D. Alan Bensley著 , 李小平等译, 本斯利, 李小平
+                    - img [ref=e1379]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e1380]:
+                  - generic [ref=e1381]: + 992
+                  - generic [ref=e1382]: Books
+              - list [ref=e1383]:
+                - listitem [ref=e1384]
+                - listitem [ref=e1385]
+                - listitem [ref=e1386]
+                - listitem [ref=e1387]
+                - listitem [ref=e1388]
+                - listitem [ref=e1389]
+                - listitem [ref=e1390]
+                - listitem [ref=e1391]
+              - img [ref=e1392]
+            - generic [ref=e1395]: 旧书2
+          - link "可计算性与数理逻辑 布勒斯，George S. Boolos Downloaded 数理逻辑 Junwei Yu (余俊伟), Xiaoyu Zhao (赵晓玉), Jiangjie Qiu (裘江杰), Liying Zhang (张立英) Downloaded 数理逻辑初步 莫绍揆 Downloaded 数理逻辑教程 莫绍揆 Downloaded 数理逻辑 A.G.汉密尔顿 朱水林译 Downloaded 数学极客 探索数字、逻辑、计算之美 Mark.C.Chu-Carroll Downloaded 数字逻辑与数字系统 李景宏 王永军 等编著 Downloaded 零基础轻松学修笔记本电脑 张新春,张新德 Downloaded + 73 Books 计算机类" [ref=e1397] [cursor=pointer]:
+            - /url: /booklist/1446826/6cacff/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB.html
+            - generic [ref=e1398]:
+              - generic [ref=e1399]:
+                - generic "可计算性与数理逻辑" [ref=e1400]:
+                  - generic "可计算性与数理逻辑" [ref=e1401]:
+                    - generic [ref=e1402]:
+                      - generic [ref=e1407]: 可计算性与数理逻辑
+                      - generic [ref=e1408]: 布勒斯，George S. Boolos
+                    - img [ref=e1412]
+                    - generic:
+                      - generic: Downloaded
+                - generic "数理逻辑" [ref=e1413]:
+                  - generic "数理逻辑" [ref=e1414]:
+                    - generic [ref=e1415]:
+                      - generic [ref=e1420]: 数理逻辑
+                      - generic [ref=e1421]: Junwei Yu (余俊伟), Xiaoyu Zhao (赵晓玉), Jiangjie Qiu (裘江杰), Liying Zhang (张立英)
+                    - img [ref=e1425]
+                    - generic:
+                      - generic: Downloaded
+                - generic "数理逻辑初步" [ref=e1426]:
+                  - generic "数理逻辑初步" [ref=e1427]:
+                    - generic [ref=e1428]:
+                      - generic [ref=e1433]: 数理逻辑初步
+                      - generic [ref=e1434]: 莫绍揆
+                    - img [ref=e1438]
+                    - generic:
+                      - generic: Downloaded
+                - generic "数理逻辑教程" [ref=e1439]:
+                  - generic "数理逻辑教程" [ref=e1440]:
+                    - generic [ref=e1441]:
+                      - generic [ref=e1446]: 数理逻辑教程
+                      - generic [ref=e1447]: 莫绍揆
+                    - img [ref=e1451]
+                    - generic:
+                      - generic: Downloaded
+                - generic "数理逻辑" [ref=e1452]:
+                  - generic "数理逻辑" [ref=e1453]:
+                    - generic [ref=e1454]:
+                      - generic [ref=e1459]: 数理逻辑
+                      - generic [ref=e1460]: A.G.汉密尔顿 朱水林译
+                    - img [ref=e1464]
+                    - generic:
+                      - generic: Downloaded
+                - generic "数学极客 探索数字、逻辑、计算之美" [ref=e1465]:
+                  - generic "数学极客 探索数字、逻辑、计算之美" [ref=e1466]:
+                    - generic [ref=e1467]:
+                      - generic [ref=e1472]: 数学极客 探索数字、逻辑、计算之美
+                      - generic [ref=e1473]: Mark.C.Chu-Carroll
+                    - img [ref=e1477]
+                    - generic:
+                      - generic: Downloaded
+                - generic "数字逻辑与数字系统" [ref=e1478]:
+                  - generic "数字逻辑与数字系统" [ref=e1479]:
+                    - generic [ref=e1480]:
+                      - generic [ref=e1485]: 数字逻辑与数字系统
+                      - generic [ref=e1486]: 李景宏 王永军 等编著
+                    - img [ref=e1490]
+                    - generic:
+                      - generic: Downloaded
+                - generic "零基础轻松学修笔记本电脑" [ref=e1491]:
+                  - generic "零基础轻松学修笔记本电脑" [ref=e1492]:
+                    - generic [ref=e1493]:
+                      - generic [ref=e1498]: 零基础轻松学修笔记本电脑
+                      - generic [ref=e1499]: 张新春,张新德
+                    - img [ref=e1503]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e1504]:
+                  - generic [ref=e1505]: + 73
+                  - generic [ref=e1506]: Books
+              - list [ref=e1507]:
+                - listitem [ref=e1508]
+                - listitem [ref=e1509]
+                - listitem [ref=e1510]
+                - listitem [ref=e1511]
+                - listitem [ref=e1512]
+                - listitem [ref=e1513]
+                - listitem [ref=e1514]
+                - listitem [ref=e1515]
+              - img [ref=e1516]
+            - generic [ref=e1519]: 计算机类
+          - link "Classical Mechanics, Third Edition Herbert Goldstein, Charles P. Poole, John Safko Downloaded Field Quantization Walter Greiner, Joachim Reinhardt, D.A. Bromley Downloaded Thermodynamics and Statistical Mechanics, Third Edition Walter Greiner, Ludwig Neise, Horst Stöcker Downloaded Quantum Electrodynamics Walter Greiner, Joachim Reinhardt Downloaded 量子力学概论 David J.Griffiths Downloaded 费恩曼物理学讲义（第3卷）：新千年版 R.P.Feynman Downloaded 费恩曼物理学讲义（第2卷）：新千年版 R.P.Feynman Downloaded 费恩曼物理学讲义（第1卷）：新千年版 R.P.Feynman Downloaded + 136 Books 物理/化学/生物/工程" [ref=e1521] [cursor=pointer]:
+            - /url: /booklist/1893485/90786a/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%E7%94%9F%E7%89%A9%E5%B7%A5%E7%A8%8B.html
+            - generic [ref=e1522]:
+              - generic [ref=e1523]:
+                - generic "Classical Mechanics, Third Edition" [ref=e1524]:
+                  - generic "Classical Mechanics, Third Edition" [ref=e1525]:
+                    - generic [ref=e1526]:
+                      - generic [ref=e1531]: Classical Mechanics, Third Edition
+                      - generic [ref=e1532]: Herbert Goldstein, Charles P. Poole, John Safko
+                    - img [ref=e1536]
+                    - generic:
+                      - generic: Downloaded
+                - generic "Field Quantization" [ref=e1537]:
+                  - generic "Field Quantization" [ref=e1538]:
+                    - generic [ref=e1539]:
+                      - generic [ref=e1544]: Field Quantization
+                      - generic [ref=e1545]: Walter Greiner, Joachim Reinhardt, D.A. Bromley
+                    - img [ref=e1549]
+                    - generic:
+                      - generic: Downloaded
+                - generic "Thermodynamics and Statistical Mechanics, Third Edition" [ref=e1550]:
+                  - generic "Thermodynamics and Statistical Mechanics, Third Edition" [ref=e1551]:
+                    - generic [ref=e1552]:
+                      - generic [ref=e1557]: Thermodynamics and Statistical Mechanics, Third Edition
+                      - generic [ref=e1558]: Walter Greiner, Ludwig Neise, Horst Stöcker
+                    - img [ref=e1562]
+                    - generic:
+                      - generic: Downloaded
+                - generic "Quantum Electrodynamics" [ref=e1563]:
+                  - generic "Quantum Electrodynamics" [ref=e1564]:
+                    - generic [ref=e1565]:
+                      - generic [ref=e1570]: Quantum Electrodynamics
+                      - generic [ref=e1571]: Walter Greiner, Joachim Reinhardt
+                    - img [ref=e1575]
+                    - generic:
+                      - generic: Downloaded
+                - generic "量子力学概论" [ref=e1576]:
+                  - generic "量子力学概论" [ref=e1577]:
+                    - generic [ref=e1578]:
+                      - generic [ref=e1583]: 量子力学概论
+                      - generic [ref=e1584]: David J.Griffiths
+                    - img [ref=e1588]
+                    - generic:
+                      - generic: Downloaded
+                - generic "费恩曼物理学讲义（第3卷）：新千年版" [ref=e1589]:
+                  - generic "费恩曼物理学讲义（第3卷）：新千年版" [ref=e1590]:
+                    - generic [ref=e1591]:
+                      - generic [ref=e1596]: 费恩曼物理学讲义（第3卷）：新千年版
+                      - generic [ref=e1597]: R.P.Feynman
+                    - img [ref=e1601]
+                    - generic:
+                      - generic: Downloaded
+                - generic "费恩曼物理学讲义（第2卷）：新千年版" [ref=e1602]:
+                  - generic "费恩曼物理学讲义（第2卷）：新千年版" [ref=e1603]:
+                    - generic [ref=e1604]:
+                      - generic [ref=e1609]: 费恩曼物理学讲义（第2卷）：新千年版
+                      - generic [ref=e1610]: R.P.Feynman
+                    - img [ref=e1614]
+                    - generic:
+                      - generic: Downloaded
+                - generic "费恩曼物理学讲义（第1卷）：新千年版" [ref=e1615]:
+                  - generic "费恩曼物理学讲义（第1卷）：新千年版" [ref=e1616]:
+                    - generic [ref=e1617]:
+                      - generic [ref=e1622]: 费恩曼物理学讲义（第1卷）：新千年版
+                      - generic [ref=e1623]: R.P.Feynman
+                    - img [ref=e1627]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e1628]:
+                  - generic [ref=e1629]: + 136
+                  - generic [ref=e1630]: Books
+              - list [ref=e1631]:
+                - listitem [ref=e1632]
+                - listitem [ref=e1633]
+                - listitem [ref=e1634]
+                - listitem [ref=e1635]
+                - listitem [ref=e1636]
+                - listitem [ref=e1637]
+                - listitem [ref=e1638]
+                - listitem [ref=e1639]
+              - img [ref=e1640]
+            - generic [ref=e1643]: 物理/化学/生物/工程
+          - link "论系统工程（新世纪版） 钱学森 Downloaded 工程控制论 Engineering Cybernetics 钱学森 Qian, Xuesen (Hsue Shen Tsien) Downloaded 科学的艺术与艺术的科学 钱学森 Downloaded 钱学森思维科学思想 卢明森 Downloaded 工程控制论(新世纪版) 钱学森 Downloaded 系统工程" [ref=e1645] [cursor=pointer]:
+            - /url: /booklist/1154747/f6e316/%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B.html
+            - generic [ref=e1646]:
+              - generic [ref=e1647]:
+                - generic "论系统工程（新世纪版）" [ref=e1648]:
+                  - generic "论系统工程（新世纪版）" [ref=e1649]:
+                    - generic [ref=e1650]:
+                      - generic [ref=e1655]: 论系统工程（新世纪版）
+                      - generic [ref=e1656]: 钱学森
+                    - img [ref=e1660]
+                    - generic:
+                      - generic: Downloaded
+                - generic "工程控制论 Engineering Cybernetics" [ref=e1661]:
+                  - generic "工程控制论 Engineering Cybernetics" [ref=e1662]:
+                    - generic [ref=e1663]:
+                      - generic [ref=e1668]: 工程控制论 Engineering Cybernetics
+                      - generic [ref=e1669]: 钱学森 Qian, Xuesen (Hsue Shen Tsien)
+                    - img [ref=e1673]
+                    - generic:
+                      - generic: Downloaded
+                - generic "科学的艺术与艺术的科学" [ref=e1674]:
+                  - generic "科学的艺术与艺术的科学" [ref=e1675]:
+                    - generic [ref=e1676]:
+                      - generic [ref=e1681]: 科学的艺术与艺术的科学
+                      - generic [ref=e1682]: 钱学森
+                    - img [ref=e1686]
+                    - generic:
+                      - generic: Downloaded
+                - generic "钱学森思维科学思想" [ref=e1687]:
+                  - generic "钱学森思维科学思想" [ref=e1688]:
+                    - generic [ref=e1689]:
+                      - generic [ref=e1694]: 钱学森思维科学思想
+                      - generic [ref=e1695]: 卢明森
+                    - img [ref=e1699]
+                    - generic:
+                      - generic: Downloaded
+                - generic "工程控制论(新世纪版)" [ref=e1700]:
+                  - generic "工程控制论(新世纪版)" [ref=e1701]:
+                    - generic [ref=e1702]:
+                      - generic [ref=e1707]: 工程控制论(新世纪版)
+                      - generic [ref=e1708]: 钱学森
+                    - img [ref=e1712]
+                    - generic:
+                      - generic: Downloaded
+              - list [ref=e1713]:
+                - listitem [ref=e1714]
+                - listitem [ref=e1715]
+                - listitem [ref=e1716]
+                - listitem [ref=e1717]
+                - listitem [ref=e1718]
+              - img [ref=e1719]
+            - generic [ref=e1722]: 系统工程
+          - link "上海：1842-2010，一座伟大城市的肖像 刘香成(Liu Heung Shing),凯伦·史密斯(Karen Smith) Downloaded 图片中国百年史(1894-1949年）上册 Столетие китайской истории в фотографиях. Том первый (1894-1949) 张筱强（主编） Чжан Юцян (гл. ред.) Downloaded 天才与算法:人脑与AI的数学思维 The Creativity Code Marcus du Sautoy 马库斯·杜·索托伊, 王晓燕, 程国建, 陈浩 Downloaded 趣学Python算法100例（详解100个趣味编程算法实例，为Python初学者打造，培养编程兴趣，拓宽编程思维,提高编程能力和算法设计能力） 刘河飞 & 闫凯峰 Downloaded Python编程：从入门到实践（第2版） 埃里克·马瑟斯 [埃里克·马瑟斯] Downloaded MySQL必知必会 = MySQL crash course Ben Forta 著; 刘晓霞, 钟鸣 译 Downloaded 图解HTTP 上野宣 Downloaded 算法图解 （美）巴尔加瓦（Aditya Bhargava）著, 袁国忠译 Downloaded + 663 Books computer" [ref=e1724] [cursor=pointer]:
+            - /url: /booklist/2083386/45b281/computer.html
+            - generic [ref=e1725]:
+              - generic [ref=e1726]:
+                - generic "上海：1842-2010，一座伟大城市的肖像" [ref=e1727]:
+                  - generic "上海：1842-2010，一座伟大城市的肖像" [ref=e1728]:
+                    - generic [ref=e1729]:
+                      - generic [ref=e1734]: 上海：1842-2010，一座伟大城市的肖像
+                      - generic [ref=e1735]: 刘香成(Liu Heung Shing),凯伦·史密斯(Karen Smith)
+                    - img [ref=e1739]
+                    - generic:
+                      - generic: Downloaded
+                - generic "图片中国百年史(1894-1949年）上册 Столетие китайской истории в фотографиях. Том первый (1894-1949)" [ref=e1740]:
+                  - generic "图片中国百年史(1894-1949年）上册 Столетие китайской истории в фотографиях. Том первый (1894-1949)" [ref=e1741]:
+                    - generic [ref=e1742]:
+                      - generic [ref=e1747]: 图片中国百年史(1894-1949年）上册 Столетие китайской истории в фотографиях. Том первый (1894-1949)
+                      - generic [ref=e1748]: 张筱强（主编） Чжан Юцян (гл. ред.)
+                    - img [ref=e1752]
+                    - generic:
+                      - generic: Downloaded
+                - generic "天才与算法:人脑与AI的数学思维 The Creativity Code" [ref=e1753]:
+                  - generic "天才与算法:人脑与AI的数学思维 The Creativity Code" [ref=e1754]:
+                    - generic [ref=e1755]:
+                      - generic [ref=e1760]: 天才与算法:人脑与AI的数学思维 The Creativity Code
+                      - generic [ref=e1761]: Marcus du Sautoy 马库斯·杜·索托伊, 王晓燕, 程国建, 陈浩
+                    - img [ref=e1765]
+                    - generic:
+                      - generic: Downloaded
+                - generic "趣学Python算法100例（详解100个趣味编程算法实例，为Python初学者打造，培养编程兴趣，拓宽编程思维,提高编程能力和算法设计能力）" [ref=e1766]:
+                  - generic "趣学Python算法100例（详解100个趣味编程算法实例，为Python初学者打造，培养编程兴趣，拓宽编程思维,提高编程能力和算法设计能力）" [ref=e1767]:
+                    - generic [ref=e1768]:
+                      - generic [ref=e1773]: 趣学Python算法100例（详解100个趣味编程算法实例，为Python初学者打造，培养编程兴趣，拓宽编程思维,提高编程能力和算法设计能力）
+                      - generic [ref=e1774]: 刘河飞 & 闫凯峰
+                    - img [ref=e1778]
+                    - generic:
+                      - generic: Downloaded
+                - generic "Python编程：从入门到实践（第2版）" [ref=e1779]:
+                  - generic "Python编程：从入门到实践（第2版）" [ref=e1780]:
+                    - generic [ref=e1781]:
+                      - generic [ref=e1786]: Python编程：从入门到实践（第2版）
+                      - generic [ref=e1787]: 埃里克·马瑟斯 [埃里克·马瑟斯]
+                    - img [ref=e1791]
+                    - generic:
+                      - generic: Downloaded
+                - generic "MySQL必知必会 = MySQL crash course" [ref=e1792]:
+                  - generic "MySQL必知必会 = MySQL crash course" [ref=e1793]:
+                    - generic [ref=e1794]:
+                      - generic [ref=e1799]: MySQL必知必会 = MySQL crash course
+                      - generic [ref=e1800]: Ben Forta 著; 刘晓霞, 钟鸣 译
+                    - img [ref=e1804]
+                    - generic:
+                      - generic: Downloaded
+                - generic "图解HTTP" [ref=e1805]:
+                  - generic "图解HTTP" [ref=e1806]:
+                    - generic [ref=e1807]:
+                      - generic [ref=e1812]: 图解HTTP
+                      - generic [ref=e1813]: 上野宣
+                    - img [ref=e1817]
+                    - generic:
+                      - generic: Downloaded
+                - generic "算法图解" [ref=e1818]:
+                  - generic "算法图解" [ref=e1819]:
+                    - generic [ref=e1820]:
+                      - generic [ref=e1825]: 算法图解
+                      - generic [ref=e1826]: （美）巴尔加瓦（Aditya Bhargava）著, 袁国忠译
+                    - img [ref=e1830]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e1831]:
+                  - generic [ref=e1832]: + 663
+                  - generic [ref=e1833]: Books
+              - list [ref=e1834]:
+                - listitem [ref=e1835]
+                - listitem [ref=e1836]
+                - listitem [ref=e1837]
+                - listitem [ref=e1838]
+                - listitem [ref=e1839]
+                - listitem [ref=e1840]
+                - listitem [ref=e1841]
+                - listitem [ref=e1842]
+              - img [ref=e1843]
+            - generic [ref=e1846]: computer
+          - link "工程控制论（上、下册） 钱学森、宋健 Downloaded 工程控制论 钱学森 Downloaded 工程控制论（上册）第三版 钱学森 Downloaded 工程控制论 (下册) (第三版) 钱学森, 宋健 Downloaded 工程控制论（上、下册） 钱学森、宋健 Downloaded 工程控制论 (上册) (第三版) 钱学森, 宋健 Downloaded 工程控制论 Engineering Cybernetics 钱学森 Qian, Xuesen (Hsue Shen Tsien) Downloaded 工程控制论(新世纪版) 钱学森 Downloaded + 26 Books 钱学森" [ref=e1848] [cursor=pointer]:
+            - /url: /booklist/2478212/46ae8e/%E9%92%B1%E5%AD%A6%E6%A3%AE.html
+            - generic [ref=e1849]:
+              - generic [ref=e1850]:
+                - generic "工程控制论（上、下册）" [ref=e1851]:
+                  - generic "工程控制论（上、下册）" [ref=e1852]:
+                    - generic [ref=e1853]:
+                      - generic [ref=e1858]: 工程控制论（上、下册）
+                      - generic [ref=e1859]: 钱学森、宋健
+                    - img [ref=e1863]
+                    - generic:
+                      - generic: Downloaded
+                - generic "工程控制论" [ref=e1864]:
+                  - generic "工程控制论" [ref=e1865]:
+                    - generic [ref=e1866]:
+                      - generic [ref=e1871]: 工程控制论
+                      - generic [ref=e1872]: 钱学森
+                    - img [ref=e1876]
+                    - generic:
+                      - generic: Downloaded
+                - generic "工程控制论（上册）第三版" [ref=e1877]:
+                  - generic "工程控制论（上册）第三版" [ref=e1878]:
+                    - generic [ref=e1879]:
+                      - generic [ref=e1884]: 工程控制论（上册）第三版
+                      - generic [ref=e1885]: 钱学森
+                    - img [ref=e1889]
+                    - generic:
+                      - generic: Downloaded
+                - generic "工程控制论 (下册) (第三版)" [ref=e1890]:
+                  - generic "工程控制论 (下册) (第三版)" [ref=e1891]:
+                    - generic [ref=e1892]:
+                      - generic [ref=e1897]: 工程控制论 (下册) (第三版)
+                      - generic [ref=e1898]: 钱学森, 宋健
+                    - img [ref=e1902]
+                    - generic:
+                      - generic: Downloaded
+                - generic "工程控制论（上、下册）" [ref=e1903]:
+                  - generic "工程控制论（上、下册）" [ref=e1904]:
+                    - generic [ref=e1905]:
+                      - generic [ref=e1910]: 工程控制论（上、下册）
+                      - generic [ref=e1911]: 钱学森、宋健
+                    - img [ref=e1915]
+                    - generic:
+                      - generic: Downloaded
+                - generic "工程控制论 (上册) (第三版)" [ref=e1916]:
+                  - generic "工程控制论 (上册) (第三版)" [ref=e1917]:
+                    - generic [ref=e1918]:
+                      - generic [ref=e1923]: 工程控制论 (上册) (第三版)
+                      - generic [ref=e1924]: 钱学森, 宋健
+                    - img [ref=e1928]
+                    - generic:
+                      - generic: Downloaded
+                - generic "工程控制论 Engineering Cybernetics" [ref=e1929]:
+                  - generic "工程控制论 Engineering Cybernetics" [ref=e1930]:
+                    - generic [ref=e1931]:
+                      - generic [ref=e1936]: 工程控制论 Engineering Cybernetics
+                      - generic [ref=e1937]: 钱学森 Qian, Xuesen (Hsue Shen Tsien)
+                    - img [ref=e1941]
+                    - generic:
+                      - generic: Downloaded
+                - generic "工程控制论(新世纪版)" [ref=e1942]:
+                  - generic "工程控制论(新世纪版)" [ref=e1943]:
+                    - generic [ref=e1944]:
+                      - generic [ref=e1949]: 工程控制论(新世纪版)
+                      - generic [ref=e1950]: 钱学森
+                    - img [ref=e1954]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e1955]:
+                  - generic [ref=e1956]: + 26
+                  - generic [ref=e1957]: Books
+              - list [ref=e1958]:
+                - listitem [ref=e1959]
+                - listitem [ref=e1960]
+                - listitem [ref=e1961]
+                - listitem [ref=e1962]
+                - listitem [ref=e1963]
+                - listitem [ref=e1964]
+                - listitem [ref=e1965]
+                - listitem [ref=e1966]
+              - img [ref=e1967]
+            - generic [ref=e1970]: 钱学森
+          - link "Ильин В.А., Позняк Э. Г. Основы математического анализа 1 Ильин В.А., Позняк Э. Г. Downloaded Аналитическая геометрия Ильин В.А., Позняк Э.Г. Downloaded 吉米多维奇数学分析习题集题解5 费定晖 Downloaded 常微分方程 Л. С. 庞特里亚金 Downloaded Что такое ОГАС? Глушков Виктор Михайлович, Валах Валерий Яковлевич Downloaded Введение в кибернетику Глушков В.М. Downloaded Linear Algebra Done Right, Third Edition Sheldon Jay Axler Downloaded 离散数学 左孝凌; 刘永才 Downloaded + 55 Books Mathemastics" [ref=e1972] [cursor=pointer]:
+            - /url: /booklist/624975/b7f8c6/mathemastics.html
+            - generic [ref=e1973]:
+              - generic [ref=e1974]:
+                - generic "Ильин В.А., Позняк Э. Г. Основы математического анализа 1" [ref=e1975]:
+                  - generic "Ильин В.А., Позняк Э. Г. Основы математического анализа 1" [ref=e1976]:
+                    - generic [ref=e1977]:
+                      - generic [ref=e1982]: Ильин В.А., Позняк Э. Г. Основы математического анализа 1
+                      - generic [ref=e1983]: Ильин В.А., Позняк Э. Г.
+                    - img [ref=e1987]
+                    - generic:
+                      - generic: Downloaded
+                - generic "Аналитическая геометрия" [ref=e1988]:
+                  - generic "Аналитическая геометрия" [ref=e1989]:
+                    - generic [ref=e1990]:
+                      - generic [ref=e1995]: Аналитическая геометрия
+                      - generic [ref=e1996]: Ильин В.А., Позняк Э.Г.
+                    - img [ref=e2000]
+                    - generic:
+                      - generic: Downloaded
+                - generic "吉米多维奇数学分析习题集题解5" [ref=e2001]:
+                  - generic "吉米多维奇数学分析习题集题解5" [ref=e2002]:
+                    - generic [ref=e2003]:
+                      - generic [ref=e2008]: 吉米多维奇数学分析习题集题解5
+                      - generic [ref=e2009]: 费定晖
+                    - img [ref=e2013]
+                    - generic:
+                      - generic: Downloaded
+                - generic "常微分方程" [ref=e2014]:
+                  - generic "常微分方程" [ref=e2015]:
+                    - generic [ref=e2016]:
+                      - generic [ref=e2021]: 常微分方程
+                      - generic [ref=e2022]: Л. С. 庞特里亚金
+                    - img [ref=e2026]
+                    - generic:
+                      - generic: Downloaded
+                - generic "Что такое ОГАС?" [ref=e2027]:
+                  - generic "Что такое ОГАС?" [ref=e2028]:
+                    - generic [ref=e2029]:
+                      - generic [ref=e2034]: Что такое ОГАС?
+                      - generic [ref=e2035]: Глушков Виктор Михайлович, Валах Валерий Яковлевич
+                    - img [ref=e2039]
+                    - generic:
+                      - generic: Downloaded
+                - generic "Введение в кибернетику" [ref=e2040]:
+                  - generic "Введение в кибернетику" [ref=e2041]:
+                    - generic [ref=e2042]:
+                      - generic [ref=e2047]: Введение в кибернетику
+                      - generic [ref=e2048]: Глушков В.М.
+                    - img [ref=e2052]
+                    - generic:
+                      - generic: Downloaded
+                - generic "Linear Algebra Done Right, Third Edition" [ref=e2053]:
+                  - generic "Linear Algebra Done Right, Third Edition" [ref=e2054]:
+                    - generic [ref=e2055]:
+                      - generic [ref=e2060]: Linear Algebra Done Right, Third Edition
+                      - generic [ref=e2061]: Sheldon Jay Axler
+                    - img [ref=e2065]
+                    - generic:
+                      - generic: Downloaded
+                - generic "离散数学" [ref=e2066]:
+                  - generic "离散数学" [ref=e2067]:
+                    - generic [ref=e2068]:
+                      - generic [ref=e2073]: 离散数学
+                      - generic [ref=e2074]: 左孝凌; 刘永才
+                    - img [ref=e2078]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e2079]:
+                  - generic [ref=e2080]: + 55
+                  - generic [ref=e2081]: Books
+              - list [ref=e2082]:
+                - listitem [ref=e2083]
+                - listitem [ref=e2084]
+                - listitem [ref=e2085]
+                - listitem [ref=e2086]
+                - listitem [ref=e2087]
+                - listitem [ref=e2088]
+                - listitem [ref=e2089]
+                - listitem [ref=e2090]
+              - img [ref=e2091]
+            - generic [ref=e2094]: Mathemastics
+          - link "医宗金鉴 第4分册 外科心法要诀 （清）吴谦等编 Downloaded 医宗金鉴 第3分册 卷44-卷60 妇科心法要诀、幼科杂病心法要诀、痘疹心法要诀、幼科种痘心法要诀 （清）吴谦等编 Downloaded 医宗金鉴 第2分册 卷26-卷43 册补名医方论 四诊心法要诀 运气要诀 伤寒心法要诀 杂病心法要诀 （清）吴谦等编 Downloaded 医宗金鉴 第5分册 卷77-卷90 眼科心法要诀、刺灸心法要诀、正骨心法要诀 （清）吴谦等编 Downloaded 医宗金鉴 第1分册 卷1-卷25 订正仲景全书 （清）吴谦等编 Downloaded 炁体源流 张至顺 Downloaded 荀子 方勇 李波 Downloaded 中华经典藏书（升级版）上（32册：论语、孟子、庄子、管子、墨子、列子、人物志、大学、中庸、老子、礼记、孝经、水经注、左传、国语、资治通鉴、孔子家语、战国策、鬼谷子、荀子、韩非子、淮南子、六韬、贞观政要、尚书、周易、史记、三国志、汉书、后汉书、吕氏春秋、晏子春秋） 中华书局, 古聖先賢 Downloaded + 36 Books 中华典籍" [ref=e2096] [cursor=pointer]:
+            - /url: /booklist/1434404/fe366f/%E4%B8%AD%E5%8D%8E%E5%85%B8%E7%B1%8D.html
+            - generic [ref=e2097]:
+              - generic [ref=e2098]:
+                - generic "医宗金鉴 第4分册 外科心法要诀" [ref=e2099]:
+                  - generic "医宗金鉴 第4分册 外科心法要诀" [ref=e2100]:
+                    - generic [ref=e2101]:
+                      - generic [ref=e2106]: 医宗金鉴 第4分册 外科心法要诀
+                      - generic [ref=e2107]: （清）吴谦等编
+                    - img [ref=e2111]
+                    - generic:
+                      - generic: Downloaded
+                - generic "医宗金鉴 第3分册 卷44-卷60 妇科心法要诀、幼科杂病心法要诀、痘疹心法要诀、幼科种痘心法要诀" [ref=e2112]:
+                  - generic "医宗金鉴 第3分册 卷44-卷60 妇科心法要诀、幼科杂病心法要诀、痘疹心法要诀、幼科种痘心法要诀" [ref=e2113]:
+                    - generic [ref=e2114]:
+                      - generic [ref=e2119]: 医宗金鉴 第3分册 卷44-卷60 妇科心法要诀、幼科杂病心法要诀、痘疹心法要诀、幼科种痘心法要诀
+                      - generic [ref=e2120]: （清）吴谦等编
+                    - img [ref=e2124]
+                    - generic:
+                      - generic: Downloaded
+                - generic "医宗金鉴 第2分册 卷26-卷43 册补名医方论 四诊心法要诀 运气要诀 伤寒心法要诀 杂病心法要诀" [ref=e2125]:
+                  - generic "医宗金鉴 第2分册 卷26-卷43 册补名医方论 四诊心法要诀 运气要诀 伤寒心法要诀 杂病心法要诀" [ref=e2126]:
+                    - generic [ref=e2127]:
+                      - generic [ref=e2132]: 医宗金鉴 第2分册 卷26-卷43 册补名医方论 四诊心法要诀 运气要诀 伤寒心法要诀 杂病心法要诀
+                      - generic [ref=e2133]: （清）吴谦等编
+                    - img [ref=e2137]
+                    - generic:
+                      - generic: Downloaded
+                - generic "医宗金鉴 第5分册 卷77-卷90 眼科心法要诀、刺灸心法要诀、正骨心法要诀" [ref=e2138]:
+                  - generic "医宗金鉴 第5分册 卷77-卷90 眼科心法要诀、刺灸心法要诀、正骨心法要诀" [ref=e2139]:
+                    - generic [ref=e2140]:
+                      - generic [ref=e2145]: 医宗金鉴 第5分册 卷77-卷90 眼科心法要诀、刺灸心法要诀、正骨心法要诀
+                      - generic [ref=e2146]: （清）吴谦等编
+                    - img [ref=e2150]
+                    - generic:
+                      - generic: Downloaded
+                - generic "医宗金鉴 第1分册 卷1-卷25 订正仲景全书" [ref=e2151]:
+                  - generic "医宗金鉴 第1分册 卷1-卷25 订正仲景全书" [ref=e2152]:
+                    - generic [ref=e2153]:
+                      - generic [ref=e2158]: 医宗金鉴 第1分册 卷1-卷25 订正仲景全书
+                      - generic [ref=e2159]: （清）吴谦等编
+                    - img [ref=e2163]
+                    - generic:
+                      - generic: Downloaded
+                - generic "炁体源流" [ref=e2164]:
+                  - generic "炁体源流" [ref=e2165]:
+                    - generic [ref=e2166]:
+                      - generic [ref=e2171]: 炁体源流
+                      - generic [ref=e2172]: 张至顺
+                    - img [ref=e2176]
+                    - generic:
+                      - generic: Downloaded
+                - generic "荀子" [ref=e2177]:
+                  - generic "荀子" [ref=e2178]:
+                    - generic [ref=e2179]:
+                      - generic [ref=e2184]: 荀子
+                      - generic [ref=e2185]: 方勇 李波
+                    - img [ref=e2189]
+                    - generic:
+                      - generic: Downloaded
+                - generic "中华经典藏书（升级版）上（32册：论语、孟子、庄子、管子、墨子、列子、人物志、大学、中庸、老子、礼记、孝经、水经注、左传、国语、资治通鉴、孔子家语、战国策、鬼谷子、荀子、韩非子、淮南子、六韬、贞观政要、尚书、周易、史记、三国志、汉书、后汉书、吕氏春秋、晏子春秋）" [ref=e2190]:
+                  - generic "中华经典藏书（升级版）上（32册：论语、孟子、庄子、管子、墨子、列子、人物志、大学、中庸、老子、礼记、孝经、水经注、左传、国语、资治通鉴、孔子家语、战国策、鬼谷子、荀子、韩非子、淮南子、六韬、贞观政要、尚书、周易、史记、三国志、汉书、后汉书、吕氏春秋、晏子春秋）" [ref=e2191]:
+                    - generic [ref=e2192]:
+                      - generic [ref=e2197]: 中华经典藏书（升级版）上（32册：论语、孟子、庄子、管子、墨子、列子、人物志、大学、中庸、老子、礼记、孝经、水经注、左传、国语、资治通鉴、孔子家语、战国策、鬼谷子、荀子、韩非子、淮南子、六韬、贞观政要、尚书、周易、史记、三国志、汉书、后汉书、吕氏春秋、晏子春秋）
+                      - generic [ref=e2198]: 中华书局, 古聖先賢
+                    - img [ref=e2202]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e2203]:
+                  - generic [ref=e2204]: + 36
+                  - generic [ref=e2205]: Books
+              - list [ref=e2206]:
+                - listitem [ref=e2207]
+                - listitem [ref=e2208]
+                - listitem [ref=e2209]
+                - listitem [ref=e2210]
+                - listitem [ref=e2211]
+                - listitem [ref=e2212]
+                - listitem [ref=e2213]
+                - listitem [ref=e2214]
+              - img [ref=e2215]
+            - generic [ref=e2218]: 中华典籍
+          - link "水稻丰产典型经验选编 农业出版社编辑 Downloaded 水稻优良品种 湖南省经济建设展览会编 Downloaded 中国水稻品种及其系谱 林世成，闵绍楷主编, Shicheng Lin, Shao-kʻai Min Downloaded 中国稻米品质区划及优质栽培 蔡洪法主编；农业部种植业管理司，中国水稻研究所编著, China Nong ye bu Zhong zhi ye guan li si, Zhongguo shui dao yan jiu suo, 蔡洪法主编, 蔡洪法, 中国水稻研究所, Zhong guo shui dao yan jiu suo, 农业部种植业管理司 Downloaded Python背记手册 Python背记手册 Downloaded 农业“八字宪法”通俗解说 共青团辽宁省委员会，辽宁农业厅编 Downloaded 怎样学打算盘 鹑火著 Downloaded 农具图谱 第1卷 中华人民共和国农业部编 Downloaded + 17 Books 技术" [ref=e2220] [cursor=pointer]:
+            - /url: /booklist/2357014/728bae/%E6%8A%80%E6%9C%AF.html
+            - generic [ref=e2221]:
+              - generic [ref=e2222]:
+                - generic "水稻丰产典型经验选编" [ref=e2223]:
+                  - generic "水稻丰产典型经验选编" [ref=e2224]:
+                    - generic [ref=e2225]:
+                      - generic [ref=e2230]: 水稻丰产典型经验选编
+                      - generic [ref=e2231]: 农业出版社编辑
+                    - img [ref=e2235]
+                    - generic:
+                      - generic: Downloaded
+                - generic "水稻优良品种" [ref=e2236]:
+                  - generic "水稻优良品种" [ref=e2237]:
+                    - generic [ref=e2238]:
+                      - generic [ref=e2243]: 水稻优良品种
+                      - generic [ref=e2244]: 湖南省经济建设展览会编
+                    - img [ref=e2248]
+                    - generic:
+                      - generic: Downloaded
+                - generic "中国水稻品种及其系谱" [ref=e2249]:
+                  - generic "中国水稻品种及其系谱" [ref=e2250]:
+                    - generic [ref=e2251]:
+                      - generic [ref=e2256]: 中国水稻品种及其系谱
+                      - generic [ref=e2257]: 林世成，闵绍楷主编, Shicheng Lin, Shao-kʻai Min
+                    - img [ref=e2261]
+                    - generic:
+                      - generic: Downloaded
+                - generic "中国稻米品质区划及优质栽培" [ref=e2262]:
+                  - generic "中国稻米品质区划及优质栽培" [ref=e2263]:
+                    - generic [ref=e2264]:
+                      - generic [ref=e2269]: 中国稻米品质区划及优质栽培
+                      - generic [ref=e2270]: 蔡洪法主编；农业部种植业管理司，中国水稻研究所编著, China Nong ye bu Zhong zhi ye guan li si, Zhongguo shui dao yan jiu suo, 蔡洪法主编, 蔡洪法, 中国水稻研究所, Zhong guo shui dao yan jiu suo, 农业部种植业管理司
+                    - img [ref=e2274]
+                    - generic:
+                      - generic: Downloaded
+                - generic "Python背记手册" [ref=e2275]:
+                  - generic "Python背记手册" [ref=e2276]:
+                    - generic [ref=e2277]:
+                      - generic [ref=e2282]: Python背记手册
+                      - generic [ref=e2283]: Python背记手册
+                    - img [ref=e2287]
+                    - generic:
+                      - generic: Downloaded
+                - generic "农业“八字宪法”通俗解说" [ref=e2288]:
+                  - generic "农业“八字宪法”通俗解说" [ref=e2289]:
+                    - generic [ref=e2290]:
+                      - generic [ref=e2295]: 农业“八字宪法”通俗解说
+                      - generic [ref=e2296]: 共青团辽宁省委员会，辽宁农业厅编
+                    - img [ref=e2300]
+                    - generic:
+                      - generic: Downloaded
+                - generic "怎样学打算盘" [ref=e2301]:
+                  - generic "怎样学打算盘" [ref=e2302]:
+                    - generic [ref=e2303]:
+                      - generic [ref=e2308]: 怎样学打算盘
+                      - generic [ref=e2309]: 鹑火著
+                    - img [ref=e2313]
+                    - generic:
+                      - generic: Downloaded
+                - generic "农具图谱 第1卷" [ref=e2314]:
+                  - generic "农具图谱 第1卷" [ref=e2315]:
+                    - generic [ref=e2316]:
+                      - generic [ref=e2321]: 农具图谱 第1卷
+                      - generic [ref=e2322]: 中华人民共和国农业部编
+                    - img [ref=e2326]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e2327]:
+                  - generic [ref=e2328]: + 17
+                  - generic [ref=e2329]: Books
+              - list [ref=e2330]:
+                - listitem [ref=e2331]
+                - listitem [ref=e2332]
+                - listitem [ref=e2333]
+                - listitem [ref=e2334]
+                - listitem [ref=e2335]
+                - listitem [ref=e2336]
+                - listitem [ref=e2337]
+                - listitem [ref=e2338]
+              - img [ref=e2339]
+            - generic [ref=e2342]: 技术
+          - link "现代数学手册(3)计算机数学卷 现代数学手册编委会 Downloaded 自然科学问题的数学分析 卓里奇 Downloaded 深入理解计算机系统 Randal E. Bryant, David R. O’Hallaron Downloaded 里程碑书系 吉姆·贝尔 [吉姆·贝尔] Downloaded 木工全书 英国DK出版社 Downloaded 中国兽类野外手册 Andrew T. Smith, 史密斯, 解焱, 盖玛, 陈延熹 Downloaded 性学观止 贺兰特·凯查杜里安, 胡颖翀 Downloaded 奈特人体解剖学彩色图谱 (Netter's Atlas of Human Anatomy) 弗蘭克·奈特 (Frank H. Netter) Downloaded + 19 Books 科学" [ref=e2344] [cursor=pointer]:
+            - /url: /booklist/1036236/aca9f4/%E7%A7%91%E5%AD%A6.html
+            - generic [ref=e2345]:
+              - generic [ref=e2346]:
+                - generic "现代数学手册(3)计算机数学卷" [ref=e2347]:
+                  - generic "现代数学手册(3)计算机数学卷" [ref=e2348]:
+                    - generic [ref=e2349]:
+                      - generic [ref=e2354]: 现代数学手册(3)计算机数学卷
+                      - generic [ref=e2355]: 现代数学手册编委会
+                    - img [ref=e2359]
+                    - generic:
+                      - generic: Downloaded
+                - generic "自然科学问题的数学分析" [ref=e2360]:
+                  - generic "自然科学问题的数学分析" [ref=e2361]:
+                    - generic [ref=e2362]:
+                      - generic [ref=e2367]: 自然科学问题的数学分析
+                      - generic [ref=e2368]: 卓里奇
+                    - img [ref=e2372]
+                    - generic:
+                      - generic: Downloaded
+                - generic "深入理解计算机系统" [ref=e2373]:
+                  - generic "深入理解计算机系统" [ref=e2374]:
+                    - generic [ref=e2375]:
+                      - generic [ref=e2380]: 深入理解计算机系统
+                      - generic [ref=e2381]: Randal E. Bryant, David R. O’Hallaron
+                    - img [ref=e2385]
+                    - generic:
+                      - generic: Downloaded
+                - generic "里程碑书系" [ref=e2386]:
+                  - generic "里程碑书系" [ref=e2387]:
+                    - generic [ref=e2388]:
+                      - generic [ref=e2393]: 里程碑书系
+                      - generic [ref=e2394]: 吉姆·贝尔 [吉姆·贝尔]
+                    - img [ref=e2398]
+                    - generic:
+                      - generic: Downloaded
+                - generic "木工全书" [ref=e2399]:
+                  - generic "木工全书" [ref=e2400]:
+                    - generic [ref=e2401]:
+                      - generic [ref=e2406]: 木工全书
+                      - generic [ref=e2407]: 英国DK出版社
+                    - img [ref=e2411]
+                    - generic:
+                      - generic: Downloaded
+                - generic "中国兽类野外手册" [ref=e2412]:
+                  - generic "中国兽类野外手册" [ref=e2413]:
+                    - generic [ref=e2414]:
+                      - generic [ref=e2419]: 中国兽类野外手册
+                      - generic [ref=e2420]: Andrew T. Smith, 史密斯, 解焱, 盖玛, 陈延熹
+                    - img [ref=e2424]
+                    - generic:
+                      - generic: Downloaded
+                - generic "性学观止" [ref=e2425]:
+                  - generic "性学观止" [ref=e2426]:
+                    - generic [ref=e2427]:
+                      - generic [ref=e2432]: 性学观止
+                      - generic [ref=e2433]: 贺兰特·凯查杜里安, 胡颖翀
+                    - img [ref=e2437]
+                    - generic:
+                      - generic: Downloaded
+                - generic "奈特人体解剖学彩色图谱 (Netter's Atlas of Human Anatomy)" [ref=e2438]:
+                  - generic "奈特人体解剖学彩色图谱 (Netter's Atlas of Human Anatomy)" [ref=e2439]:
+                    - generic [ref=e2440]:
+                      - generic [ref=e2445]: 奈特人体解剖学彩色图谱 (Netter's Atlas of Human Anatomy)
+                      - generic [ref=e2446]: 弗蘭克·奈特 (Frank H. Netter)
+                    - img [ref=e2450]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e2451]:
+                  - generic [ref=e2452]: + 19
+                  - generic [ref=e2453]: Books
+              - list [ref=e2454]:
+                - listitem [ref=e2455]
+                - listitem [ref=e2456]
+                - listitem [ref=e2457]
+                - listitem [ref=e2458]
+                - listitem [ref=e2459]
+                - listitem [ref=e2460]
+                - listitem [ref=e2461]
+                - listitem [ref=e2462]
+              - img [ref=e2463]
+            - generic [ref=e2466]: 科学
+          - 'link "终身成长：重新定义成功的思维模式 = Mindset: The New Psychology of Success [美] 卡罗尔·德韦克 (Carol S. Dweck) 著；楚祎楠 译 Downloaded Mindset Carol S. Dweck Downloaded Mindset - Changing The Way You Think To Fulfil Your Potential (Updated Edition) Carol Susan Dweck Downloaded 工程控制论 Engineering Cybernetics 钱学森 Qian, Xuesen (Hsue Shen Tsien) Downloaded Principles of Economics, 7th edition (2019) Robert H. Frank & Ben S. Bernanke & Kate L. Antonovics & Ori Heffetz Downloaded 欢乐数学之微积分 （美）本·奥尔林 Downloaded Principles of Macroeconomics Robert Frank, Ben Bernanke, Kate Antonovics, Ori Heffetz Downloaded Principles of Macroeconomics, 8e ISE Robert H. Frank, Ben Bernanke, Kate Antonovics, Ori Heffetz Downloaded + 7 Books My library" [ref=e2468] [cursor=pointer]':
+            - /url: /booklist/1485943/9653b0/my-library.html
+            - generic [ref=e2469]:
+              - generic [ref=e2470]:
+                - 'generic "终身成长：重新定义成功的思维模式 = Mindset: The New Psychology of Success" [ref=e2471]':
+                  - 'generic "终身成长：重新定义成功的思维模式 = Mindset: The New Psychology of Success" [ref=e2472]':
+                    - generic [ref=e2473]:
+                      - generic [ref=e2478]: "终身成长：重新定义成功的思维模式 = Mindset: The New Psychology of Success"
+                      - generic [ref=e2479]: "[美] 卡罗尔·德韦克 (Carol S. Dweck) 著；楚祎楠 译"
+                    - img [ref=e2483]
+                    - generic:
+                      - generic: Downloaded
+                - generic "Mindset" [ref=e2484]:
+                  - generic "Mindset" [ref=e2485]:
+                    - generic [ref=e2486]:
+                      - generic [ref=e2491]: Mindset
+                      - generic [ref=e2492]: Carol S. Dweck
+                    - img [ref=e2496]
+                    - generic:
+                      - generic: Downloaded
+                - generic "Mindset - Changing The Way You Think To Fulfil Your Potential (Updated Edition)" [ref=e2497]:
+                  - generic "Mindset - Changing The Way You Think To Fulfil Your Potential (Updated Edition)" [ref=e2498]:
+                    - generic [ref=e2499]:
+                      - generic [ref=e2504]: Mindset - Changing The Way You Think To Fulfil Your Potential (Updated Edition)
+                      - generic [ref=e2505]: Carol Susan Dweck
+                    - img [ref=e2509]
+                    - generic:
+                      - generic: Downloaded
+                - generic "工程控制论 Engineering Cybernetics" [ref=e2510]:
+                  - generic "工程控制论 Engineering Cybernetics" [ref=e2511]:
+                    - generic [ref=e2512]:
+                      - generic [ref=e2517]: 工程控制论 Engineering Cybernetics
+                      - generic [ref=e2518]: 钱学森 Qian, Xuesen (Hsue Shen Tsien)
+                    - img [ref=e2522]
+                    - generic:
+                      - generic: Downloaded
+                - generic "Principles of Economics, 7th edition (2019)" [ref=e2523]:
+                  - generic "Principles of Economics, 7th edition (2019)" [ref=e2524]:
+                    - generic [ref=e2525]:
+                      - generic [ref=e2530]: Principles of Economics, 7th edition (2019)
+                      - generic [ref=e2531]: Robert H. Frank & Ben S. Bernanke & Kate L. Antonovics & Ori Heffetz
+                    - img [ref=e2535]
+                    - generic:
+                      - generic: Downloaded
+                - generic "欢乐数学之微积分" [ref=e2536]:
+                  - generic "欢乐数学之微积分" [ref=e2537]:
+                    - generic [ref=e2538]:
+                      - generic [ref=e2543]: 欢乐数学之微积分
+                      - generic [ref=e2544]: （美）本·奥尔林
+                    - img [ref=e2548]
+                    - generic:
+                      - generic: Downloaded
+                - generic "Principles of Macroeconomics" [ref=e2549]:
+                  - generic "Principles of Macroeconomics" [ref=e2550]:
+                    - generic [ref=e2551]:
+                      - generic [ref=e2556]: Principles of Macroeconomics
+                      - generic [ref=e2557]: Robert Frank, Ben Bernanke, Kate Antonovics, Ori Heffetz
+                    - img [ref=e2561]
+                    - generic:
+                      - generic: Downloaded
+                - generic "Principles of Macroeconomics, 8e ISE" [ref=e2562]:
+                  - generic "Principles of Macroeconomics, 8e ISE" [ref=e2563]:
+                    - generic [ref=e2564]:
+                      - generic [ref=e2569]: Principles of Macroeconomics, 8e ISE
+                      - generic [ref=e2570]: Robert H. Frank, Ben Bernanke, Kate Antonovics, Ori Heffetz
+                    - img [ref=e2574]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e2575]:
+                  - generic [ref=e2576]: + 7
+                  - generic [ref=e2577]: Books
+              - list [ref=e2578]:
+                - listitem [ref=e2579]
+                - listitem [ref=e2580]
+                - listitem [ref=e2581]
+                - listitem [ref=e2582]
+                - listitem [ref=e2583]
+                - listitem [ref=e2584]
+                - listitem [ref=e2585]
+                - listitem [ref=e2586]
+              - img [ref=e2587]
+            - generic [ref=e2590]: My library
+          - link "时间的秩序 [\"The order of time\"] 卡洛．罗韦利 (Carlo Rovelli) Downloaded Engineering cybernetics Hsue Shen Tsien Downloaded 工程控制论 钱学森 Downloaded 工程控制论（上、下册） 钱学森、宋健 Downloaded 工程控制论 Engineering Cybernetics 钱学森 Qian, Xuesen (Hsue Shen Tsien) Downloaded 理工科" [ref=e2592] [cursor=pointer]:
+            - /url: /booklist/1438421/3d6067/%E7%90%86%E5%B7%A5%E7%A7%91.html
+            - generic [ref=e2593]:
+              - generic [ref=e2594]:
+                - generic "时间的秩序 [\"The order of time\"]" [ref=e2595]:
+                  - generic "时间的秩序 [" [ref=e2596]:
+                    - generic [ref=e2597]:
+                      - generic [ref=e2602]: 时间的秩序 ["The order of time"]
+                      - generic [ref=e2603]: 卡洛．罗韦利 (Carlo Rovelli)
+                    - img [ref=e2607]
+                    - generic:
+                      - generic: Downloaded
+                - generic "Engineering cybernetics" [ref=e2608]:
+                  - generic "Engineering cybernetics" [ref=e2609]:
+                    - generic [ref=e2610]:
+                      - generic [ref=e2615]: Engineering cybernetics
+                      - generic [ref=e2616]: Hsue Shen Tsien
+                    - img [ref=e2620]
+                    - generic:
+                      - generic: Downloaded
+                - generic "工程控制论" [ref=e2621]:
+                  - generic "工程控制论" [ref=e2622]:
+                    - generic [ref=e2623]:
+                      - generic [ref=e2628]: 工程控制论
+                      - generic [ref=e2629]: 钱学森
+                    - img [ref=e2633]
+                    - generic:
+                      - generic: Downloaded
+                - generic "工程控制论（上、下册）" [ref=e2634]:
+                  - generic "工程控制论（上、下册）" [ref=e2635]:
+                    - generic [ref=e2636]:
+                      - generic [ref=e2641]: 工程控制论（上、下册）
+                      - generic [ref=e2642]: 钱学森、宋健
+                    - img [ref=e2646]
+                    - generic:
+                      - generic: Downloaded
+                - generic "工程控制论 Engineering Cybernetics" [ref=e2647]:
+                  - generic "工程控制论 Engineering Cybernetics" [ref=e2648]:
+                    - generic [ref=e2649]:
+                      - generic [ref=e2654]: 工程控制论 Engineering Cybernetics
+                      - generic [ref=e2655]: 钱学森 Qian, Xuesen (Hsue Shen Tsien)
+                    - img [ref=e2659]
+                    - generic:
+                      - generic: Downloaded
+              - list [ref=e2660]:
+                - listitem [ref=e2661]
+                - listitem [ref=e2662]
+                - listitem [ref=e2663]
+                - listitem [ref=e2664]
+                - listitem [ref=e2665]
+              - img [ref=e2666]
+            - generic [ref=e2669]: 理工科
+          - link "王安石 张白山 Downloaded [中国古典文学基本知识丛书]汉魏六朝乐府诗 王运熙; 王国安 Downloaded 中国古代社会经济史诸问题 中国社会科学历史研究所经济史研究组编, Zhongguo she hui ke xue yuan li shi yan jiu suo jing ji shi yan jiu zu bian, 中国社会科学院历史研究所经济史研究组编, 中国社会科学院, 中國社會科學院 Downloaded 古代经济专题史话 合订本 东北师范大学历史系中国古代史教研室 Downloaded 古代世界史 东北师范大学历史系世界古代史及中世纪史教研室古代史组编 Downloaded 外国历史常识 近代部分 周南京等编写 Downloaded 义务教育课程标准实验教科书 中国历史地图册 八年级 下 陈洪玲，李伟科主编；人民教育出版社历史编辑室，中国地图出版社教学地图编制中心编著 Downloaded 中国文化读本 中国教育部课程教材研究所对外汉语课程教材研究开发中心编, 中国教育部课程教材研究所, 对外汉语课程教材研究开发中心 编著, 课程教材研究所, 对外汉语课程教材研究开发中心, Chinese Ministry of Education Downloaded + 88 Books 历史文科" [ref=e2671] [cursor=pointer]:
+            - /url: /booklist/2965465/8d54ec/%E5%8E%86%E5%8F%B2%E6%96%87%E7%A7%91.html
+            - generic [ref=e2672]:
+              - generic [ref=e2673]:
+                - generic "王安石" [ref=e2674]:
+                  - generic "王安石" [ref=e2675]:
+                    - generic [ref=e2676]:
+                      - generic [ref=e2681]: 王安石
+                      - generic [ref=e2682]: 张白山
+                    - img [ref=e2686]
+                    - generic:
+                      - generic: Downloaded
+                - generic "[中国古典文学基本知识丛书]汉魏六朝乐府诗" [ref=e2687]:
+                  - generic "[中国古典文学基本知识丛书]汉魏六朝乐府诗" [ref=e2688]:
+                    - generic [ref=e2689]:
+                      - generic [ref=e2694]: "[中国古典文学基本知识丛书]汉魏六朝乐府诗"
+                      - generic [ref=e2695]: 王运熙; 王国安
+                    - img [ref=e2699]
+                    - generic:
+                      - generic: Downloaded
+                - generic "中国古代社会经济史诸问题" [ref=e2700]:
+                  - generic "中国古代社会经济史诸问题" [ref=e2701]:
+                    - generic [ref=e2702]:
+                      - generic [ref=e2707]: 中国古代社会经济史诸问题
+                      - generic [ref=e2708]: 中国社会科学历史研究所经济史研究组编, Zhongguo she hui ke xue yuan li shi yan jiu suo jing ji shi yan jiu zu bian, 中国社会科学院历史研究所经济史研究组编, 中国社会科学院, 中國社會科學院
+                    - img [ref=e2712]
+                    - generic:
+                      - generic: Downloaded
+                - generic "古代经济专题史话 合订本" [ref=e2713]:
+                  - generic "古代经济专题史话 合订本" [ref=e2714]:
+                    - generic [ref=e2715]:
+                      - generic [ref=e2720]: 古代经济专题史话 合订本
+                      - generic [ref=e2721]: 东北师范大学历史系中国古代史教研室
+                    - img [ref=e2725]
+                    - generic:
+                      - generic: Downloaded
+                - generic "古代世界史" [ref=e2726]:
+                  - generic "古代世界史" [ref=e2727]:
+                    - generic [ref=e2728]:
+                      - generic [ref=e2733]: 古代世界史
+                      - generic [ref=e2734]: 东北师范大学历史系世界古代史及中世纪史教研室古代史组编
+                    - img [ref=e2738]
+                    - generic:
+                      - generic: Downloaded
+                - generic "外国历史常识 近代部分" [ref=e2739]:
+                  - generic "外国历史常识 近代部分" [ref=e2740]:
+                    - generic [ref=e2741]:
+                      - generic [ref=e2746]: 外国历史常识 近代部分
+                      - generic [ref=e2747]: 周南京等编写
+                    - img [ref=e2751]
+                    - generic:
+                      - generic: Downloaded
+                - generic "义务教育课程标准实验教科书 中国历史地图册 八年级 下" [ref=e2752]:
+                  - generic "义务教育课程标准实验教科书 中国历史地图册 八年级 下" [ref=e2753]:
+                    - generic [ref=e2754]:
+                      - generic [ref=e2759]: 义务教育课程标准实验教科书 中国历史地图册 八年级 下
+                      - generic [ref=e2760]: 陈洪玲，李伟科主编；人民教育出版社历史编辑室，中国地图出版社教学地图编制中心编著
+                    - img [ref=e2764]
+                    - generic:
+                      - generic: Downloaded
+                - generic "中国文化读本" [ref=e2765]:
+                  - generic "中国文化读本" [ref=e2766]:
+                    - generic [ref=e2767]:
+                      - generic [ref=e2772]: 中国文化读本
+                      - generic [ref=e2773]: 中国教育部课程教材研究所对外汉语课程教材研究开发中心编, 中国教育部课程教材研究所, 对外汉语课程教材研究开发中心 编著, 课程教材研究所, 对外汉语课程教材研究开发中心, Chinese Ministry of Education
+                    - img [ref=e2777]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e2778]:
+                  - generic [ref=e2779]: + 88
+                  - generic [ref=e2780]: Books
+              - list [ref=e2781]:
+                - listitem [ref=e2782]
+                - listitem [ref=e2783]
+                - listitem [ref=e2784]
+                - listitem [ref=e2785]
+                - listitem [ref=e2786]
+                - listitem [ref=e2787]
+                - listitem [ref=e2788]
+                - listitem [ref=e2789]
+              - img [ref=e2790]
+            - generic [ref=e2793]: 历史文科
+          - 'link "托马斯微积分-第11版-下册-Thomas'' Calculus-11th-Edition-影印版 George B Thomas, Maurice D Weir, Joel R Hass Downloaded 影印版 Thomas'' CALCULUS托马斯微积分 上册（第11版） WEIR,HASS,GIORDANO Downloaded Introduction to Linear Algebra Gilbert Strang Downloaded 工程控制论 Engineering Cybernetics 钱学森 Qian, Xuesen (Hsue Shen Tsien) Downloaded 工程控制论(新世纪版) 钱学森 Downloaded Elementary Differential Equations, Sixth Edition C. Henry Edwards, David E. Penney Downloaded Differential Equations and Boundary Value Problems: Computing and Modeling C. Henry Edwards, David E. Penney Downloaded Differential Equations and Linear Algebra Gilbert Strang Downloaded + 8 Books MIT" [ref=e2795] [cursor=pointer]':
+            - /url: /booklist/2755432/552dfe/mit.html
+            - generic [ref=e2796]:
+              - generic [ref=e2797]:
+                - generic "托马斯微积分-第11版-下册-Thomas' Calculus-11th-Edition-影印版" [ref=e2798]:
+                  - generic "托马斯微积分-第11版-下册-Thomas' Calculus-11th-Edition-影印版" [ref=e2799]:
+                    - generic [ref=e2800]:
+                      - generic [ref=e2805]: 托马斯微积分-第11版-下册-Thomas' Calculus-11th-Edition-影印版
+                      - generic [ref=e2806]: George B Thomas, Maurice D Weir, Joel R Hass
+                    - img [ref=e2810]
+                    - generic:
+                      - generic: Downloaded
+                - generic "影印版 Thomas' CALCULUS托马斯微积分 上册（第11版）" [ref=e2811]:
+                  - generic "影印版 Thomas' CALCULUS托马斯微积分 上册（第11版）" [ref=e2812]:
+                    - generic [ref=e2813]:
+                      - generic [ref=e2818]: 影印版 Thomas' CALCULUS托马斯微积分 上册（第11版）
+                      - generic [ref=e2819]: WEIR,HASS,GIORDANO
+                    - img [ref=e2823]
+                    - generic:
+                      - generic: Downloaded
+                - generic "Introduction to Linear Algebra" [ref=e2824]:
+                  - generic "Introduction to Linear Algebra" [ref=e2825]:
+                    - generic [ref=e2826]:
+                      - generic [ref=e2831]: Introduction to Linear Algebra
+                      - generic [ref=e2832]: Gilbert Strang
+                    - img [ref=e2836]
+                    - generic:
+                      - generic: Downloaded
+                - generic "工程控制论 Engineering Cybernetics" [ref=e2837]:
+                  - generic "工程控制论 Engineering Cybernetics" [ref=e2838]:
+                    - generic [ref=e2839]:
+                      - generic [ref=e2844]: 工程控制论 Engineering Cybernetics
+                      - generic [ref=e2845]: 钱学森 Qian, Xuesen (Hsue Shen Tsien)
+                    - img [ref=e2849]
+                    - generic:
+                      - generic: Downloaded
+                - generic "工程控制论(新世纪版)" [ref=e2850]:
+                  - generic "工程控制论(新世纪版)" [ref=e2851]:
+                    - generic [ref=e2852]:
+                      - generic [ref=e2857]: 工程控制论(新世纪版)
+                      - generic [ref=e2858]: 钱学森
+                    - img [ref=e2862]
+                    - generic:
+                      - generic: Downloaded
+                - generic "Elementary Differential Equations, Sixth Edition" [ref=e2863]:
+                  - generic "Elementary Differential Equations, Sixth Edition" [ref=e2864]:
+                    - generic [ref=e2865]:
+                      - generic [ref=e2870]: Elementary Differential Equations, Sixth Edition
+                      - generic [ref=e2871]: C. Henry Edwards, David E. Penney
+                    - img [ref=e2875]
+                    - generic:
+                      - generic: Downloaded
+                - 'generic "Differential Equations and Boundary Value Problems: Computing and Modeling" [ref=e2876]':
+                  - 'generic "Differential Equations and Boundary Value Problems: Computing and Modeling" [ref=e2877]':
+                    - generic [ref=e2878]:
+                      - generic [ref=e2883]: "Differential Equations and Boundary Value Problems: Computing and Modeling"
+                      - generic [ref=e2884]: C. Henry Edwards, David E. Penney
+                    - img [ref=e2888]
+                    - generic:
+                      - generic: Downloaded
+                - generic "Differential Equations and Linear Algebra" [ref=e2889]:
+                  - generic "Differential Equations and Linear Algebra" [ref=e2890]:
+                    - generic [ref=e2891]:
+                      - generic [ref=e2896]: Differential Equations and Linear Algebra
+                      - generic [ref=e2897]: Gilbert Strang
+                    - img [ref=e2901]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e2902]:
+                  - generic [ref=e2903]: + 8
+                  - generic [ref=e2904]: Books
+              - list [ref=e2905]:
+                - listitem [ref=e2906]
+                - listitem [ref=e2907]
+                - listitem [ref=e2908]
+                - listitem [ref=e2909]
+                - listitem [ref=e2910]
+                - listitem [ref=e2911]
+                - listitem [ref=e2912]
+                - listitem [ref=e2913]
+              - img [ref=e2914]
+            - generic [ref=e2917]: MIT
+          - link "天翻地覆慨而慷——无产阶级文化大革命大事记（1963.9——1967.10） 首都部分大专院校、中等学校毛泽东思想学习班 Downloaded 文学写作手册 朱明雄等编著 Downloaded 语法讲义 朱德熙 Downloaded 民间针灸绝技 无名 Downloaded “文化大革命”十年史 1966-1976 高皋,严家其 Downloaded 百病中医自我疗养丛书 虚损 李正全著 Downloaded 爆破器材简易生产法 张德耀 Downloaded 中国野菜图谱 陈桂全 等 Downloaded + 37 Books 日常类" [ref=e2919] [cursor=pointer]:
+            - /url: /booklist/2634701/328afd/%E6%97%A5%E5%B8%B8%E7%B1%BB.html
+            - generic [ref=e2920]:
+              - generic [ref=e2921]:
+                - generic "天翻地覆慨而慷——无产阶级文化大革命大事记（1963.9——1967.10）" [ref=e2922]:
+                  - generic "天翻地覆慨而慷——无产阶级文化大革命大事记（1963.9——1967.10）" [ref=e2923]:
+                    - generic [ref=e2924]:
+                      - generic [ref=e2929]: 天翻地覆慨而慷——无产阶级文化大革命大事记（1963.9——1967.10）
+                      - generic [ref=e2930]: 首都部分大专院校、中等学校毛泽东思想学习班
+                    - img [ref=e2934]
+                    - generic:
+                      - generic: Downloaded
+                - generic "文学写作手册" [ref=e2935]:
+                  - generic "文学写作手册" [ref=e2936]:
+                    - generic [ref=e2937]:
+                      - generic [ref=e2942]: 文学写作手册
+                      - generic [ref=e2943]: 朱明雄等编著
+                    - img [ref=e2947]
+                    - generic:
+                      - generic: Downloaded
+                - generic "语法讲义" [ref=e2948]:
+                  - generic "语法讲义" [ref=e2949]:
+                    - generic [ref=e2950]:
+                      - generic [ref=e2955]: 语法讲义
+                      - generic [ref=e2956]: 朱德熙
+                    - img [ref=e2960]
+                    - generic:
+                      - generic: Downloaded
+                - generic "民间针灸绝技" [ref=e2961]:
+                  - generic "民间针灸绝技" [ref=e2962]:
+                    - generic [ref=e2963]:
+                      - generic [ref=e2968]: 民间针灸绝技
+                      - generic [ref=e2969]: 无名
+                    - img [ref=e2973]
+                    - generic:
+                      - generic: Downloaded
+                - generic "“文化大革命”十年史 1966-1976" [ref=e2974]:
+                  - generic "“文化大革命”十年史 1966-1976" [ref=e2975]:
+                    - generic [ref=e2976]:
+                      - generic [ref=e2981]: “文化大革命”十年史 1966-1976
+                      - generic [ref=e2982]: 高皋,严家其
+                    - img [ref=e2986]
+                    - generic:
+                      - generic: Downloaded
+                - generic "百病中医自我疗养丛书 虚损" [ref=e2987]:
+                  - generic "百病中医自我疗养丛书 虚损" [ref=e2988]:
+                    - generic [ref=e2989]:
+                      - generic [ref=e2994]: 百病中医自我疗养丛书 虚损
+                      - generic [ref=e2995]: 李正全著
+                    - img [ref=e2999]
+                    - generic:
+                      - generic: Downloaded
+                - generic "爆破器材简易生产法" [ref=e3000]:
+                  - generic "爆破器材简易生产法" [ref=e3001]:
+                    - generic [ref=e3002]:
+                      - generic [ref=e3007]: 爆破器材简易生产法
+                      - generic [ref=e3008]: 张德耀
+                    - img [ref=e3012]
+                    - generic:
+                      - generic: Downloaded
+                - generic "中国野菜图谱" [ref=e3013]:
+                  - generic "中国野菜图谱" [ref=e3014]:
+                    - generic [ref=e3015]:
+                      - generic [ref=e3020]: 中国野菜图谱
+                      - generic [ref=e3021]: 陈桂全 等
+                    - img [ref=e3025]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e3026]:
+                  - generic [ref=e3027]: + 37
+                  - generic [ref=e3028]: Books
+              - list [ref=e3029]:
+                - listitem [ref=e3030]
+                - listitem [ref=e3031]
+                - listitem [ref=e3032]
+                - listitem [ref=e3033]
+                - listitem [ref=e3034]
+                - listitem [ref=e3035]
+                - listitem [ref=e3036]
+                - listitem [ref=e3037]
+              - img [ref=e3038]
+            - generic [ref=e3041]: 日常类
+          - link "奈特人体解剖学彩色图谱 (Netter's Atlas of Human Anatomy) 弗蘭克·奈特 (Frank H. Netter) Downloaded 中国古代服饰研究 沈从文 Downloaded 规训与惩罚(修订译本)(第4版) = Surveiller et punir [法] 米歇尔·福柯, Michel Foucault, 刘北成(译), 杨远婴(译) Downloaded 中国社会学经典文库（金翼 美好社会与美美与共 社会变革与婚姻家庭变动 陆学艺文萃 乡村治理的社会基础 组织社会学与决策分析 中国的单位组织：资源、权力与交换 当代中国社会分层 中国农村村民自治 小镇喧嚣 跨越边界的社区 银翅：中国的地方社会与文化变迁 中国人行动的逻辑 费孝通,林耀华,王铭铭,庄孔韶,王跃生,贺雪峰,翟学伟 Downloaded 梅花易数入门 中国易学文化研究院 编 Downloaded 道教大辭典 李叔還 Downloaded 中华道教大辞典 胡孚琛 主编 Downloaded 国家地理(中国风水专辑) 2005年版 中国科学院地理科学与资源研究所、中国地理学会 Downloaded + 43 Books 风水" [ref=e3043] [cursor=pointer]:
+            - /url: /booklist/2314475/f8c4c8/%E9%A3%8E%E6%B0%B4.html
+            - generic [ref=e3044]:
+              - generic [ref=e3045]:
+                - generic "奈特人体解剖学彩色图谱 (Netter's Atlas of Human Anatomy)" [ref=e3046]:
+                  - generic "奈特人体解剖学彩色图谱 (Netter's Atlas of Human Anatomy)" [ref=e3047]:
+                    - generic [ref=e3048]:
+                      - generic [ref=e3053]: 奈特人体解剖学彩色图谱 (Netter's Atlas of Human Anatomy)
+                      - generic [ref=e3054]: 弗蘭克·奈特 (Frank H. Netter)
+                    - img [ref=e3058]
+                    - generic:
+                      - generic: Downloaded
+                - generic "中国古代服饰研究" [ref=e3059]:
+                  - generic "中国古代服饰研究" [ref=e3060]:
+                    - generic [ref=e3061]:
+                      - generic [ref=e3066]: 中国古代服饰研究
+                      - generic [ref=e3067]: 沈从文
+                    - img [ref=e3071]
+                    - generic:
+                      - generic: Downloaded
+                - generic "规训与惩罚(修订译本)(第4版) = Surveiller et punir" [ref=e3072]:
+                  - generic "规训与惩罚(修订译本)(第4版) = Surveiller et punir" [ref=e3073]:
+                    - generic [ref=e3074]:
+                      - generic [ref=e3079]: 规训与惩罚(修订译本)(第4版) = Surveiller et punir
+                      - generic [ref=e3080]: "[法] 米歇尔·福柯, Michel Foucault, 刘北成(译), 杨远婴(译)"
+                    - img [ref=e3084]
+                    - generic:
+                      - generic: Downloaded
+                - generic "中国社会学经典文库（金翼 美好社会与美美与共 社会变革与婚姻家庭变动 陆学艺文萃 乡村治理的社会基础 组织社会学与决策分析 中国的单位组织：资源、权力与交换 当代中国社会分层 中国农村村民自治 小镇喧嚣 跨越边界的社区 银翅：中国的地方社会与文化变迁 中国人行动的逻辑" [ref=e3085]:
+                  - generic "中国社会学经典文库（金翼 美好社会与美美与共 社会变革与婚姻家庭变动 陆学艺文萃 乡村治理的社会基础 组织社会学与决策分析 中国的单位组织：资源、权力与交换 当代中国社会分层 中国农村村民自治 小镇喧嚣 跨越边界的社区 银翅：中国的地方社会与文化变迁 中国人行动的逻辑" [ref=e3086]:
+                    - generic [ref=e3087]:
+                      - generic [ref=e3092]: 中国社会学经典文库（金翼 美好社会与美美与共 社会变革与婚姻家庭变动 陆学艺文萃 乡村治理的社会基础 组织社会学与决策分析 中国的单位组织：资源、权力与交换 当代中国社会分层 中国农村村民自治 小镇喧嚣 跨越边界的社区 银翅：中国的地方社会与文化变迁 中国人行动的逻辑
+                      - generic [ref=e3093]: 费孝通,林耀华,王铭铭,庄孔韶,王跃生,贺雪峰,翟学伟
+                    - img [ref=e3097]
+                    - generic:
+                      - generic: Downloaded
+                - generic "梅花易数入门" [ref=e3098]:
+                  - generic "梅花易数入门" [ref=e3099]:
+                    - generic [ref=e3100]:
+                      - generic [ref=e3105]: 梅花易数入门
+                      - generic [ref=e3106]: 中国易学文化研究院 编
+                    - img [ref=e3110]
+                    - generic:
+                      - generic: Downloaded
+                - generic "道教大辭典" [ref=e3111]:
+                  - generic "道教大辭典" [ref=e3112]:
+                    - generic [ref=e3113]:
+                      - generic [ref=e3118]: 道教大辭典
+                      - generic [ref=e3119]: 李叔還
+                    - img [ref=e3123]
+                    - generic:
+                      - generic: Downloaded
+                - generic "中华道教大辞典" [ref=e3124]:
+                  - generic "中华道教大辞典" [ref=e3125]:
+                    - generic [ref=e3126]:
+                      - generic [ref=e3131]: 中华道教大辞典
+                      - generic [ref=e3132]: 胡孚琛 主编
+                    - img [ref=e3136]
+                    - generic:
+                      - generic: Downloaded
+                - generic "国家地理(中国风水专辑) 2005年版" [ref=e3137]:
+                  - generic "国家地理(中国风水专辑) 2005年版" [ref=e3138]:
+                    - generic [ref=e3139]:
+                      - generic [ref=e3144]: 国家地理(中国风水专辑) 2005年版
+                      - generic [ref=e3145]: 中国科学院地理科学与资源研究所、中国地理学会
+                    - img [ref=e3149]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e3150]:
+                  - generic [ref=e3151]: + 43
+                  - generic [ref=e3152]: Books
+              - list [ref=e3153]:
+                - listitem [ref=e3154]
+                - listitem [ref=e3155]
+                - listitem [ref=e3156]
+                - listitem [ref=e3157]
+                - listitem [ref=e3158]
+                - listitem [ref=e3159]
+                - listitem [ref=e3160]
+                - listitem [ref=e3161]
+              - img [ref=e3162]
+            - generic [ref=e3165]: 风水
+          - 'link "叫魂：1768年中国妖术大恐慌 = Soulstealers: The Chinese Sorcery Scare of 1768 孔飞力, Philip Alden Kuhn, Philip A. Kuhn, 陈兼, 刘昶 Downloaded 重组与突破 黄奇帆 Downloaded 当代中国政府与政治 景跃进 Downloaded 以利为利：财政关系与地方政府行为 周飞舟 Downloaded 转型中的地方政府：官员激励与治理(第二版) (当代经济学系列丛书 当代经济学文库) 周黎安 Downloaded 盐铁论--中华经典名著全本全注全译丛书 陈桐生 Downloaded 乡土中国（修订本） 费孝通 & 刘豪兴 Downloaded town hustle and bustle: a township political interpretation of action and interpretation (paperback) WU YI Downloaded + 209 Books mybook" [ref=e3167] [cursor=pointer]':
+            - /url: /booklist/2664177/26b7d4/mybook.html
+            - generic [ref=e3168]:
+              - generic [ref=e3169]:
+                - 'generic "叫魂：1768年中国妖术大恐慌 = Soulstealers: The Chinese Sorcery Scare of 1768" [ref=e3170]':
+                  - 'generic "叫魂：1768年中国妖术大恐慌 = Soulstealers: The Chinese Sorcery Scare of 1768" [ref=e3171]':
+                    - generic [ref=e3172]:
+                      - generic [ref=e3177]: "叫魂：1768年中国妖术大恐慌 = Soulstealers: The Chinese Sorcery Scare of 1768"
+                      - generic [ref=e3178]: 孔飞力, Philip Alden Kuhn, Philip A. Kuhn, 陈兼, 刘昶
+                    - img [ref=e3182]
+                    - generic:
+                      - generic: Downloaded
+                - generic "重组与突破" [ref=e3183]:
+                  - generic "重组与突破" [ref=e3184]:
+                    - generic [ref=e3185]:
+                      - generic [ref=e3190]: 重组与突破
+                      - generic [ref=e3191]: 黄奇帆
+                    - img [ref=e3195]
+                    - generic:
+                      - generic: Downloaded
+                - generic "当代中国政府与政治" [ref=e3196]:
+                  - generic "当代中国政府与政治" [ref=e3197]:
+                    - generic [ref=e3198]:
+                      - generic [ref=e3203]: 当代中国政府与政治
+                      - generic [ref=e3204]: 景跃进
+                    - img [ref=e3208]
+                    - generic:
+                      - generic: Downloaded
+                - generic "以利为利：财政关系与地方政府行为" [ref=e3209]:
+                  - generic "以利为利：财政关系与地方政府行为" [ref=e3210]:
+                    - generic [ref=e3211]:
+                      - generic [ref=e3216]: 以利为利：财政关系与地方政府行为
+                      - generic [ref=e3217]: 周飞舟
+                    - img [ref=e3221]
+                    - generic:
+                      - generic: Downloaded
+                - generic "转型中的地方政府：官员激励与治理(第二版) (当代经济学系列丛书 当代经济学文库)" [ref=e3222]:
+                  - generic "转型中的地方政府：官员激励与治理(第二版) (当代经济学系列丛书 当代经济学文库)" [ref=e3223]:
+                    - generic [ref=e3224]:
+                      - generic [ref=e3229]: 转型中的地方政府：官员激励与治理(第二版) (当代经济学系列丛书 当代经济学文库)
+                      - generic [ref=e3230]: 周黎安
+                    - img [ref=e3234]
+                    - generic:
+                      - generic: Downloaded
+                - generic "盐铁论--中华经典名著全本全注全译丛书" [ref=e3235]:
+                  - generic "盐铁论--中华经典名著全本全注全译丛书" [ref=e3236]:
+                    - generic [ref=e3237]:
+                      - generic [ref=e3242]: 盐铁论--中华经典名著全本全注全译丛书
+                      - generic [ref=e3243]: 陈桐生
+                    - img [ref=e3247]
+                    - generic:
+                      - generic: Downloaded
+                - generic "乡土中国（修订本）" [ref=e3248]:
+                  - generic "乡土中国（修订本）" [ref=e3249]:
+                    - generic [ref=e3250]:
+                      - generic [ref=e3255]: 乡土中国（修订本）
+                      - generic [ref=e3256]: 费孝通 & 刘豪兴
+                    - img [ref=e3260]
+                    - generic:
+                      - generic: Downloaded
+                - 'generic "town hustle and bustle: a township political interpretation of action and interpretation (paperback)" [ref=e3261]':
+                  - 'generic "town hustle and bustle: a township political interpretation of action and interpretation (paperback)" [ref=e3262]':
+                    - generic [ref=e3263]:
+                      - generic [ref=e3268]: "town hustle and bustle: a township political interpretation of action and interpretation (paperback)"
+                      - generic [ref=e3269]: WU YI
+                    - img [ref=e3273]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e3274]:
+                  - generic [ref=e3275]: + 209
+                  - generic [ref=e3276]: Books
+              - list [ref=e3277]:
+                - listitem [ref=e3278]
+                - listitem [ref=e3279]
+                - listitem [ref=e3280]
+                - listitem [ref=e3281]
+                - listitem [ref=e3282]
+                - listitem [ref=e3283]
+                - listitem [ref=e3284]
+                - listitem [ref=e3285]
+              - img [ref=e3286]
+            - generic [ref=e3289]: mybook
+          - link "工程控制论 Engineering Cybernetics 钱学森 Qian, Xuesen (Hsue Shen Tsien) Downloaded 工程控制论(新世纪版) 钱学森 Downloaded 飞机的性能、－－稳窟悝、一动力学与控制 （美）帕玛迪(Pamadi, B. N. ）商重阳等译． Downloaded Aerospace" [ref=e3291] [cursor=pointer]:
+            - /url: /booklist/1243917/bc655a/aerospace.html
+            - generic [ref=e3292]:
+              - generic [ref=e3293]:
+                - generic "工程控制论 Engineering Cybernetics" [ref=e3294]:
+                  - generic "工程控制论 Engineering Cybernetics" [ref=e3295]:
+                    - generic [ref=e3296]:
+                      - generic [ref=e3301]: 工程控制论 Engineering Cybernetics
+                      - generic [ref=e3302]: 钱学森 Qian, Xuesen (Hsue Shen Tsien)
+                    - img [ref=e3306]
+                    - generic:
+                      - generic: Downloaded
+                - generic "工程控制论(新世纪版)" [ref=e3307]:
+                  - generic "工程控制论(新世纪版)" [ref=e3308]:
+                    - generic [ref=e3309]:
+                      - generic [ref=e3314]: 工程控制论(新世纪版)
+                      - generic [ref=e3315]: 钱学森
+                    - img [ref=e3319]
+                    - generic:
+                      - generic: Downloaded
+                - generic "飞机的性能、－－稳窟悝、一动力学与控制" [ref=e3320]:
+                  - generic "飞机的性能、－－稳窟悝、一动力学与控制" [ref=e3321]:
+                    - generic [ref=e3322]:
+                      - generic [ref=e3327]: 飞机的性能、－－稳窟悝、一动力学与控制
+                      - generic [ref=e3328]: （美）帕玛迪(Pamadi, B. N. ）商重阳等译．
+                    - img [ref=e3332]
+                    - generic:
+                      - generic: Downloaded
+              - list [ref=e3333]:
+                - listitem [ref=e3334]
+                - listitem [ref=e3335]
+                - listitem [ref=e3336]
+              - img [ref=e3337]
+            - generic [ref=e3340]: Aerospace
+          - 'link "红岩 罗广斌，杨益言 Downloaded 温铁军套装（共5册） 温铁军 Downloaded 工程控制论(新世纪版) 钱学森 Downloaded 工程控制论 Engineering Cybernetics 钱学森 Qian, Xuesen (Hsue Shen Tsien) Downloaded 中共間諜戰術全解析 : 800 起真實案例, 前美國中情局官員揭露全球共諜行動的面貌 = Chinese Espionage: Operations and Tactics 尼可拉斯 · 艾夫提米亞迪斯 (Nicholas Eftimiades) 著 ; 江冠廷 譯 Downloaded 文革中的检讨书 史实 Downloaded 南明史 顾诚 Downloaded 尚书 王世舜,王翠叶 Downloaded + 9 Books 中文" [ref=e3342] [cursor=pointer]':
+            - /url: /booklist/3219194/db0b2a/%E4%B8%AD%E6%96%87.html
+            - generic [ref=e3343]:
+              - generic [ref=e3344]:
+                - generic "红岩" [ref=e3345]:
+                  - generic "红岩" [ref=e3346]:
+                    - generic [ref=e3347]:
+                      - generic [ref=e3352]: 红岩
+                      - generic [ref=e3353]: 罗广斌，杨益言
+                    - img [ref=e3357]
+                    - generic:
+                      - generic: Downloaded
+                - generic "温铁军套装（共5册）" [ref=e3358]:
+                  - generic "温铁军套装（共5册）" [ref=e3359]:
+                    - generic [ref=e3360]:
+                      - generic [ref=e3365]: 温铁军套装（共5册）
+                      - generic [ref=e3366]: 温铁军
+                    - img [ref=e3370]
+                    - generic:
+                      - generic: Downloaded
+                - generic "工程控制论(新世纪版)" [ref=e3371]:
+                  - generic "工程控制论(新世纪版)" [ref=e3372]:
+                    - generic [ref=e3373]:
+                      - generic [ref=e3378]: 工程控制论(新世纪版)
+                      - generic [ref=e3379]: 钱学森
+                    - img [ref=e3383]
+                    - generic:
+                      - generic: Downloaded
+                - generic "工程控制论 Engineering Cybernetics" [ref=e3384]:
+                  - generic "工程控制论 Engineering Cybernetics" [ref=e3385]:
+                    - generic [ref=e3386]:
+                      - generic [ref=e3391]: 工程控制论 Engineering Cybernetics
+                      - generic [ref=e3392]: 钱学森 Qian, Xuesen (Hsue Shen Tsien)
+                    - img [ref=e3396]
+                    - generic:
+                      - generic: Downloaded
+                - 'generic "中共間諜戰術全解析 : 800 起真實案例, 前美國中情局官員揭露全球共諜行動的面貌 = Chinese Espionage: Operations and Tactics" [ref=e3397]':
+                  - 'generic "中共間諜戰術全解析 : 800 起真實案例, 前美國中情局官員揭露全球共諜行動的面貌 = Chinese Espionage: Operations and Tactics" [ref=e3398]':
+                    - generic [ref=e3399]:
+                      - generic [ref=e3404]: "中共間諜戰術全解析 : 800 起真實案例, 前美國中情局官員揭露全球共諜行動的面貌 = Chinese Espionage: Operations and Tactics"
+                      - generic [ref=e3405]: 尼可拉斯 · 艾夫提米亞迪斯 (Nicholas Eftimiades) 著 ; 江冠廷 譯
+                    - img [ref=e3409]
+                    - generic:
+                      - generic: Downloaded
+                - generic "文革中的检讨书" [ref=e3410]:
+                  - generic "文革中的检讨书" [ref=e3411]:
+                    - generic [ref=e3412]:
+                      - generic [ref=e3417]: 文革中的检讨书
+                      - generic [ref=e3418]: 史实
+                    - img [ref=e3422]
+                    - generic:
+                      - generic: Downloaded
+                - generic "南明史" [ref=e3423]:
+                  - generic "南明史" [ref=e3424]:
+                    - generic [ref=e3425]:
+                      - generic [ref=e3430]: 南明史
+                      - generic [ref=e3431]: 顾诚
+                    - img [ref=e3435]
+                    - generic:
+                      - generic: Downloaded
+                - generic "尚书" [ref=e3436]:
+                  - generic "尚书" [ref=e3437]:
+                    - generic [ref=e3438]:
+                      - generic [ref=e3443]: 尚书
+                      - generic [ref=e3444]: 王世舜,王翠叶
+                    - img [ref=e3448]
+                    - generic:
+                      - generic: Downloaded
+                - generic [ref=e3449]:
+                  - generic [ref=e3450]: + 9
+                  - generic [ref=e3451]: Books
+              - list [ref=e3452]:
+                - listitem [ref=e3453]
+                - listitem [ref=e3454]
+                - listitem [ref=e3455]
+                - listitem [ref=e3456]
+                - listitem [ref=e3457]
+                - listitem [ref=e3458]
+                - listitem [ref=e3459]
+                - listitem [ref=e3460]
+              - img [ref=e3461]
+            - generic [ref=e3464]: 中文
+          - link "工程控制论 Engineering Cybernetics 钱学森 Qian, Xuesen (Hsue Shen Tsien) Downloaded Engineering cybernetics Hsue Shen Tsien Downloaded Engineering cybernetics H. S. Tsien Downloaded 论人体科学 钱学森等著, 钱学森等, Hsue Shen Tsien, 钱学森等著, 钱学森 Downloaded Notes on Physical Mechanics = 物理力学讲义 英文版 Hsue-Shen Tsien Downloaded 钱学森 中央电视台六集传记电视纪录片 中央电视台，北京科学教育电影制片厂《钱学森》摄制组编, 中央电视台, 北京科学教育电影制片厂\"钱学森\"摄制组编, 中央电视台(Beijing, China), 北京科学教育电影制片厂, 中央电视台, 北京科学教育电影制片厂《钱学森》摄制组编, 中央电视台 (北京, 中国), 北京科学教育电影制片厂, 中央电视台, 北京科学教育电影制片厂[钱学森]摄制组编, 中央电视台, 北京科学教育电影制片厂钱学森摄制组 Downloaded 钱学森" [ref=e3466] [cursor=pointer]:
+            - /url: /booklist/3002531/1afa4a/%E9%92%B1%E5%AD%A6%E6%A3%AE.html
+            - generic [ref=e3467]:
+              - generic [ref=e3468]:
+                - generic "工程控制论 Engineering Cybernetics" [ref=e3469]:
+                  - generic "工程控制论 Engineering Cybernetics" [ref=e3470]:
+                    - generic [ref=e3471]:
+                      - generic [ref=e3476]: 工程控制论 Engineering Cybernetics
+                      - generic [ref=e3477]: 钱学森 Qian, Xuesen (Hsue Shen Tsien)
+                    - img [ref=e3481]
+                    - generic:
+                      - generic: Downloaded
+                - generic "Engineering cybernetics" [ref=e3482]:
+                  - generic "Engineering cybernetics" [ref=e3483]:
+                    - generic [ref=e3484]:
+                      - generic [ref=e3489]: Engineering cybernetics
+                      - generic [ref=e3490]: Hsue Shen Tsien
+                    - img [ref=e3494]
+                    - generic:
+                      - generic: Downloaded
+                - generic "Engineering cybernetics" [ref=e3495]:
+                  - generic "Engineering cybernetics" [ref=e3496]:
+                    - generic [ref=e3497]:
+                      - generic [ref=e3502]: Engineering cybernetics
+                      - generic [ref=e3503]: H. S. Tsien
+                    - img [ref=e3507]
+                    - generic:
+                      - generic: Downloaded
+                - generic "论人体科学" [ref=e3508]:
+                  - generic "论人体科学" [ref=e3509]:
+                    - generic [ref=e3510]:
+                      - generic [ref=e3515]: 论人体科学
+                      - generic [ref=e3516]: 钱学森等著, 钱学森等, Hsue Shen Tsien, 钱学森等著, 钱学森
+                    - img [ref=e3520]
+                    - generic:
+                      - generic: Downloaded
+                - generic "Notes on Physical Mechanics = 物理力学讲义 英文版" [ref=e3521]:
+                  - generic "Notes on Physical Mechanics = 物理力学讲义 英文版" [ref=e3522]:
+                    - generic [ref=e3523]:
+                      - generic [ref=e3528]: Notes on Physical Mechanics = 物理力学讲义 英文版
+                      - generic [ref=e3529]: Hsue-Shen Tsien
+                    - img [ref=e3533]
+                    - generic:
+                      - generic: Downloaded
+                - generic "钱学森 中央电视台六集传记电视纪录片" [ref=e3534]:
+                  - generic "钱学森 中央电视台六集传记电视纪录片" [ref=e3535]:
+                    - generic [ref=e3536]:
+                      - generic [ref=e3541]: 钱学森 中央电视台六集传记电视纪录片
+                      - generic [ref=e3542]: 中央电视台，北京科学教育电影制片厂《钱学森》摄制组编, 中央电视台, 北京科学教育电影制片厂"钱学森"摄制组编, 中央电视台(Beijing, China), 北京科学教育电影制片厂, 中央电视台, 北京科学教育电影制片厂《钱学森》摄制组编, 中央电视台 (北京, 中国), 北京科学教育电影制片厂, 中央电视台, 北京科学教育电影制片厂[钱学森]摄制组编, 中央电视台, 北京科学教育电影制片厂钱学森摄制组
+                    - img [ref=e3546]
+                    - generic:
+                      - generic: Downloaded
+              - list [ref=e3547]:
+                - listitem [ref=e3548]
+                - listitem [ref=e3549]
+                - listitem [ref=e3550]
+                - listitem [ref=e3551]
+                - listitem [ref=e3552]
+                - listitem [ref=e3553]
+              - img [ref=e3554]
+            - generic [ref=e3557]: 钱学森
+          - link "工程控制论 (上册) (第三版) 钱学森, 宋健 Downloaded 工程控制论 (下册) (第三版) 钱学森, 宋健 Downloaded 工程控制论 Engineering Cybernetics 钱学森 Qian, Xuesen (Hsue Shen Tsien) Downloaded Control Theory" [ref=e3559] [cursor=pointer]:
+            - /url: /booklist/1134668/8bbd1a/control-theory.html
+            - generic [ref=e3560]:
+              - generic [ref=e3561]:
+                - generic "工程控制论 (上册) (第三版)" [ref=e3562]:
+                  - generic "工程控制论 (上册) (第三版)" [ref=e3563]:
+                    - generic [ref=e3564]:
+                      - generic [ref=e3569]: 工程控制论 (上册) (第三版)
+                      - generic [ref=e3570]: 钱学森, 宋健
+                    - img [ref=e3574]
+                    - generic:
+                      - generic: Downloaded
+                - generic "工程控制论 (下册) (第三版)" [ref=e3575]:
+                  - generic "工程控制论 (下册) (第三版)" [ref=e3576]:
+                    - generic [ref=e3577]:
+                      - generic [ref=e3582]: 工程控制论 (下册) (第三版)
+                      - generic [ref=e3583]: 钱学森, 宋健
+                    - img [ref=e3587]
+                    - generic:
+                      - generic: Downloaded
+                - generic "工程控制论 Engineering Cybernetics" [ref=e3588]:
+                  - generic "工程控制论 Engineering Cybernetics" [ref=e3589]:
+                    - generic [ref=e3590]:
+                      - generic [ref=e3595]: 工程控制论 Engineering Cybernetics
+                      - generic [ref=e3596]: 钱学森 Qian, Xuesen (Hsue Shen Tsien)
+                    - img [ref=e3600]
+                    - generic:
+                      - generic: Downloaded
+              - list [ref=e3601]:
+                - listitem [ref=e3602]
+                - listitem [ref=e3603]
+                - listitem [ref=e3604]
+              - img [ref=e3605]
+            - generic [ref=e3608]: Control Theory
+        - generic:
+          - generic: 
+        - generic [ref=e3610] [cursor=pointer]: 
+  - generic [ref=e3613]:
+    - generic [ref=e3614]:
+      - figure "— Carlos María Domínguez" [ref=e3616]:
+        - blockquote [ref=e3617]:
+          - text: “
+          - paragraph [ref=e3618]: To build up a library is to create a life. It’s never just a random collection of books.
+          - text: ”
+        - generic [ref=e3619]: — Carlos María Domínguez
+      - list [ref=e3621]:
+        - listitem [ref=e3622]:
+          - link " Official channel" [ref=e3623] [cursor=pointer]:
+            - /url: https://x.com/Z_Lib_official
+            - generic [ref=e3624]: 
+            - text: Official channel
+        - listitem [ref=e3625]:
+          - link "" [ref=e3626] [cursor=pointer]:
+            - /url: ""
+            - generic [ref=e3627]: 
+        - listitem [ref=e3628]:
+          - link "" [ref=e3629] [cursor=pointer]:
+            - /url: https://mastodon.social/@Z_Lib_official
+            - generic [ref=e3630]: 
+      - generic [ref=e3631]:
+        - link [ref=e3632] [cursor=pointer]:
+          - /url: /z-access#desktop_app_tab
+          - article [ref=e3633]:
+            - img "Z-Library Desktop Launcher" [ref=e3634]
+            - generic [ref=e3635]: Z-Library
+        - link [ref=e3636] [cursor=pointer]:
+          - /url: /z-access#useful_link_tab
+          - article [ref=e3637]:
+            - img "Tor version" [ref=e3638]
+            - generic [ref=e3639]: Z-Library
+    - generic [ref=e3640]:
+      - generic [ref=e3641]:
+        - generic [ref=e3642]: Z-Library
+        - list [ref=e3643]:
+          - listitem [ref=e3644]:
+            - link "Blog" [ref=e3645] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e3646]:
+            - link "Z-Access" [ref=e3647] [cursor=pointer]:
+              - /url: https://library-access.sk
+          - listitem [ref=e3648]:
+            - link "Our Mission" [ref=e3649] [cursor=pointer]:
+              - /url: /mission
+          - listitem [ref=e3650]:
+            - link "Share your story" [ref=e3651] [cursor=pointer]:
+              - /url: /testimonials
+          - listitem [ref=e3652]:
+            - link "Support us" [ref=e3653] [cursor=pointer]:
+              - /url: https://www.change.org/zlibrary2023
+          - listitem [ref=e3654]:
+            - link "Institutions Support" [ref=e3655] [cursor=pointer]:
+              - /url: /request-help
+          - listitem [ref=e3656]:
+            - link "Support for authors" [ref=e3657] [cursor=pointer]:
+              - /url: /promotion/books
+          - listitem [ref=e3658]:
+            - link "LibTalks" [ref=e3659] [cursor=pointer]:
+              - /url: https://lib-talk.io
+      - generic [ref=e3660]:
+        - generic [ref=e3661]: Help
+        - list [ref=e3662]:
+          - listitem [ref=e3663]:
+            - link "DMCA" [ref=e3664] [cursor=pointer]:
+              - /url: /dmca
+          - listitem [ref=e3665]:
+            - link "Terms" [ref=e3666] [cursor=pointer]:
+              - /url: /tos
+          - listitem [ref=e3667]:
+            - link "FAQ" [ref=e3668] [cursor=pointer]:
+              - /url: /faq
+    - generic [ref=e3669]:
+      - generic [ref=e3670]:
+        - img "Z-Library" [ref=e3672]
+        - generic [ref=e3673]:
+          - link "Z-Library" [ref=e3674] [cursor=pointer]:
+            - /url: https://z-library.sk
+          - text: Since 2009
+        - link "support@z-lib.fm" [ref=e3676] [cursor=pointer]:
+          - /url: "mailto: support@z-lib.fm"
+      - generic [ref=e3679] [cursor=pointer]:
+        - generic [ref=e3680]: 
+        - generic [ref=e3681]: English
+  - generic:
+    - img
+    - generic: 

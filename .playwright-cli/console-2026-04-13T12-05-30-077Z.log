@@ -1,0 +1,3 @@
+[    3472ms] SecurityError: Failed to execute 'getImageData' on 'CanvasRenderingContext2D': The canvas has been tainted by cross-origin data.
+    at Cover.getAverageColorFromImageElement (https://z-library.sk/components/z-cover.js?0.907:556:31)
+    at HTMLImageElement.<anonymous> (https://z-library.sk/components/z-cover.js?0.907:475:44)

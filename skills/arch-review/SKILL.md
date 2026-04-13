@@ -1,6 +1,8 @@
 ---
 name: arch-review
 description: 检查代码是否符合架构规范（分层依赖、边界解析等）
+concurrency_safe: true
+read_only: true
 ---
 
 # 架构审核 Skill

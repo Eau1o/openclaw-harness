@@ -1,0 +1,469 @@
+- generic [ref=e1]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]:
+      - link "Z-Library Home" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - text: Z-Library Home  
+      - link "My Library" [ref=e7] [cursor=pointer]:
+        - /url: /profile#tags
+        - text: My Library  
+    - generic [ref=e9]:
+      - link "English" [ref=e10] [cursor=pointer]:
+        - /url: https://z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "Русский" [ref=e11] [cursor=pointer]:
+        - /url: http://ru.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "Español" [ref=e12] [cursor=pointer]:
+        - /url: http://es.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "Italiano" [ref=e13] [cursor=pointer]:
+        - /url: http://it.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "Ελληνικά" [ref=e14] [cursor=pointer]:
+        - /url: http://el.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "اللغة العربية" [ref=e15] [cursor=pointer]:
+        - /url: http://ar.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "Bahasa Indonesia" [ref=e16] [cursor=pointer]:
+        - /url: http://id.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "Bahasa Malaysia" [ref=e17] [cursor=pointer]:
+        - /url: http://ms.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "हिन्दी" [ref=e18] [cursor=pointer]:
+        - /url: http://hi.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "Deutsch" [ref=e19] [cursor=pointer]:
+        - /url: http://de.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "Français" [ref=e20] [cursor=pointer]:
+        - /url: http://fr.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "Português" [ref=e21] [cursor=pointer]:
+        - /url: http://pt.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "Українська" [ref=e22] [cursor=pointer]:
+        - /url: http://uk.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "Polski" [ref=e23] [cursor=pointer]:
+        - /url: http://pl.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "中文" [ref=e24] [cursor=pointer]:
+        - /url: http://zh.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "繁體中文" [ref=e25] [cursor=pointer]:
+        - /url: http://tw.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "日本語" [ref=e26] [cursor=pointer]:
+        - /url: http://ja.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "Tiếng Việt" [ref=e27] [cursor=pointer]:
+        - /url: http://vi.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "Azərbaycan Dili" [ref=e28] [cursor=pointer]:
+        - /url: http://az.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "Հայոց լեզու" [ref=e29] [cursor=pointer]:
+        - /url: http://hy.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "ภาษาไทย" [ref=e30] [cursor=pointer]:
+        - /url: http://th.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "Türk Dili" [ref=e31] [cursor=pointer]:
+        - /url: http://tr.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "ქართველი" [ref=e32] [cursor=pointer]:
+        - /url: http://ka.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "বাংলা" [ref=e33] [cursor=pointer]:
+        - /url: http://bn.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "پښتو" [ref=e34] [cursor=pointer]:
+        - /url: http://ps.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "తెలుగు" [ref=e35] [cursor=pointer]:
+        - /url: http://te.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "اردو" [ref=e36] [cursor=pointer]:
+        - /url: http://ur.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "한국어" [ref=e37] [cursor=pointer]:
+        - /url: http://ko.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "Srpski" [ref=e38] [cursor=pointer]:
+        - /url: http://sr.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+      - link "Български" [ref=e39] [cursor=pointer]:
+        - /url: http://bg.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+    - link "Donate" [ref=e41] [cursor=pointer]:
+      - /url: /how-to-donate
+    - generic [ref=e42]:
+      - generic [ref=e44] [cursor=pointer]: 
+      - textbox "Search for title, author, ISBN, DOI, publisher, md5…" [ref=e45]
+    - generic [ref=e48] [cursor=pointer]:
+      - generic [ref=e50]: 
+      - generic [ref=e51]: 
+      - generic [ref=e52]: 
+    - link "Log In" [ref=e54] [cursor=pointer]:
+      - /url: /login?redirectUrl=https%253A%252F%252Fz-lib.by%252Fs%252F%2525E5%2525B7%2525A5%2525E7%2525A8%25258B%2525E6%25258E%2525A7%2525E5%252588%2525B6%2525E8%2525AE%2525BA
+    - generic [ref=e55]:
+      - generic [ref=e57] [cursor=pointer]: 
+      - text:                         
+  - generic [ref=e60]:
+    - generic [ref=e61]:
+      - generic [ref=e62]:
+        - link "Z-Library" [ref=e64] [cursor=pointer]:
+          - /url: /
+          - img "Z-Library" [ref=e65]
+        - generic [ref=e66]: Your gateway to knowledge and culture. Accessible for everyone.
+      - generic [ref=e67]:
+        - text: Are you familiar with a high-risk merchant or do you process payments?
+        - link "Yes, I am." [ref=e68] [cursor=pointer]:
+          - /url: javascript://
+        - link "×" [ref=e69] [cursor=pointer]:
+          - /url: javascript://
+      - generic [ref=e70]:
+        - list [ref=e71]:
+          - listitem [ref=e73]:
+            - tab "General Search" [ref=e74] [cursor=pointer]
+          - listitem [ref=e76]:
+            - tab "Full-Text Search" [ref=e77] [cursor=pointer]
+        - generic [ref=e80]:
+          - textbox "Search for title, author, ISBN, DOI, publisher, md5…" [active] [ref=e82]: 工程控制论
+          - button "Search" [ref=e85] [cursor=pointer]: Search 
+        - generic [ref=e89] [cursor=pointer]: Search options
+    - generic [ref=e90]:
+      - generic [ref=e91]:
+        - link "Books (150+)" [ref=e92] [cursor=pointer]:
+          - /url: https://z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA?content_type=book
+        - link "Articles" [ref=e93] [cursor=pointer]:
+          - /url: https://z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA?content_type=article
+      - generic [ref=e94]:
+        - generic [ref=e95]: Most Popular
+        - generic [ref=e96]: Best Match
+        - generic [ref=e97]: Recently Added
+        - generic [ref=e98]: By Title (A-Z)
+        - generic [ref=e99]: By Title (Z-A)
+        - generic [ref=e100]: By Year
+        - generic [ref=e101]: File Size ↓
+        - generic [ref=e102]: File Size ↑
+      - generic [ref=e103]:
+        - generic [ref=e104]: List
+        - generic [ref=e105]: Table
+    - generic [ref=e106]:
+      - generic [ref=e108]:
+        - img
+        - generic [ref=e109]: 工程控制论(新世纪版)
+        - generic [ref=e110]: 钱学森
+      - generic [ref=e113]:
+        - img
+        - generic [ref=e114]: 工程控制论 (下册) (第三版)
+        - generic [ref=e115]: 钱学森; 宋健
+      - generic [ref=e118]:
+        - img
+        - generic [ref=e119]: 工程控制论 (上册) (第三版)
+        - generic [ref=e120]: 钱学森; 宋健
+      - generic [ref=e123]:
+        - img
+        - generic [ref=e124]: 工程控制论 Engineering Cybernetics
+        - generic [ref=e125]: 钱学森 Qian; Xuesen (Hsue Shen Tsien)
+      - generic [ref=e128]:
+        - img
+        - generic [ref=e129]: 工程控制论（上、下册）
+        - generic [ref=e130]: 钱学森、宋健
+      - generic [ref=e134]:
+        - img
+        - generic [ref=e135]: 工程控制论（上册）第三版
+        - generic [ref=e136]: 钱学森
+      - generic [ref=e139]:
+        - img
+        - generic [ref=e140]: 模型预测控制工程应用导论
+        - generic [ref=e141]: 邹涛; 丁宝苍; 张端
+      - generic [ref=e144]:
+        - img
+        - generic [ref=e145]: 从刻漏到无人机：摘下控制学理论与工程的面具（知乎无人机中的城堡作品） (知乎「一小时」系列)
+        - generic [ref=e146]: 无人机中的城堡 & 知乎
+      - generic [ref=e149]:
+        - img
+        - generic [ref=e150]: 从刻漏到无人机：摘下控制学理论与工程的面具（知乎无人机中的城堡作品） (知乎「一小时」系列)
+        - generic [ref=e151]: 无人机中的城堡 & 知乎
+      - generic [ref=e154]:
+        - img
+        - generic [ref=e155]: 工程控制论
+        - generic [ref=e156]: 钱学森
+      - generic [ref=e159]:
+        - img
+        - generic [ref=e160]: 工程控制论
+        - generic [ref=e161]: 钱学森
+      - generic [ref=e164]:
+        - img
+        - generic [ref=e165]: 工程控制论
+        - generic [ref=e166]: 钱学森著；戴汝为等译
+      - generic [ref=e169]:
+        - img
+        - generic [ref=e170]: 工程控制论
+        - generic [ref=e171]: 钱学森，宋健著
+      - generic [ref=e174]:
+        - img
+        - generic [ref=e175]: 控制理论MATLAB教程
+        - generic [ref=e176]: Katsuhiko Ogata（ 尾形克彦） 王诗宓 王峻
+      - generic [ref=e179]:
+        - img
+        - generic [ref=e180]: 过程装备与控制工程 第十一届全国高等学校过程装备与控制工程专业教学改革与学科建设成果校际交流会论文集
+        - generic [ref=e181]: 教育部高等学校机械学科过程装备与控制工程教学指导分委员会编; 教育部高等学校机械学科过程装备与控制工程教学指导分委员会编; 教育部; 全国高等学校过程装备与控制工程专业教学改革与学科建设成果校际交流会
+      - generic [ref=e184]:
+        - img
+        - generic [ref=e185]: 过程装备与控制工程：第十届全国高等学校过程装备与控制工程专业教学改革与学科建设成果校际交流会论文集
+        - generic [ref=e186]: 《过程装备与控制工程》编委会编; 教育部高等学校机械学科过程装备与控制工程专业教学指导分委员会编; 教育部高等学校机械学科过程装备与控制工程专业教学指导分委员会
+      - generic [ref=e189]:
+        - img
+        - generic [ref=e190]: 过程装备与控制工程 第九届全国高等学校过程装备与控制工程专业教学改革与学科建设成果校际交流会论文集
+        - generic [ref=e191]: 教育部高等学校机械学科过程装备与控制工程专业教学指导分委员会编; Jiao yu bu. Gao deng xue xiao ji xie xue ke guo cheng zhuang bei yu kong zhi gong cheng zhuan ye jiao xue zhi dao fen wei yuan hui; 教育部高等学校机械学科过程装备与控制工程专业教学指导分委员会编; 教育部
+      - generic [ref=e194]:
+        - img
+        - generic [ref=e195]: 工程控制论（上、下册）
+        - generic [ref=e196]: 钱学森、宋健
+      - generic [ref=e199]:
+        - img
+        - generic [ref=e200]: 工程控制论（第3版）上册
+        - generic [ref=e201]: 钱学森，宋健
+      - generic [ref=e204]:
+        - img
+        - generic [ref=e205]: 工程控制论 新世纪版
+        - generic [ref=e206]: 钱学森
+      - generic [ref=e209]:
+        - img
+        - generic [ref=e210]: 工程控制论（下）（第三版）
+        - generic [ref=e211]: 钱学森; 宋健 著
+      - generic [ref=e214]:
+        - img
+        - generic [ref=e215]: 工程控制论（第3版）下册
+        - generic [ref=e216]: 钱学森，宋健
+      - generic [ref=e219]:
+        - img
+        - generic [ref=e220]: 工程控制论（上册）（第三版）
+        - generic [ref=e221]: 钱学森; 宋健 著
+      - generic [ref=e224]:
+        - img
+        - generic [ref=e225]: 考研热门专业读书笔记及内部资料汇编 （控制理论与控制工程分册）
+        - generic [ref=e226]: 全国知名重点大学联合编写组编
+      - generic [ref=e229]:
+        - img
+        - generic [ref=e230]: 反馈控制导论 国际电气工程先进技术译丛
+        - generic [ref=e231]: （西班牙）佩德罗·阿尔韦托斯，（澳大利亚）艾文·马雷斯; 阿尔韦托斯 (Albertos; Pedro); (西) 阿尔韦托斯
+      - generic [ref=e234]:
+        - img
+        - generic [ref=e235]: engineering cybernetics = 工程控制论（英文版）
+      - generic [ref=e238]:
+        - img
+        - generic [ref=e239]: 首届过程装备与控制工程论坛文集
+        - generic [ref=e240]: 教育部高等学校机械学科教学指导委员会，过程装备与控制工程专业教学指导分委员会编; 教育部高等学校机械学科教学指导委员会过程装备与控制工程专业教学指导分委员会编; 教育部高等学校机械学科教学指导委员会过程装备与控制工程专业教学指导分委员会
+      - generic [ref=e243]:
+        - img
+        - generic [ref=e244]: 工程噪声控制 理论和实践 第4版
+        - generic [ref=e245]: （澳）D.A.比斯（DavidA.Bies），（澳）C.H.汉森（ColinH.Hansen）著；邱小军，于淼，刘嘉俊译校; (澳)D. A. 比斯; (澳)C. H. 汉森著; 邱小军; 于淼; 刘嘉俊译校; 比斯; 汉森; 邱小军; 于淼; 刘嘉俊; （澳）比斯（Bies; D.A.）; （澳）汉森（Hansen; C.H.） 著; 比斯 (Bies; David A.); David A Bies
+      - generic [ref=e248]:
+        - img
+        - generic [ref=e249]: 工业过程模型化及控制 第4卷 1991年中国自动化学会第四届过程控制科学报告论文集
+        - generic [ref=e250]: 朱学峰，叶乐年主编; 朱学峰; 叶乐年主编; 朱学峰; 叶乐年; 中国自动化学会过程控制科学报告会
+      - generic [ref=e253]:
+        - img
+        - generic [ref=e254]: 2014全国监理工程师执业资格考试命题趋势权威试卷 建设工程监理案例分析+建设工程监理基本理论与相关法规+建设工程合同管理+建设工程质量、投资、进度控制 套装共4册 第4版
+        - generic [ref=e255]: 监理工程师执业资格考试命题研究中心组织编写
+      - generic [ref=e258]:
+        - img
+        - generic [ref=e259]: 电机工程手册 第1卷 基础理论 第5篇 自动控制理论
+        - generic [ref=e260]: 机械工程手册，电机工程手册编辑委员会
+      - generic [ref=e263]:
+        - img
+        - generic [ref=e264]: 统计过程控制理论与实践 SPC、Cpk、DOE、MSA、PPM技术
+        - generic [ref=e265]: 贾新章，游海龙，田文星等编著; 贾新章[等]编著; 贾新章; 游海龙; 顾铠; 王少熙
+      - generic [ref=e268]:
+        - img
+        - generic [ref=e269]: 随机过程理论及其在自动控制中的应用
+        - generic [ref=e270]: 闫莉萍，夏元清，杨毅主编; Yan Liping; Xia Yuanqing; Yang Yi zhu bian; 闫莉萍; 夏元清; 杨毅主编; 闫莉萍; 夏元清; 杨毅
+      - generic [ref=e273]:
+        - img
+        - generic [ref=e274]: 电机工程手册 试用本 第5篇 自动控制理论
+        - generic [ref=e275]: 机械工程手册、电机工程手册编辑委员会编
+      - generic [ref=e278]:
+        - img
+        - generic [ref=e279]: 机械工程手册 第55篇 自动控制基础理论 试用本
+        - generic [ref=e280]: 机械工程手册·电机工程手册编辑委员会编
+      - generic [ref=e283]:
+        - img
+        - generic [ref=e284]: 电机工程手册 第5篇 自动控制理论 试用本
+        - generic [ref=e285]: 机械工程手册编辑委员会，电机工程手册编辑委员会
+      - generic [ref=e288]:
+        - img
+        - generic [ref=e289]: 机械工程手册 第55篇 自动控制基础理论
+        - generic [ref=e290]: 机械工程手册，电机工程手册编辑委员会
+      - generic [ref=e293]:
+        - img
+        - generic [ref=e294]: 第一届化工自动化及仪表学术交流会论文集 微型计算机、集散控制系统、可编程调节器在过程控制中的应用
+        - generic [ref=e295]: 中国仪器仪表学会过程检测仪表学会，中国化工学会化工自动化及仪表学会编
+      - generic [ref=e298]:
+        - img
+        - generic [ref=e299]: 井下控制工程技术学术研讨会论文集
+        - generic [ref=e300]: 中国石油天然气集团公司钻井工程重点实验室编; 中国石油天然气集团公司; 钻井工程重点实验室编; 中国石油天然气集团公司; 钻井工程重点实验室
+      - generic [ref=e303]:
+        - img
+        - generic [ref=e304]: 过程控制科学技术与应用 第十三届中国过程控制年会论文集
+        - generic [ref=e305]: "朱学峰等主编; 中國過程控制年會 (第 13 屆 : 2002 : 澳門; 珠海); 朱学峰等主编; 朱学峰; 陈伟基; 黄道平"
+      - generic [ref=e308]:
+        - img
+        - generic [ref=e309]: 工程控制论 新世纪版
+        - generic [ref=e310]: 钱学森; 钱学森著; 戴汝为; 何善堉译; 钱学森; 戴汝为; 何善堉; 上海交通大学; Shang hai jiao tong da xue; 中国系统工程学会; 钱学森; 1911-
+      - generic [ref=e313]:
+        - img
+        - generic [ref=e314]: 机电控制工程理论与应用基础
+        - generic [ref=e315]: 胡国清编著; 胡国清; (机电控制); 胡国清编著; 胡国清
+      - generic [ref=e318]:
+        - img
+        - generic [ref=e319]: 振动与噪声控制学术会议论文集
+        - generic [ref=e320]: 中国振动工程学会振动与噪声控制学会编
+      - generic [ref=e323]:
+        - img
+        - generic [ref=e324]: 2000年道路工程学会学术交流会论文集 国道主干线建设的关键技术与质量控制
+        - generic [ref=e325]: 中国公路学会道路工程学会，新疆维吾尔自治区交通厅编; 中国公路学会道路工程学会; 新疆维吾尔自治区交通厅编; 新疆维吾尔自治区交通厅; Xin jiang wei wu er zi zhi qu jiao tong ting; 中国公路学会道路工程学会
+      - generic [ref=e328]:
+        - img
+        - generic [ref=e329]: 工程控制论
+        - generic [ref=e330]: 钱学森著；戴汝为等译
+      - generic [ref=e333]:
+        - img
+        - generic [ref=e334]: 工程控制论
+        - generic [ref=e335]: 钱学森，宋健著
+      - generic [ref=e338]:
+        - img
+        - generic [ref=e339]: 土体工程地质宏观控制论的理论与实践——中国工程勘察大师范士凯先生从事工程地质工作60周年纪念文集
+        - generic [ref=e340]: 范士凯
+      - generic [ref=e343]:
+        - img
+        - generic [ref=e344]: 系统工程与控制导论 控制走向社会系统
+        - generic [ref=e345]: 邓三瑞编著; 邓三瑞编著; 邓三瑞
+      - generic [ref=e349]:
+        - img
+        - generic [ref=e350]: 工业过程模型化及控制 1988中国自动化学会第二届过程控制科学报告会论文集
+        - generic [ref=e351]: 俞金寿，华向明主编
+      - generic [ref=e354]:
+        - img
+        - generic [ref=e355]: 岩土工程西湖论坛系列丛书 岩土工程变形控制设计理论与实践
+        - generic [ref=e356]: 龚晓南，杨仲轩主编; 龚晓南; 杨仲轩主编; 龚晓南; 杨仲轩
+    - text: 
+  - generic [ref=e360]:
+    - generic [ref=e361]:
+      - figure "— Carlos María Domínguez" [ref=e363]:
+        - blockquote [ref=e364]:
+          - text: “
+          - paragraph [ref=e365]: To build up a library is to create a life. It’s never just a random collection of books.
+          - text: ”
+        - generic [ref=e366]: — Carlos María Domínguez
+      - list [ref=e368]:
+        - listitem [ref=e369]:
+          - link " Official channel" [ref=e370] [cursor=pointer]:
+            - /url: https://x.com/Z_Lib_official
+            - generic [ref=e371]: 
+            - text: Official channel
+        - listitem [ref=e372]:
+          - link "" [ref=e373] [cursor=pointer]:
+            - /url: ""
+            - generic [ref=e374]: 
+        - listitem [ref=e375]:
+          - link "" [ref=e376] [cursor=pointer]:
+            - /url: https://mastodon.social/@Z_Lib_official
+            - generic [ref=e377]: 
+      - generic [ref=e378]:
+        - link [ref=e379] [cursor=pointer]:
+          - /url: /z-access#desktop_app_tab
+          - article [ref=e380]:
+            - img "Z-Library Desktop Launcher" [ref=e381]
+            - generic [ref=e382]: Z-Library
+        - link [ref=e383] [cursor=pointer]:
+          - /url: /z-access#useful_link_tab
+          - article [ref=e384]:
+            - img "Tor version" [ref=e385]
+            - generic [ref=e386]: Z-Library
+    - generic [ref=e387]:
+      - generic [ref=e388]:
+        - generic [ref=e389]: Z-Library
+        - list [ref=e390]:
+          - listitem [ref=e391]:
+            - link "Blog" [ref=e392] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e393]:
+            - link "Z-Access" [ref=e394] [cursor=pointer]:
+              - /url: https://library-access.sk
+          - listitem [ref=e395]:
+            - link "Our Mission" [ref=e396] [cursor=pointer]:
+              - /url: /mission
+          - listitem [ref=e397]:
+            - link "Share your story" [ref=e398] [cursor=pointer]:
+              - /url: /testimonials
+          - listitem [ref=e399]:
+            - link "Support us" [ref=e400] [cursor=pointer]:
+              - /url: https://www.change.org/zlibrary2023
+          - listitem [ref=e401]:
+            - link "Institutions Support" [ref=e402] [cursor=pointer]:
+              - /url: /request-help
+          - listitem [ref=e403]:
+            - link "Support for authors" [ref=e404] [cursor=pointer]:
+              - /url: /promotion/books
+          - listitem [ref=e405]:
+            - link "LibTalks" [ref=e406] [cursor=pointer]:
+              - /url: https://lib-talk.io
+      - generic [ref=e407]:
+        - generic [ref=e408]: Help
+        - list [ref=e409]:
+          - listitem [ref=e410]:
+            - link "DMCA" [ref=e411] [cursor=pointer]:
+              - /url: /dmca
+          - listitem [ref=e412]:
+            - link "Terms" [ref=e413] [cursor=pointer]:
+              - /url: /tos
+          - listitem [ref=e414]:
+            - link "FAQ" [ref=e415] [cursor=pointer]:
+              - /url: /faq
+    - generic [ref=e416]:
+      - generic [ref=e417]:
+        - img "Z-Library" [ref=e419]
+        - generic [ref=e420]:
+          - link "Z-Library" [ref=e421] [cursor=pointer]:
+            - /url: https://z-library.sk
+          - text: Since 2009
+        - link "support@z-lib.fm" [ref=e423] [cursor=pointer]:
+          - /url: "mailto: support@z-lib.fm"
+      - generic [ref=e424]:
+        - link "English" [ref=e425] [cursor=pointer]:
+          - /url: https://z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "Русский" [ref=e426] [cursor=pointer]:
+          - /url: http://ru.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "Español" [ref=e427] [cursor=pointer]:
+          - /url: http://es.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "Italiano" [ref=e428] [cursor=pointer]:
+          - /url: http://it.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "Ελληνικά" [ref=e429] [cursor=pointer]:
+          - /url: http://el.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "اللغة العربية" [ref=e430] [cursor=pointer]:
+          - /url: http://ar.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "Bahasa Indonesia" [ref=e431] [cursor=pointer]:
+          - /url: http://id.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "Bahasa Malaysia" [ref=e432] [cursor=pointer]:
+          - /url: http://ms.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "हिन्दी" [ref=e433] [cursor=pointer]:
+          - /url: http://hi.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "Deutsch" [ref=e434] [cursor=pointer]:
+          - /url: http://de.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "Français" [ref=e435] [cursor=pointer]:
+          - /url: http://fr.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "Português" [ref=e436] [cursor=pointer]:
+          - /url: http://pt.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "Українська" [ref=e437] [cursor=pointer]:
+          - /url: http://uk.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "Polski" [ref=e438] [cursor=pointer]:
+          - /url: http://pl.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "中文" [ref=e439] [cursor=pointer]:
+          - /url: http://zh.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "繁體中文" [ref=e440] [cursor=pointer]:
+          - /url: http://tw.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "日本語" [ref=e441] [cursor=pointer]:
+          - /url: http://ja.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "Tiếng Việt" [ref=e442] [cursor=pointer]:
+          - /url: http://vi.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "Azərbaycan Dili" [ref=e443] [cursor=pointer]:
+          - /url: http://az.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "Հայոց լեզու" [ref=e444] [cursor=pointer]:
+          - /url: http://hy.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "ภาษาไทย" [ref=e445] [cursor=pointer]:
+          - /url: http://th.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "Türk Dili" [ref=e446] [cursor=pointer]:
+          - /url: http://tr.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "ქართველი" [ref=e447] [cursor=pointer]:
+          - /url: http://ka.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "বাংলা" [ref=e448] [cursor=pointer]:
+          - /url: http://bn.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "پښتو" [ref=e449] [cursor=pointer]:
+          - /url: http://ps.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "తెలుగు" [ref=e450] [cursor=pointer]:
+          - /url: http://te.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "اردو" [ref=e451] [cursor=pointer]:
+          - /url: http://ur.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "한국어" [ref=e452] [cursor=pointer]:
+          - /url: http://ko.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "Srpski" [ref=e453] [cursor=pointer]:
+          - /url: http://sr.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA
+        - link "Български" [ref=e454] [cursor=pointer]:
+          - /url: http://bg.z-lib.by/s/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA

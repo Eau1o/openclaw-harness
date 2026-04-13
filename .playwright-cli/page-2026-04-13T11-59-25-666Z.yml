@@ -1,0 +1,217 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4] [cursor=pointer]: 
+    - generic [ref=e6] [cursor=pointer]: 
+    - generic [ref=e8] [cursor=pointer]: 
+    - generic [ref=e10] [cursor=pointer]: 
+    - generic [ref=e12] [cursor=pointer]: 
+    - generic [ref=e14] [cursor=pointer]: 
+    - generic [ref=e16] [cursor=pointer]: 
+  - navigation [ref=e19]:
+    - generic [ref=e20]:
+      - link "Z-Library Home" [ref=e21] [cursor=pointer]:
+        - /url: /
+        - text: Z-Library Home  
+      - link "My Library" [ref=e22] [cursor=pointer]:
+        - /url: /profile#tags
+        - text: My Library  
+    - generic [ref=e26] [cursor=pointer]:
+      - generic [ref=e27]: 
+      - generic [ref=e28]: English
+    - link "Donate" [ref=e31] [cursor=pointer]:
+      - /url: /how-to-donate
+    - generic [ref=e32]:
+      - generic [ref=e34] [cursor=pointer]: 
+      - generic:
+        - generic:
+          - generic:
+            - textbox "Search for title, author, ISBN, DOI, publisher, md5…" [ref=e35]
+            - button "" [ref=e36] [cursor=pointer]:
+              - generic [ref=e37]: 
+            - button "" [ref=e38] [cursor=pointer]:
+              - generic [ref=e39]: 
+    - generic [ref=e42] [cursor=pointer]:
+      - generic [ref=e44]: 
+      - generic [ref=e45]: 
+      - generic [ref=e46]: 
+    - link "Log In" [ref=e48] [cursor=pointer]:
+      - /url: /login?redirectUrl=https%253A%252F%252F1lib.sk%252Fdl%252FWpeLJA8zdm
+    - generic [ref=e49]:
+      - generic [ref=e51] [cursor=pointer]: 
+      - text:                         
+  - generic [ref=e54]:
+    - generic [ref=e55]:
+      - generic [ref=e56]:
+        - heading "Daily limit reached" [level=1] [ref=e57]
+        - article [ref=e58]: There are more than 5 downloads from your IP 45.202.248.133 during last 24 hours. Please sign in to your account or complete a simple registration to download more books
+      - generic [ref=e59]:
+        - link "Login" [ref=e60] [cursor=pointer]:
+          - /url: https://z-lib.sk
+        - link "Create Account" [ref=e61] [cursor=pointer]:
+          - /url: https://z-lib.sk/registration
+      - generic [ref=e65]: About daily limit
+    - generic [ref=e67]:
+      - generic [ref=e69]:
+        - generic [ref=e70]:
+          - generic [ref=e71]: BASIC
+          - generic [ref=e73]: PREMIUM
+        - separator [ref=e74]
+        - generic [ref=e75]:
+          - generic [ref=e76]: Daily downloads
+          - generic [ref=e77]: "10"
+          - generic [ref=e78]:
+            - text: Up to 999
+            - generic [ref=e79]: 
+        - generic [ref=e80]:
+          - generic [ref=e81]: Download speed
+          - generic [ref=e82]: Up to 1 MBps
+          - generic [ref=e83]: Unrestricted
+        - generic [ref=e84]:
+          - generic [ref=e85]:
+            - text: Z-Alerts
+            - generic [ref=e86] [cursor=pointer]: 
+          - generic [ref=e87]: "10"
+          - generic [ref=e88]:
+            - text: Up to 100
+            - generic [ref=e89]: 
+        - generic [ref=e90]:
+          - generic [ref=e91]: File Conversion limitations
+          - generic [ref=e92]: Up to 3 MB
+          - generic [ref=e93]:
+            - text: Up to 128 MB
+            - generic [ref=e94]: 
+        - generic [ref=e95]:
+          - generic [ref=e96]: Online reading
+          - generic [ref=e98]: 
+          - generic [ref=e100]: 
+        - generic [ref=e101]:
+          - generic [ref=e102]: Send-to-Telegram
+          - generic [ref=e104]: 
+          - generic [ref=e106]: 
+        - generic [ref=e107]:
+          - generic [ref=e108]: Send-to-Email
+          - generic [ref=e110]: 
+          - generic [ref=e112]: 
+        - generic [ref=e113]:
+          - generic [ref=e114]: Send-to-Kindle
+          - generic [ref=e116]: 
+          - generic [ref=e118]: 
+        - generic [ref=e119]:
+          - generic [ref=e120]: Send-to-Pocketbook
+          - generic [ref=e122]: 
+          - generic [ref=e124]: 
+        - generic [ref=e125]:
+          - generic [ref=e126]: Send-to-GoogleDrive
+          - generic [ref=e128]: 
+          - generic [ref=e130]: 
+        - generic [ref=e131]:
+          - generic [ref=e132]: One-click download
+          - generic [ref=e134]: 
+          - generic [ref=e136]: 
+        - generic [ref=e137]:
+          - generic [ref=e138]: Expanded search results
+          - generic [ref=e140]: 
+          - generic [ref=e142]: 
+        - generic [ref=e144]: Depends on contribution
+        - generic [ref=e145]:
+          - generic [ref=e146]: Aurora mode
+          - generic [ref=e148]: 
+          - generic [ref=e150]: 
+        - generic [ref=e151]:
+          - generic [ref=e152]: Extra Full-Text Search queries
+          - generic [ref=e154]: 
+          - generic [ref=e156]: 
+        - generic [ref=e157]:
+          - generic [ref=e158]: Priority Customer Support
+          - generic [ref=e160]: 
+          - generic [ref=e162]: 
+      - link "Make a donation" [ref=e163] [cursor=pointer]:
+        - /url: /how-to-donate
+  - generic [ref=e166]:
+    - generic [ref=e167]:
+      - figure "— Carlos María Domínguez" [ref=e169]:
+        - blockquote [ref=e170]:
+          - text: “
+          - paragraph [ref=e171]: To build up a library is to create a life. It’s never just a random collection of books.
+          - text: ”
+        - generic [ref=e172]: — Carlos María Domínguez
+      - list [ref=e174]:
+        - listitem [ref=e175]:
+          - link " Official channel" [ref=e176] [cursor=pointer]:
+            - /url: https://x.com/Z_Lib_official
+            - generic [ref=e177]: 
+            - text: Official channel
+        - listitem [ref=e178]:
+          - link "" [ref=e179] [cursor=pointer]:
+            - /url: ""
+            - generic [ref=e180]: 
+        - listitem [ref=e181]:
+          - link "" [ref=e182] [cursor=pointer]:
+            - /url: https://mastodon.social/@Z_Lib_official
+            - generic [ref=e183]: 
+      - generic [ref=e184]:
+        - link [ref=e185] [cursor=pointer]:
+          - /url: /z-access#desktop_app_tab
+          - article [ref=e186]:
+            - img "Z-Library Desktop Launcher" [ref=e187]
+            - generic [ref=e188]: Z-Library
+        - link [ref=e189] [cursor=pointer]:
+          - /url: /z-access#useful_link_tab
+          - article [ref=e190]:
+            - img "Tor version" [ref=e191]
+            - generic [ref=e192]: Z-Library
+    - generic [ref=e193]:
+      - generic [ref=e194]:
+        - generic [ref=e195]: Z-Library
+        - list [ref=e196]:
+          - listitem [ref=e197]:
+            - link "Blog" [ref=e198] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e199]:
+            - link "Z-Access" [ref=e200] [cursor=pointer]:
+              - /url: https://library-access.sk
+          - listitem [ref=e201]:
+            - link "Our Mission" [ref=e202] [cursor=pointer]:
+              - /url: /mission
+          - listitem [ref=e203]:
+            - link "Share your story" [ref=e204] [cursor=pointer]:
+              - /url: /testimonials
+          - listitem [ref=e205]:
+            - link "Support us" [ref=e206] [cursor=pointer]:
+              - /url: https://www.change.org/zlibrary2023
+          - listitem [ref=e207]:
+            - link "Institutions Support" [ref=e208] [cursor=pointer]:
+              - /url: /request-help
+          - listitem [ref=e209]:
+            - link "Support for authors" [ref=e210] [cursor=pointer]:
+              - /url: /promotion/books
+          - listitem [ref=e211]:
+            - link "LibTalks" [ref=e212] [cursor=pointer]:
+              - /url: https://lib-talk.io
+      - generic [ref=e213]:
+        - generic [ref=e214]: Help
+        - list [ref=e215]:
+          - listitem [ref=e216]:
+            - link "DMCA" [ref=e217] [cursor=pointer]:
+              - /url: /dmca
+          - listitem [ref=e218]:
+            - link "Terms" [ref=e219] [cursor=pointer]:
+              - /url: /tos
+          - listitem [ref=e220]:
+            - link "FAQ" [ref=e221] [cursor=pointer]:
+              - /url: /faq
+    - generic [ref=e222]:
+      - generic [ref=e223]:
+        - img "Z-Library" [ref=e225]
+        - generic [ref=e226]:
+          - link "Z-Library" [ref=e227] [cursor=pointer]:
+            - /url: https://z-library.sk
+          - text: Since 2009
+        - link "support@z-lib.fm" [ref=e229] [cursor=pointer]:
+          - /url: "mailto: support@z-lib.fm"
+      - generic [ref=e232] [cursor=pointer]:
+        - generic [ref=e233]: 
+        - generic [ref=e234]: English
+  - generic:
+    - img
+    - generic: 

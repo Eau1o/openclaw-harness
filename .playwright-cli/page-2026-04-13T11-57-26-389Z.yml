@@ -1,0 +1,1067 @@
+- generic [ref=e1]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]:
+      - link "Z-Library Home" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - text: Z-Library Home  
+      - link "My Library" [ref=e7] [cursor=pointer]:
+        - /url: /profile#tags
+        - text: My Library  
+    - generic [ref=e11] [cursor=pointer]:
+      - generic [ref=e12]: 
+      - generic [ref=e13]: English
+    - link "Donate" [ref=e16] [cursor=pointer]:
+      - /url: /how-to-donate
+    - generic [ref=e17]:
+      - generic [ref=e19] [cursor=pointer]: 
+      - generic:
+        - generic:
+          - generic:
+            - textbox "Search for title, author, ISBN, DOI, publisher, md5…" [ref=e20]
+            - button "" [ref=e21] [cursor=pointer]:
+              - generic [ref=e22]: 
+            - button "" [ref=e23] [cursor=pointer]:
+              - generic [ref=e24]: 
+    - generic [ref=e27] [cursor=pointer]:
+      - generic [ref=e29]: 
+      - generic [ref=e30]: 
+      - generic [ref=e31]: 
+    - link "Log In" [ref=e33] [cursor=pointer]:
+      - /url: /login?redirectUrl=https%253A%252F%252F1lib.sk%252Fs%252F%253Fq%253D%2525E5%2525B7%2525A5%2525E7%2525A8%25258B%2525E6%25258E%2525A7%2525E5%252588%2525B6%2525E8%2525AE%2525BA%252B%2525E9%252592%2525B1%2525E5%2525AD%2525A6%2525E6%2525A3%2525AE
+    - generic [ref=e34]:
+      - generic [ref=e36] [cursor=pointer]: 
+      - text:                         
+  - generic [ref=e39]:
+    - generic [ref=e40]:
+      - generic [ref=e41]:
+        - link "Z-Library" [ref=e43] [cursor=pointer]:
+          - /url: /
+          - img "Z-Library" [ref=e44]
+        - generic [ref=e45]: Your gateway to knowledge and culture. Accessible for everyone.
+      - generic [ref=e46]:
+        - text: Are you familiar with a high-risk merchant or do you process payments?
+        - link "Yes, I am." [ref=e47] [cursor=pointer]:
+          - /url: javascript://
+        - link "×" [ref=e48] [cursor=pointer]:
+          - /url: javascript://
+      - generic [ref=e49]:
+        - list [ref=e50]:
+          - listitem [ref=e52]:
+            - tab "General Search" [ref=e53] [cursor=pointer]
+          - listitem [ref=e55]:
+            - tab "Full-Text Search" [ref=e56] [cursor=pointer]
+        - generic [ref=e59]:
+          - textbox "Search for title, author, ISBN, DOI, publisher, md5…" [active] [ref=e61]: 工程控制论 钱学森
+          - button "Search" [ref=e64] [cursor=pointer]: Search 
+        - generic [ref=e68] [cursor=pointer]: Search options
+    - generic [ref=e69]:
+      - generic [ref=e71]:
+        - link "Books (150+)" [ref=e72] [cursor=pointer]:
+          - /url: https://1lib.sk/s/?q=%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA+%E9%92%B1%E5%AD%A6%E6%A3%AE&content_type=book
+        - link "Articles (0)" [ref=e73] [cursor=pointer]:
+          - /url: https://1lib.sk/s/?q=%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA+%E9%92%B1%E5%AD%A6%E6%A3%AE&content_type=article
+      - generic [ref=e76] [cursor=pointer]:
+        - text: 
+        - generic [ref=e77]: Most Popular
+      - generic [ref=e82] [cursor=pointer]: List
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - link "工程控制论(新世纪版) 钱学森 Downloaded" [ref=e89] [cursor=pointer]:
+          - /url: /book/XZzWAXq4O0/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88.html
+          - generic "工程控制论(新世纪版)" [ref=e90]:
+            - generic "工程控制论(新世纪版)" [ref=e91]:
+              - generic [ref=e92]:
+                - generic [ref=e97]: 工程控制论(新世纪版)
+                - generic [ref=e98]: 钱学森
+              - img [ref=e102]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e103]:
+                - /url: /book/XZzWAXq4O0/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88.html
+        - generic [ref=e104]:
+          - link "工程控制论(新世纪版)" [ref=e105] [cursor=pointer]:
+            - /url: /book/XZzWAXq4O0/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88.html
+            - generic [ref=e106]: 工程控制论(新世纪版)
+          - link "钱学森" [ref=e108] [cursor=pointer]:
+            - /url: /author/钱学森
+          - generic [ref=e110]:
+            - generic [ref=e111]: "Year: 2008"
+            - generic [ref=e112]: "Language: Chinese"
+            - generic [ref=e113]: "File: PDF, 21.64 MB"
+            - generic [ref=e114]:
+              - generic [ref=e115]: 
+              - generic [ref=e116]: 5.0 / 3.0
+      - generic [ref=e120]:
+        - link "工程控制论 (下册) (第三版) 钱学森; 宋健 Downloaded" [ref=e122] [cursor=pointer]:
+          - /url: /book/pP1qm9zmP8/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E4%B8%8B%E5%86%8C-%E7%AC%AC%E4%B8%89%E7%89%88.html
+          - generic "工程控制论 (下册) (第三版)" [ref=e123]:
+            - generic "工程控制论 (下册) (第三版)" [ref=e124]:
+              - generic [ref=e125]:
+                - generic [ref=e130]: 工程控制论 (下册) (第三版)
+                - generic [ref=e131]: 钱学森; 宋健
+              - img [ref=e135]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e136]:
+                - /url: /book/pP1qm9zmP8/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E4%B8%8B%E5%86%8C-%E7%AC%AC%E4%B8%89%E7%89%88.html
+        - generic [ref=e137]:
+          - link "工程控制论 (下册) (第三版)" [ref=e138] [cursor=pointer]:
+            - /url: /book/pP1qm9zmP8/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E4%B8%8B%E5%86%8C-%E7%AC%AC%E4%B8%89%E7%89%88.html
+            - generic [ref=e139]: 工程控制论 (下册) (第三版)
+          - link "科学出版社" [ref=e140] [cursor=pointer]:
+            - /url: /publisher/科学出版社
+          - generic [ref=e141]:
+            - link "钱学森" [ref=e142] [cursor=pointer]:
+              - /url: /author/钱学森
+            - text: ","
+            - link "宋健" [ref=e143] [cursor=pointer]:
+              - /url: /author/宋健
+          - generic [ref=e145]:
+            - generic [ref=e146]: "Year: 2011"
+            - generic [ref=e147]: "Language: Chinese"
+            - generic [ref=e148]: "File: PDF, 5.37 MB"
+            - generic [ref=e149]:
+              - generic [ref=e150]: 
+              - generic [ref=e151]: 5.0 / 5.0
+      - generic [ref=e155]:
+        - link "工程控制论 (上册) (第三版) 钱学森; 宋健 Downloaded" [ref=e157] [cursor=pointer]:
+          - /url: /book/4vr82kEYZn/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E4%B8%8A%E5%86%8C-%E7%AC%AC%E4%B8%89%E7%89%88.html
+          - generic "工程控制论 (上册) (第三版)" [ref=e158]:
+            - generic "工程控制论 (上册) (第三版)" [ref=e159]:
+              - generic [ref=e160]:
+                - generic [ref=e165]: 工程控制论 (上册) (第三版)
+                - generic [ref=e166]: 钱学森; 宋健
+              - img [ref=e170]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e171]:
+                - /url: /book/4vr82kEYZn/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E4%B8%8A%E5%86%8C-%E7%AC%AC%E4%B8%89%E7%89%88.html
+        - generic [ref=e172]:
+          - link "工程控制论 (上册) (第三版)" [ref=e173] [cursor=pointer]:
+            - /url: /book/4vr82kEYZn/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E4%B8%8A%E5%86%8C-%E7%AC%AC%E4%B8%89%E7%89%88.html
+            - generic [ref=e174]: 工程控制论 (上册) (第三版)
+          - link "科学出版社" [ref=e175] [cursor=pointer]:
+            - /url: /publisher/科学出版社
+          - generic [ref=e176]:
+            - link "钱学森" [ref=e177] [cursor=pointer]:
+              - /url: /author/钱学森
+            - text: ","
+            - link "宋健" [ref=e178] [cursor=pointer]:
+              - /url: /author/宋健
+          - generic [ref=e180]:
+            - generic [ref=e181]: "Year: 2011"
+            - generic [ref=e182]: "Language: Chinese"
+            - generic [ref=e183]: "File: PDF, 5.13 MB"
+            - generic [ref=e184]:
+              - generic [ref=e185]: 
+              - generic [ref=e186]: 5.0 / 5.0
+      - generic [ref=e190]:
+        - link "工程控制论 Engineering Cybernetics 钱学森 Qian; Xuesen (Hsue Shen Tsien) Downloaded" [ref=e192] [cursor=pointer]:
+          - /url: /book/nvJ9lW06Oq/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-engineering-cybernetics.html
+          - generic "工程控制论 Engineering Cybernetics" [ref=e193]:
+            - generic "工程控制论 Engineering Cybernetics" [ref=e194]:
+              - generic [ref=e195]:
+                - generic [ref=e200]: 工程控制论 Engineering Cybernetics
+                - generic [ref=e201]: 钱学森 Qian; Xuesen (Hsue Shen Tsien)
+              - img [ref=e205]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e206]:
+                - /url: /book/nvJ9lW06Oq/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-engineering-cybernetics.html
+        - generic [ref=e207]:
+          - link "工程控制论 Engineering Cybernetics" [ref=e208] [cursor=pointer]:
+            - /url: /book/nvJ9lW06Oq/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-engineering-cybernetics.html
+            - generic [ref=e209]: 工程控制论 Engineering Cybernetics
+          - link "科学出版社" [ref=e210] [cursor=pointer]:
+            - /url: /publisher/科学出版社
+          - generic [ref=e211]:
+            - link "钱学森 Qian" [ref=e212] [cursor=pointer]:
+              - /url: /author/钱学森 Qian
+            - text: ","
+            - link "Xuesen (Hsue Shen Tsien)" [ref=e213] [cursor=pointer]:
+              - /url: /author/Xuesen (Hsue Shen Tsien)
+          - generic [ref=e215]:
+            - generic [ref=e216]: "Year: 1958"
+            - generic [ref=e217]: "Language: Chinese"
+            - generic [ref=e218]: "File: PDF, 6.74 MB"
+            - generic [ref=e219]:
+              - generic [ref=e220]: 
+              - generic [ref=e221]: 5.0 / 3.0
+      - generic [ref=e225]:
+        - link "工程控制论（上、下册） 钱学森、宋健 Downloaded" [ref=e227] [cursor=pointer]:
+          - /url: /book/MPgEKlJWO2/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%8A%E4%B8%8B%E5%86%8C.html
+          - generic "工程控制论（上、下册）" [ref=e228]:
+            - generic "工程控制论（上、下册）" [ref=e229]:
+              - generic [ref=e230]:
+                - generic [ref=e235]: 工程控制论（上、下册）
+                - generic [ref=e236]: 钱学森、宋健
+              - img [ref=e240]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e241]:
+                - /url: /book/MPgEKlJWO2/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%8A%E4%B8%8B%E5%86%8C.html
+        - generic [ref=e242]:
+          - link "工程控制论（上、下册）" [ref=e243] [cursor=pointer]:
+            - /url: /book/MPgEKlJWO2/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%8A%E4%B8%8B%E5%86%8C.html
+            - generic [ref=e244]: 工程控制论（上、下册）
+          - link "科学出版社" [ref=e245] [cursor=pointer]:
+            - /url: /publisher/科学出版社
+          - link "钱学森、宋健" [ref=e247] [cursor=pointer]:
+            - /url: /author/钱学森、宋健
+          - generic [ref=e249]:
+            - generic [ref=e250]: "Year: 1980"
+            - generic [ref=e251]: "Language: Chinese"
+            - generic [ref=e252]: "File: PDF, 30.59 MB"
+            - generic [ref=e253]:
+              - generic [ref=e254]: 
+              - generic [ref=e255]: 3.0 / 3.0
+      - generic [ref=e258]:
+        - generic [ref=e259]:
+          - img [ref=e261]
+          - generic "[no title]" [ref=e263]:
+            - generic "[no title]" [ref=e264]:
+              - generic [ref=e265]:
+                - generic [ref=e270]: "[no title]"
+                - generic [ref=e271]: "[no author]"
+              - img [ref=e275]
+              - generic:
+                - generic: Downloaded
+        - generic [ref=e276]:
+          - generic [ref=e277]:
+            - generic [ref=e278]: "When the Other is You: Love Beyond Projection is the Alchemy in the Age of Aquarius"
+            - link "" [ref=e279] [cursor=pointer]:
+              - /url: https://www.amazon.com/dp/0970925883
+              - generic [ref=e280]: 
+          - generic [ref=e282]: Rebeca Eigen
+          - generic [ref=e284]: This book is a guide to transforming relationships through the lens of Jungian psychology and astrology. Rebeca Eigen reveals how every partnership becomes a mirror — a living reflection of our own unconscious through the archetype of the 7th house.
+          - link "Explore it now! " [ref=e285] [cursor=pointer]:
+            - /url: https://www.amazon.com/dp/0970925883
+            - text: Explore it now!
+            - generic [ref=e286]: 
+      - generic [ref=e290]:
+        - link "工程控制论（上册）第三版 钱学森 Downloaded" [ref=e292] [cursor=pointer]:
+          - /url: /book/2OXVVEp2PN/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%8A%E5%86%8C%E7%AC%AC%E4%B8%89%E7%89%88.html
+          - generic "工程控制论（上册）第三版" [ref=e293]:
+            - generic "工程控制论（上册）第三版" [ref=e294]:
+              - generic [ref=e295]:
+                - generic [ref=e300]: 工程控制论（上册）第三版
+                - generic [ref=e301]: 钱学森
+              - img [ref=e305]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e306]:
+                - /url: /book/2OXVVEp2PN/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%8A%E5%86%8C%E7%AC%AC%E4%B8%89%E7%89%88.html
+        - generic [ref=e307]:
+          - link "工程控制论（上册）第三版" [ref=e308] [cursor=pointer]:
+            - /url: /book/2OXVVEp2PN/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%8A%E5%86%8C%E7%AC%AC%E4%B8%89%E7%89%88.html
+            - generic [ref=e309]: 工程控制论（上册）第三版
+          - link "科学出版社" [ref=e310] [cursor=pointer]:
+            - /url: /publisher/科学出版社
+          - link "钱学森" [ref=e312] [cursor=pointer]:
+            - /url: /author/钱学森
+          - generic [ref=e314]:
+            - generic [ref=e315]: "Year: 2011"
+            - generic [ref=e316]: "Language: Chinese"
+            - generic [ref=e317]: "File: PDF, 41.24 MB"
+            - generic [ref=e318]:
+              - generic [ref=e319]: 
+              - generic [ref=e320]: 5.0 / 5.0
+      - generic [ref=e324]:
+        - link "工程控制论 钱学森 Downloaded" [ref=e326] [cursor=pointer]:
+          - /url: /book/pP1erNKRP8/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html
+          - generic "工程控制论" [ref=e327]:
+            - generic "工程控制论" [ref=e328]:
+              - generic [ref=e329]:
+                - generic [ref=e334]: 工程控制论
+                - generic [ref=e335]: 钱学森
+              - img [ref=e339]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e340]:
+                - /url: /book/pP1erNKRP8/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html
+        - generic [ref=e341]:
+          - link "工程控制论" [ref=e342] [cursor=pointer]:
+            - /url: /book/pP1erNKRP8/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html
+            - generic [ref=e343]: 工程控制论
+          - link "科学出版社" [ref=e344] [cursor=pointer]:
+            - /url: /publisher/科学出版社
+          - link "钱学森" [ref=e346] [cursor=pointer]:
+            - /url: /author/钱学森
+          - generic [ref=e348]:
+            - generic [ref=e349]: "Year: 1958"
+            - generic [ref=e350]: "Language: Chinese"
+            - generic [ref=e351]: "File: PDF, 8.32 MB"
+            - generic [ref=e352]:
+              - generic [ref=e353]: 
+              - generic [ref=e354]: 5.0 / 3.0
+      - generic [ref=e358]:
+        - link "工程控制论 钱学森 Downloaded" [ref=e360] [cursor=pointer]:
+          - /url: /book/MPgom24QP2/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html
+          - generic "工程控制论" [ref=e361]:
+            - generic "工程控制论" [ref=e362]:
+              - generic [ref=e363]:
+                - generic [ref=e368]: 工程控制论
+                - generic [ref=e369]: 钱学森
+              - img [ref=e373]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e374]:
+                - /url: /book/MPgom24QP2/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html
+        - generic [ref=e375]:
+          - link "工程控制论" [ref=e376] [cursor=pointer]:
+            - /url: /book/MPgom24QP2/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html
+            - generic [ref=e377]: 工程控制论
+          - link "上海交通大学出版社" [ref=e378] [cursor=pointer]:
+            - /url: /publisher/上海交通大学出版社
+          - link "钱学森" [ref=e380] [cursor=pointer]:
+            - /url: /author/钱学森
+          - generic [ref=e382]:
+            - generic [ref=e383]: "Year: 2007"
+            - generic [ref=e384]: "Language: Chinese"
+            - generic [ref=e385]: "File: PDF, 21.64 MB"
+            - generic [ref=e386]:
+              - generic [ref=e387]: 
+              - generic [ref=e388]: 1.0 / 1.0
+      - generic [ref=e392]:
+        - link "工程控制论（上、下册） 钱学森、宋健 Downloaded" [ref=e394] [cursor=pointer]:
+          - /url: /book/XZzJgDQeZ0/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%8A%E4%B8%8B%E5%86%8C.html
+          - generic "工程控制论（上、下册）" [ref=e395]:
+            - generic "工程控制论（上、下册）" [ref=e396]:
+              - generic [ref=e397]:
+                - generic [ref=e402]: 工程控制论（上、下册）
+                - generic [ref=e403]: 钱学森、宋健
+              - img [ref=e407]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e408]:
+                - /url: /book/XZzJgDQeZ0/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%8A%E4%B8%8B%E5%86%8C.html
+        - generic [ref=e409]:
+          - link "工程控制论（上、下册）" [ref=e410] [cursor=pointer]:
+            - /url: /book/XZzJgDQeZ0/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%8A%E4%B8%8B%E5%86%8C.html
+            - generic [ref=e411]: 工程控制论（上、下册）
+          - link "科学出版社" [ref=e412] [cursor=pointer]:
+            - /url: /publisher/科学出版社
+          - link "钱学森、宋健" [ref=e414] [cursor=pointer]:
+            - /url: /author/钱学森、宋健
+          - generic [ref=e416]:
+            - generic [ref=e417]: "Year: 1980"
+            - generic [ref=e418]: "Language: Chinese"
+            - generic [ref=e419]: "File: PDF, 30.71 MB"
+            - generic [ref=e420]:
+              - generic [ref=e421]: 
+              - generic [ref=e422]: 3.0 / 3.0
+      - generic [ref=e426]:
+        - link "工程控制论（第3版）上册 钱学森，宋健 Downloaded" [ref=e428] [cursor=pointer]:
+          - /url: /book/3O6oMWK6vD/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E7%AC%AC3%E7%89%88%E4%B8%8A%E5%86%8C.html
+          - generic "工程控制论（第3版）上册" [ref=e429]:
+            - generic "工程控制论（第3版）上册" [ref=e430]:
+              - generic [ref=e431]:
+                - generic [ref=e436]: 工程控制论（第3版）上册
+                - generic [ref=e437]: 钱学森，宋健
+              - img [ref=e441]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e442]:
+                - /url: /book/3O6oMWK6vD/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E7%AC%AC3%E7%89%88%E4%B8%8A%E5%86%8C.html
+        - generic [ref=e443]:
+          - link "工程控制论（第3版）上册" [ref=e444] [cursor=pointer]:
+            - /url: /book/3O6oMWK6vD/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E7%AC%AC3%E7%89%88%E4%B8%8A%E5%86%8C.html
+            - generic [ref=e445]: 工程控制论（第3版）上册
+          - link "科学出版社" [ref=e446] [cursor=pointer]:
+            - /url: /publisher/科学出版社
+          - link "钱学森，宋健" [ref=e448] [cursor=pointer]:
+            - /url: /author/钱学森，宋健
+          - generic [ref=e450]:
+            - generic [ref=e451]: "Year: 2011"
+            - generic [ref=e452]: "Language: Chinese"
+            - generic [ref=e453]: "File: PDF, 5.02 MB"
+            - generic [ref=e454]:
+              - generic [ref=e455]: 
+              - generic [ref=e456]: 5.0 / 5.0
+      - generic [ref=e459]:
+        - generic [ref=e460]:
+          - generic [ref=e462]:
+            - generic [ref=e463]: 
+            - link "Z-Recommend" [ref=e464] [cursor=pointer]:
+              - /url: /users/zrecommended#11726340,22224616,22224578,5553418,13987970,19174463,17120716,25025970,16405940,28492653
+          - generic [ref=e465]:
+            - text: Explore recommendations for your search query.
+            - link "View books" [ref=e466] [cursor=pointer]:
+              - /url: /users/zrecommended#11726340,22224616,22224578,5553418,13987970,19174463,17120716,25025970,16405940,28492653
+        - img [ref=e469]
+      - generic [ref=e473]:
+        - link "工程控制论 新世纪版 钱学森 Downloaded" [ref=e475] [cursor=pointer]:
+          - /url: /book/YPxd9yNGPK/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88.html
+          - generic "工程控制论 新世纪版" [ref=e476]:
+            - generic "工程控制论 新世纪版" [ref=e477]:
+              - generic [ref=e478]:
+                - generic [ref=e483]: 工程控制论 新世纪版
+                - generic [ref=e484]: 钱学森
+              - img [ref=e488]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e489]:
+                - /url: /book/YPxd9yNGPK/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88.html
+        - generic [ref=e490]:
+          - link "工程控制论 新世纪版" [ref=e491] [cursor=pointer]:
+            - /url: /book/YPxd9yNGPK/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88.html
+            - generic [ref=e492]: 工程控制论 新世纪版
+          - link "上海：上海交通大学出版社" [ref=e493] [cursor=pointer]:
+            - /url: /publisher/上海：上海交通大学出版社
+          - link "钱学森" [ref=e495] [cursor=pointer]:
+            - /url: /author/钱学森
+          - generic [ref=e497]:
+            - generic [ref=e498]: "Year: 2007"
+            - generic [ref=e499]: "Language: Chinese"
+            - generic [ref=e500]: "File: PDF, 14.39 MB"
+            - generic [ref=e501]:
+              - generic [ref=e502]: 
+              - generic [ref=e503]: 5.0 / 5.0
+      - generic [ref=e507]:
+        - link "工程控制论 钱学森著；戴汝为等译 Downloaded" [ref=e509] [cursor=pointer]:
+          - /url: /book/BvkY0m7rZL/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html
+          - generic "工程控制论" [ref=e510]:
+            - generic "工程控制论" [ref=e511]:
+              - generic [ref=e512]:
+                - generic [ref=e517]: 工程控制论
+                - generic [ref=e518]: 钱学森著；戴汝为等译
+              - img [ref=e522]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e523]:
+                - /url: /book/BvkY0m7rZL/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html
+        - generic [ref=e524]:
+          - link "工程控制论" [ref=e525] [cursor=pointer]:
+            - /url: /book/BvkY0m7rZL/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html
+            - generic [ref=e526]: 工程控制论
+          - link "北京：科学出版社" [ref=e527] [cursor=pointer]:
+            - /url: /publisher/北京：科学出版社
+          - link "钱学森著；戴汝为等译" [ref=e529] [cursor=pointer]:
+            - /url: /author/钱学森著；戴汝为等译
+          - generic [ref=e531]:
+            - generic [ref=e532]: "Year: 1958"
+            - generic [ref=e533]: "Language: Chinese"
+            - generic [ref=e534]: "File: PDF, 12.93 MB"
+            - generic [ref=e535]:
+              - generic [ref=e536]: 
+              - generic [ref=e537]: 0.0 / 0.0
+      - generic [ref=e541]:
+        - link "工程控制论（下）（第三版） 钱学森; 宋健 著 Downloaded" [ref=e543] [cursor=pointer]:
+          - /url: /book/4vrLqLLYZn/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%8B%E7%AC%AC%E4%B8%89%E7%89%88.html
+          - generic "工程控制论（下）（第三版）" [ref=e544]:
+            - generic "工程控制论（下）（第三版）" [ref=e545]:
+              - generic [ref=e546]:
+                - generic [ref=e551]: 工程控制论（下）（第三版）
+                - generic [ref=e552]: 钱学森; 宋健 著
+              - img [ref=e556]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e557]:
+                - /url: /book/4vrLqLLYZn/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%8B%E7%AC%AC%E4%B8%89%E7%89%88.html
+        - generic [ref=e558]:
+          - link "工程控制论（下）（第三版）" [ref=e559] [cursor=pointer]:
+            - /url: /book/4vrLqLLYZn/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%8B%E7%AC%AC%E4%B8%89%E7%89%88.html
+            - generic [ref=e560]: 工程控制论（下）（第三版）
+          - link "北京：科学出版社" [ref=e561] [cursor=pointer]:
+            - /url: /publisher/北京：科学出版社
+          - generic [ref=e562]:
+            - link "钱学森" [ref=e563] [cursor=pointer]:
+              - /url: /author/钱学森
+            - text: ","
+            - link "宋健 著" [ref=e564] [cursor=pointer]:
+              - /url: /author/宋健 著
+          - generic [ref=e566]:
+            - generic [ref=e567]: "Year: 2011"
+            - generic [ref=e568]: "Language: Chinese"
+            - generic [ref=e569]: "File: PDF, 148.89 MB"
+            - generic [ref=e570]:
+              - generic [ref=e571]: 
+              - generic [ref=e572]: 0.0 / 0.0
+      - generic [ref=e576]:
+        - link "工程控制论（第3版）下册 钱学森，宋健 Downloaded" [ref=e578] [cursor=pointer]:
+          - /url: /book/zZNGpXWdOA/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E7%AC%AC3%E7%89%88%E4%B8%8B%E5%86%8C.html
+          - generic "工程控制论（第3版）下册" [ref=e579]:
+            - generic "工程控制论（第3版）下册" [ref=e580]:
+              - generic [ref=e581]:
+                - generic [ref=e586]: 工程控制论（第3版）下册
+                - generic [ref=e587]: 钱学森，宋健
+              - img [ref=e591]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e592]:
+                - /url: /book/zZNGpXWdOA/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E7%AC%AC3%E7%89%88%E4%B8%8B%E5%86%8C.html
+        - generic [ref=e593]:
+          - link "工程控制论（第3版）下册" [ref=e594] [cursor=pointer]:
+            - /url: /book/zZNGpXWdOA/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E7%AC%AC3%E7%89%88%E4%B8%8B%E5%86%8C.html
+            - generic [ref=e595]: 工程控制论（第3版）下册
+          - link "科学出版社" [ref=e596] [cursor=pointer]:
+            - /url: /publisher/科学出版社
+          - link "钱学森，宋健" [ref=e598] [cursor=pointer]:
+            - /url: /author/钱学森，宋健
+          - generic [ref=e600]:
+            - generic [ref=e601]: "Year: 2011"
+            - generic [ref=e602]: "Language: Chinese"
+            - generic [ref=e603]: "File: PDF, 4.91 MB"
+            - generic [ref=e604]:
+              - generic [ref=e605]: 
+              - generic [ref=e606]: 5.0 / 5.0
+      - generic [ref=e610]:
+        - link "工程控制论（上册）（第三版） 钱学森; 宋健 著 Downloaded" [ref=e612] [cursor=pointer]:
+          - /url: /book/ov4mbVM9P9/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%8A%E5%86%8C%E7%AC%AC%E4%B8%89%E7%89%88.html
+          - generic "工程控制论（上册）（第三版）" [ref=e613]:
+            - generic "工程控制论（上册）（第三版）" [ref=e614]:
+              - generic [ref=e615]:
+                - generic [ref=e620]: 工程控制论（上册）（第三版）
+                - generic [ref=e621]: 钱学森; 宋健 著
+              - img [ref=e625]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e626]:
+                - /url: /book/ov4mbVM9P9/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%8A%E5%86%8C%E7%AC%AC%E4%B8%89%E7%89%88.html
+        - generic [ref=e627]:
+          - link "工程控制论（上册）（第三版）" [ref=e628] [cursor=pointer]:
+            - /url: /book/ov4mbVM9P9/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%8A%E5%86%8C%E7%AC%AC%E4%B8%89%E7%89%88.html
+            - generic [ref=e629]: 工程控制论（上册）（第三版）
+          - link "科学出版社" [ref=e630] [cursor=pointer]:
+            - /url: /publisher/科学出版社
+          - generic [ref=e631]:
+            - link "钱学森" [ref=e632] [cursor=pointer]:
+              - /url: /author/钱学森
+            - text: ","
+            - link "宋健 著" [ref=e633] [cursor=pointer]:
+              - /url: /author/宋健 著
+          - generic [ref=e635]:
+            - generic [ref=e636]: "Year: 2011"
+            - generic [ref=e637]: "Language: Chinese"
+            - generic [ref=e638]: "File: PDF, 150.22 MB"
+            - generic [ref=e639]:
+              - generic [ref=e640]: 
+              - generic [ref=e641]: 0.0 / 0.0
+      - generic [ref=e645]:
+        - link "工程控制论 钱学森，宋健著 Downloaded" [ref=e647] [cursor=pointer]:
+          - /url: /book/QZd2qkmzvG/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html
+          - generic "工程控制论" [ref=e648]:
+            - generic "工程控制论" [ref=e649]:
+              - generic [ref=e650]:
+                - generic [ref=e655]: 工程控制论
+                - generic [ref=e656]: 钱学森，宋健著
+              - img [ref=e660]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e661]:
+                - /url: /book/QZd2qkmzvG/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html
+        - generic [ref=e662]:
+          - link "工程控制论" [ref=e663] [cursor=pointer]:
+            - /url: /book/QZd2qkmzvG/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html
+            - generic [ref=e664]: 工程控制论
+          - link "北京：科学出版社" [ref=e665] [cursor=pointer]:
+            - /url: /publisher/北京：科学出版社
+          - link "钱学森，宋健著" [ref=e667] [cursor=pointer]:
+            - /url: /author/钱学森，宋健著
+          - generic [ref=e669]:
+            - generic [ref=e670]: "Year: 1981"
+            - generic [ref=e671]: "Language: Chinese"
+            - generic [ref=e672]: "File: PDF, 45.65 MB"
+            - generic [ref=e673]:
+              - generic [ref=e674]: 
+              - generic [ref=e675]: 5.0 / 5.0
+      - generic [ref=e679]:
+        - link "工程控制论 新世纪版 钱学森; 钱学森著; 戴汝为; 何善堉译; 钱学森; 戴汝为; 何善堉; 上海交通大学; Shang hai jiao tong da xue; 中国系统工程学会; 钱学森; 1911- Downloaded" [ref=e681] [cursor=pointer]:
+          - /url: /book/KOy3kJJbPM/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88.html
+          - generic "工程控制论 新世纪版" [ref=e682]:
+            - generic "工程控制论 新世纪版" [ref=e683]:
+              - generic [ref=e684]:
+                - generic [ref=e689]: 工程控制论 新世纪版
+                - generic [ref=e690]: 钱学森; 钱学森著; 戴汝为; 何善堉译; 钱学森; 戴汝为; 何善堉; 上海交通大学; Shang hai jiao tong da xue; 中国系统工程学会; 钱学森; 1911-
+              - img [ref=e694]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e695]:
+                - /url: /book/KOy3kJJbPM/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88.html
+        - generic [ref=e696]:
+          - link "工程控制论 新世纪版" [ref=e697] [cursor=pointer]:
+            - /url: /book/KOy3kJJbPM/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88.html
+            - generic [ref=e698]: 工程控制论 新世纪版
+          - link "上海：上海交通大学出版社" [ref=e699] [cursor=pointer]:
+            - /url: /publisher/上海：上海交通大学出版社
+          - generic [ref=e700]:
+            - link "钱学森" [ref=e701] [cursor=pointer]:
+              - /url: /author/钱学森
+            - text: ","
+            - link "钱学森著" [ref=e702] [cursor=pointer]:
+              - /url: /author/钱学森著
+            - text: ","
+            - link "戴汝为" [ref=e703] [cursor=pointer]:
+              - /url: /author/戴汝为
+            - text: ","
+            - link "何善堉译" [ref=e704] [cursor=pointer]:
+              - /url: /author/何善堉译
+            - text: ","
+            - link "钱学森" [ref=e705] [cursor=pointer]:
+              - /url: /author/钱学森
+          - generic [ref=e707]:
+            - generic [ref=e708]: "Year: 2007"
+            - generic [ref=e709]: "Language: Chinese"
+            - generic [ref=e710]: "File: PDF, 11.33 MB"
+            - generic [ref=e711]:
+              - generic [ref=e712]: 
+              - generic [ref=e713]: 0.0 / 0.0
+      - generic [ref=e717]:
+        - link "工程控制论 上 第3版 钱学森，宋健著; 钱学森; 1911-2009 Downloaded" [ref=e719] [cursor=pointer]:
+          - /url: /book/ov4lekAev9/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E4%B8%8A-%E7%AC%AC3%E7%89%88.html
+          - generic "工程控制论 上 第3版" [ref=e720]:
+            - generic "工程控制论 上 第3版" [ref=e721]:
+              - generic [ref=e722]:
+                - generic [ref=e727]: 工程控制论 上 第3版
+                - generic [ref=e728]: 钱学森，宋健著; 钱学森; 1911-2009
+              - img [ref=e732]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e733]:
+                - /url: /book/ov4lekAev9/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E4%B8%8A-%E7%AC%AC3%E7%89%88.html
+        - generic [ref=e734]:
+          - link "工程控制论 上 第3版" [ref=e735] [cursor=pointer]:
+            - /url: /book/ov4lekAev9/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E4%B8%8A-%E7%AC%AC3%E7%89%88.html
+            - generic [ref=e736]: 工程控制论 上 第3版
+          - link "北京：科学出版社" [ref=e737] [cursor=pointer]:
+            - /url: /publisher/北京：科学出版社
+          - generic [ref=e738]:
+            - link "钱学森，宋健著" [ref=e739] [cursor=pointer]:
+              - /url: /author/钱学森，宋健著
+            - text: ","
+            - link "钱学森" [ref=e740] [cursor=pointer]:
+              - /url: /author/钱学森
+            - text: ","
+            - link "1911-2009" [ref=e741] [cursor=pointer]:
+              - /url: /author/1911-2009
+          - generic [ref=e743]:
+            - generic [ref=e744]: "Year: 2011"
+            - generic [ref=e745]: "Language: Chinese"
+            - generic [ref=e746]: "File: PDF, 18.10 MB"
+            - generic [ref=e747]:
+              - generic [ref=e748]: 
+              - generic [ref=e749]: 0.0 / 0.0
+      - generic [ref=e753]:
+        - link "工程控制论 下 钱学森，宋健著; 钱学森; 1911-2009 Downloaded" [ref=e755] [cursor=pointer]:
+          - /url: /book/XP0K1Denv2/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E4%B8%8B.html
+          - generic "工程控制论 下" [ref=e756]:
+            - generic "工程控制论 下" [ref=e757]:
+              - generic [ref=e758]:
+                - generic [ref=e763]: 工程控制论 下
+                - generic [ref=e764]: 钱学森，宋健著; 钱学森; 1911-2009
+              - img [ref=e768]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e769]:
+                - /url: /book/XP0K1Denv2/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E4%B8%8B.html
+        - generic [ref=e770]:
+          - link "工程控制论 下" [ref=e771] [cursor=pointer]:
+            - /url: /book/XP0K1Denv2/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E4%B8%8B.html
+            - generic [ref=e772]: 工程控制论 下
+          - link "北京：科学出版社" [ref=e773] [cursor=pointer]:
+            - /url: /publisher/北京：科学出版社
+          - generic [ref=e774]:
+            - link "钱学森，宋健著" [ref=e775] [cursor=pointer]:
+              - /url: /author/钱学森，宋健著
+            - text: ","
+            - link "钱学森" [ref=e776] [cursor=pointer]:
+              - /url: /author/钱学森
+            - text: ","
+            - link "1911-2009" [ref=e777] [cursor=pointer]:
+              - /url: /author/1911-2009
+          - generic [ref=e779]:
+            - generic [ref=e780]: "Year: 2011"
+            - generic [ref=e781]: "Language: Chinese"
+            - generic [ref=e782]: "File: PDF, 1.88 MB"
+            - generic [ref=e783]:
+              - generic [ref=e784]: 
+              - generic [ref=e785]: 0.0 / 0.0
+      - generic [ref=e789]:
+        - link "工程控制论 钱学森著；戴汝为等译 Downloaded" [ref=e791] [cursor=pointer]:
+          - /url: /book/aOlkm73gZl/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html
+          - generic "工程控制论" [ref=e792]:
+            - generic "工程控制论" [ref=e793]:
+              - generic [ref=e794]:
+                - generic [ref=e799]: 工程控制论
+                - generic [ref=e800]: 钱学森著；戴汝为等译
+              - img [ref=e804]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e805]:
+                - /url: /book/aOlkm73gZl/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html
+        - generic [ref=e806]:
+          - link "工程控制论" [ref=e807] [cursor=pointer]:
+            - /url: /book/aOlkm73gZl/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html
+            - generic [ref=e808]: 工程控制论
+          - link "北京：科学出版社" [ref=e809] [cursor=pointer]:
+            - /url: /publisher/北京：科学出版社
+          - link "钱学森著；戴汝为等译" [ref=e811] [cursor=pointer]:
+            - /url: /author/钱学森著；戴汝为等译
+          - generic [ref=e813]:
+            - generic [ref=e814]: "Year: 1958"
+            - generic [ref=e815]: "Language: Chinese"
+            - generic [ref=e816]: "File: PDF, 10.60 MB"
+            - generic [ref=e817]:
+              - generic [ref=e818]: 
+              - generic [ref=e819]: 0.0 / 0.0
+      - generic [ref=e823]:
+        - link "工程控制论 下 钱学森，宋健 Downloaded" [ref=e825] [cursor=pointer]:
+          - /url: /book/nvJMlXVBOq/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E4%B8%8B.html
+          - generic "工程控制论 下" [ref=e826]:
+            - generic "工程控制论 下" [ref=e827]:
+              - generic [ref=e828]:
+                - generic [ref=e833]: 工程控制论 下
+                - generic [ref=e834]: 钱学森，宋健
+              - img [ref=e838]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e839]:
+                - /url: /book/nvJMlXVBOq/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E4%B8%8B.html
+        - generic [ref=e840]:
+          - link "工程控制论 下" [ref=e841] [cursor=pointer]:
+            - /url: /book/nvJMlXVBOq/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E4%B8%8B.html
+            - generic [ref=e842]: 工程控制论 下
+          - link "北京：科学出版社" [ref=e843] [cursor=pointer]:
+            - /url: /publisher/北京：科学出版社
+          - link "钱学森，宋健" [ref=e845] [cursor=pointer]:
+            - /url: /author/钱学森，宋健
+          - generic [ref=e847]:
+            - generic [ref=e848]: "Year: 1981"
+            - generic [ref=e849]: "Language: Chinese"
+            - generic [ref=e850]: "File: PDF, 15.76 MB"
+            - generic [ref=e851]:
+              - generic [ref=e852]: 
+              - generic [ref=e853]: 0.0 / 0.0
+      - generic [ref=e857]:
+        - link "工程控制论 上 钱学森，宋健同著 Downloaded" [ref=e859] [cursor=pointer]:
+          - /url: /book/YPxzDRjXOK/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E4%B8%8A.html
+          - generic "工程控制论 上" [ref=e860]:
+            - generic "工程控制论 上" [ref=e861]:
+              - generic [ref=e862]:
+                - generic [ref=e867]: 工程控制论 上
+                - generic [ref=e868]: 钱学森，宋健同著
+              - img [ref=e872]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e873]:
+                - /url: /book/YPxzDRjXOK/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E4%B8%8A.html
+        - generic [ref=e874]:
+          - link "工程控制论 上" [ref=e875] [cursor=pointer]:
+            - /url: /book/YPxzDRjXOK/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E4%B8%8A.html
+            - generic [ref=e876]: 工程控制论 上
+          - link "北京：科学出版社" [ref=e877] [cursor=pointer]:
+            - /url: /publisher/北京：科学出版社
+          - link "钱学森，宋健同著" [ref=e879] [cursor=pointer]:
+            - /url: /author/钱学森，宋健同著
+          - generic [ref=e881]:
+            - generic [ref=e882]: "Year: 1980"
+            - generic [ref=e883]: "Language: Chinese"
+            - generic [ref=e884]: "File: PDF, 168.77 MB"
+            - generic [ref=e885]:
+              - generic [ref=e886]: 
+              - generic [ref=e887]: 0.0 / 0.0
+      - generic [ref=e891]:
+        - link "工程控制论 钱学森，宋健著 Downloaded" [ref=e893] [cursor=pointer]:
+          - /url: /book/BvkjMyA5OL/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html
+          - generic "工程控制论" [ref=e894]:
+            - generic "工程控制论" [ref=e895]:
+              - generic [ref=e896]:
+                - generic [ref=e901]: 工程控制论
+                - generic [ref=e902]: 钱学森，宋健著
+              - img [ref=e906]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e907]:
+                - /url: /book/BvkjMyA5OL/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html
+        - generic [ref=e908]:
+          - link "工程控制论" [ref=e909] [cursor=pointer]:
+            - /url: /book/BvkjMyA5OL/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html
+            - generic [ref=e910]: 工程控制论
+          - link "北京：科学出版社" [ref=e911] [cursor=pointer]:
+            - /url: /publisher/北京：科学出版社
+          - link "钱学森，宋健著" [ref=e913] [cursor=pointer]:
+            - /url: /author/钱学森，宋健著
+          - generic [ref=e915]:
+            - generic [ref=e916]: "Year: 1981"
+            - generic [ref=e917]: "Language: Chinese"
+            - generic [ref=e918]: "File: PDF, 37.02 MB"
+            - generic [ref=e919]:
+              - generic [ref=e920]: 
+              - generic [ref=e921]: 5.0 / 5.0
+      - generic [ref=e925]:
+        - link "ТЕХНИЧЕСКАЯ КИБЕРНЕТИКА 工程控制论 钱学森著 Downloaded" [ref=e927] [cursor=pointer]:
+          - /url: /book/mZ32A7p2Po/%D0%A2%D0%95%D0%A5%D0%9D%D0%98%D0%A7%D0%95%D0%A1%D0%9A%D0%90%D0%AF-%D0%9A%D0%98%D0%91%D0%95%D0%A0%D0%9D%D0%95%D0%A2%D0%98%D0%9A%D0%90-%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html
+          - generic "ТЕХНИЧЕСКАЯ КИБЕРНЕТИКА 工程控制论" [ref=e928]:
+            - generic "ТЕХНИЧЕСКАЯ КИБЕРНЕТИКА 工程控制论" [ref=e929]:
+              - generic [ref=e930]:
+                - generic [ref=e935]: ТЕХНИЧЕСКАЯ КИБЕРНЕТИКА 工程控制论
+                - generic [ref=e936]: 钱学森著
+              - img [ref=e940]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e941]:
+                - /url: /book/mZ32A7p2Po/%D0%A2%D0%95%D0%A5%D0%9D%D0%98%D0%A7%D0%95%D0%A1%D0%9A%D0%90%D0%AF-%D0%9A%D0%98%D0%91%D0%95%D0%A0%D0%9D%D0%95%D0%A2%D0%98%D0%9A%D0%90-%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html
+        - generic [ref=e942]:
+          - link "ТЕХНИЧЕСКАЯ КИБЕРНЕТИКА 工程控制论" [ref=e943] [cursor=pointer]:
+            - /url: /book/mZ32A7p2Po/%D0%A2%D0%95%D0%A5%D0%9D%D0%98%D0%A7%D0%95%D0%A1%D0%9A%D0%90%D0%AF-%D0%9A%D0%98%D0%91%D0%95%D0%A0%D0%9D%D0%95%D0%A2%D0%98%D0%9A%D0%90-%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html
+            - generic [ref=e944]: ТЕХНИЧЕСКАЯ КИБЕРНЕТИКА 工程控制论
+          - link "钱学森著" [ref=e946] [cursor=pointer]:
+            - /url: /author/钱学森著
+          - generic [ref=e948]:
+            - generic [ref=e949]: "Language: Russian"
+            - generic [ref=e950]: "File: PDF, 6.04 MB"
+            - generic [ref=e951]:
+              - generic [ref=e952]: 
+              - generic [ref=e953]: 0.0 / 0.0
+      - generic [ref=e955]: The books listed below don't fit your search query exactly but very close to it.
+      - generic [ref=e958]:
+        - link "工业过程模型化及控制 1988中国自动化学会第二届过程控制科学报告会论文集 俞金寿，华向明主编 Downloaded" [ref=e960] [cursor=pointer]:
+          - /url: /book/6Ze3mMERva/%E5%B7%A5%E4%B8%9A%E8%BF%87%E7%A8%8B%E6%A8%A1%E5%9E%8B%E5%8C%96%E5%8F%8A%E6%8E%A7%E5%88%B6-1988%E4%B8%AD%E5%9B%BD%E8%87%AA%E5%8A%A8%E5%8C%96%E5%AD%A6%E4%BC%9A%E7%AC%AC%E4%BA%8C%E5%B1%8A%E8%BF%87%E7%A8%8B%E6%8E%A7%E5%88%B6%E7%A7%91%E5%AD%A6%E6%8A%A5%E5%91%8A%E4%BC%9A%E8%AE%BA%E6%96%87%E9%9B%86.html
+          - generic "工业过程模型化及控制 1988中国自动化学会第二届过程控制科学报告会论文集" [ref=e961]:
+            - generic "工业过程模型化及控制 1988中国自动化学会第二届过程控制科学报告会论文集" [ref=e962]:
+              - generic [ref=e963]:
+                - generic [ref=e968]: 工业过程模型化及控制 1988中国自动化学会第二届过程控制科学报告会论文集
+                - generic [ref=e969]: 俞金寿，华向明主编
+              - img [ref=e973]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e974]:
+                - /url: /book/6Ze3mMERva/%E5%B7%A5%E4%B8%9A%E8%BF%87%E7%A8%8B%E6%A8%A1%E5%9E%8B%E5%8C%96%E5%8F%8A%E6%8E%A7%E5%88%B6-1988%E4%B8%AD%E5%9B%BD%E8%87%AA%E5%8A%A8%E5%8C%96%E5%AD%A6%E4%BC%9A%E7%AC%AC%E4%BA%8C%E5%B1%8A%E8%BF%87%E7%A8%8B%E6%8E%A7%E5%88%B6%E7%A7%91%E5%AD%A6%E6%8A%A5%E5%91%8A%E4%BC%9A%E8%AE%BA%E6%96%87%E9%9B%86.html
+        - generic [ref=e975]:
+          - link "工业过程模型化及控制 1988中国自动化学会第二届过程控制科学报告会论文集" [ref=e976] [cursor=pointer]:
+            - /url: /book/6Ze3mMERva/%E5%B7%A5%E4%B8%9A%E8%BF%87%E7%A8%8B%E6%A8%A1%E5%9E%8B%E5%8C%96%E5%8F%8A%E6%8E%A7%E5%88%B6-1988%E4%B8%AD%E5%9B%BD%E8%87%AA%E5%8A%A8%E5%8C%96%E5%AD%A6%E4%BC%9A%E7%AC%AC%E4%BA%8C%E5%B1%8A%E8%BF%87%E7%A8%8B%E6%8E%A7%E5%88%B6%E7%A7%91%E5%AD%A6%E6%8A%A5%E5%91%8A%E4%BC%9A%E8%AE%BA%E6%96%87%E9%9B%86.html
+            - generic [ref=e977]: 工业过程模型化及控制 1988中国自动化学会第二届过程控制科学报告会论文集
+          - link "上海：华东化工学院出版社" [ref=e978] [cursor=pointer]:
+            - /url: /publisher/上海：华东化工学院出版社
+          - link "俞金寿，华向明主编" [ref=e980] [cursor=pointer]:
+            - /url: /author/俞金寿，华向明主编
+          - generic [ref=e982]:
+            - generic [ref=e983]: "Year: 1989"
+            - generic [ref=e984]: "Language: Chinese"
+            - generic [ref=e985]: "File: PDF, 5.98 MB"
+            - generic [ref=e986]:
+              - generic [ref=e987]: 
+              - generic [ref=e988]: 0.0 / 0.0
+      - generic [ref=e992]:
+        - link "第二次国际石油工程会议论文集 第1册 双重孔隙介油层研究的控制论方法 中国石油学会石油工程委员会 Downloaded" [ref=e994] [cursor=pointer]:
+          - /url: /book/bZW5MRrjvD/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%9B%BD%E9%99%85%E7%9F%B3%E6%B2%B9%E5%B7%A5%E7%A8%8B%E4%BC%9A%E8%AE%AE%E8%AE%BA%E6%96%87%E9%9B%86-%E7%AC%AC1%E5%86%8C-%E5%8F%8C%E9%87%8D%E5%AD%94%E9%9A%99%E4%BB%8B%E6%B2%B9%E5%B1%82%E7%A0%94%E7%A9%B6%E7%9A%84%E6%8E%A7%E5%88%B6%E8%AE%BA%E6%96%B9%E6%B3%95.html
+          - generic "第二次国际石油工程会议论文集 第1册 双重孔隙介油层研究的控制论方法" [ref=e995]:
+            - generic "第二次国际石油工程会议论文集 第1册 双重孔隙介油层研究的控制论方法" [ref=e996]:
+              - generic [ref=e997]:
+                - generic [ref=e1002]: 第二次国际石油工程会议论文集 第1册 双重孔隙介油层研究的控制论方法
+                - generic [ref=e1003]: 中国石油学会石油工程委员会
+              - img [ref=e1007]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e1008]:
+                - /url: /book/bZW5MRrjvD/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%9B%BD%E9%99%85%E7%9F%B3%E6%B2%B9%E5%B7%A5%E7%A8%8B%E4%BC%9A%E8%AE%AE%E8%AE%BA%E6%96%87%E9%9B%86-%E7%AC%AC1%E5%86%8C-%E5%8F%8C%E9%87%8D%E5%AD%94%E9%9A%99%E4%BB%8B%E6%B2%B9%E5%B1%82%E7%A0%94%E7%A9%B6%E7%9A%84%E6%8E%A7%E5%88%B6%E8%AE%BA%E6%96%B9%E6%B3%95.html
+        - generic [ref=e1009]:
+          - link "第二次国际石油工程会议论文集 第1册 双重孔隙介油层研究的控制论方法" [ref=e1010] [cursor=pointer]:
+            - /url: /book/bZW5MRrjvD/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%9B%BD%E9%99%85%E7%9F%B3%E6%B2%B9%E5%B7%A5%E7%A8%8B%E4%BC%9A%E8%AE%AE%E8%AE%BA%E6%96%87%E9%9B%86-%E7%AC%AC1%E5%86%8C-%E5%8F%8C%E9%87%8D%E5%AD%94%E9%9A%99%E4%BB%8B%E6%B2%B9%E5%B1%82%E7%A0%94%E7%A9%B6%E7%9A%84%E6%8E%A7%E5%88%B6%E8%AE%BA%E6%96%B9%E6%B3%95.html
+            - generic [ref=e1011]: 第二次国际石油工程会议论文集 第1册 双重孔隙介油层研究的控制论方法
+          - link "北京：石油工业出版社" [ref=e1012] [cursor=pointer]:
+            - /url: /publisher/北京：石油工业出版社
+          - link "中国石油学会石油工程委员会" [ref=e1014] [cursor=pointer]:
+            - /url: /author/中国石油学会石油工程委员会
+          - generic [ref=e1016]:
+            - generic [ref=e1017]: "Year: 1986"
+            - generic [ref=e1018]: "Language: Chinese"
+            - generic [ref=e1019]: "File: PDF, 1023 KB"
+            - generic [ref=e1020]:
+              - generic [ref=e1021]: 
+              - generic [ref=e1022]: 0.0 / 0.0
+      - generic [ref=e1026]:
+        - link "系统理论中的科学方法与哲学问题 1982年北京系统论、信息论、控制论中的科学方法与哲学问题学术讨论会文集 钱学森等著 Downloaded" [ref=e1028] [cursor=pointer]:
+          - /url: /book/qZLd8XEXZ8/%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E4%B8%AD%E7%9A%84%E7%A7%91%E5%AD%A6%E6%96%B9%E6%B3%95%E4%B8%8E%E5%93%B2%E5%AD%A6%E9%97%AE%E9%A2%98-1982%E5%B9%B4%E5%8C%97%E4%BA%AC%E7%B3%BB%E7%BB%9F%E8%AE%BA%E4%BF%A1%E6%81%AF%E8%AE%BA%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%AD%E7%9A%84%E7%A7%91%E5%AD%A6%E6%96%B9%E6%B3%95%E4%B8%8E%E5%93%B2%E5%AD%A6%E9%97%AE%E9%A2%98%E5%AD%A6%E6%9C%AF%E8%AE%A8%E8%AE%BA%E4%BC%9A%E6%96%87%E9%9B%86.html
+          - generic "系统理论中的科学方法与哲学问题 1982年北京系统论、信息论、控制论中的科学方法与哲学问题学术讨论会文集" [ref=e1029]:
+            - generic "系统理论中的科学方法与哲学问题 1982年北京系统论、信息论、控制论中的科学方法与哲学问题学术讨论会文集" [ref=e1030]:
+              - generic [ref=e1031]:
+                - generic [ref=e1036]: 系统理论中的科学方法与哲学问题 1982年北京系统论、信息论、控制论中的科学方法与哲学问题学术讨论会文集
+                - generic [ref=e1037]: 钱学森等著
+              - img [ref=e1041]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e1042]:
+                - /url: /book/qZLd8XEXZ8/%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E4%B8%AD%E7%9A%84%E7%A7%91%E5%AD%A6%E6%96%B9%E6%B3%95%E4%B8%8E%E5%93%B2%E5%AD%A6%E9%97%AE%E9%A2%98-1982%E5%B9%B4%E5%8C%97%E4%BA%AC%E7%B3%BB%E7%BB%9F%E8%AE%BA%E4%BF%A1%E6%81%AF%E8%AE%BA%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%AD%E7%9A%84%E7%A7%91%E5%AD%A6%E6%96%B9%E6%B3%95%E4%B8%8E%E5%93%B2%E5%AD%A6%E9%97%AE%E9%A2%98%E5%AD%A6%E6%9C%AF%E8%AE%A8%E8%AE%BA%E4%BC%9A%E6%96%87%E9%9B%86.html
+        - generic [ref=e1043]:
+          - link "系统理论中的科学方法与哲学问题 1982年北京系统论、信息论、控制论中的科学方法与哲学问题学术讨论会文集" [ref=e1044] [cursor=pointer]:
+            - /url: /book/qZLd8XEXZ8/%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E4%B8%AD%E7%9A%84%E7%A7%91%E5%AD%A6%E6%96%B9%E6%B3%95%E4%B8%8E%E5%93%B2%E5%AD%A6%E9%97%AE%E9%A2%98-1982%E5%B9%B4%E5%8C%97%E4%BA%AC%E7%B3%BB%E7%BB%9F%E8%AE%BA%E4%BF%A1%E6%81%AF%E8%AE%BA%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%AD%E7%9A%84%E7%A7%91%E5%AD%A6%E6%96%B9%E6%B3%95%E4%B8%8E%E5%93%B2%E5%AD%A6%E9%97%AE%E9%A2%98%E5%AD%A6%E6%9C%AF%E8%AE%A8%E8%AE%BA%E4%BC%9A%E6%96%87%E9%9B%86.html
+            - generic [ref=e1045]: 系统理论中的科学方法与哲学问题 1982年北京系统论、信息论、控制论中的科学方法与哲学问题学术讨论会文集
+          - link "北京：清华大学出版社" [ref=e1046] [cursor=pointer]:
+            - /url: /publisher/北京：清华大学出版社
+          - link "钱学森等著" [ref=e1048] [cursor=pointer]:
+            - /url: /author/钱学森等著
+          - generic [ref=e1050]:
+            - generic [ref=e1051]: "Year: 1984"
+            - generic [ref=e1052]: "Language: Chinese"
+            - generic [ref=e1053]: "File: PDF, 12.29 MB"
+            - generic [ref=e1054]:
+              - generic [ref=e1055]: 
+              - generic [ref=e1056]: 5.0 / 5.0
+      - generic [ref=e1060]:
+        - link "系统理论中的科学方法与哲学问题 1982年北京系统论、信息论、控制论中的科学方法与哲学问题学术讨论会文集 钱学森等著 Downloaded" [ref=e1062] [cursor=pointer]:
+          - /url: /book/6ZD9JaplOg/%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E4%B8%AD%E7%9A%84%E7%A7%91%E5%AD%A6%E6%96%B9%E6%B3%95%E4%B8%8E%E5%93%B2%E5%AD%A6%E9%97%AE%E9%A2%98-1982%E5%B9%B4%E5%8C%97%E4%BA%AC%E7%B3%BB%E7%BB%9F%E8%AE%BA%E4%BF%A1%E6%81%AF%E8%AE%BA%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%AD%E7%9A%84%E7%A7%91%E5%AD%A6%E6%96%B9%E6%B3%95%E4%B8%8E%E5%93%B2%E5%AD%A6%E9%97%AE%E9%A2%98%E5%AD%A6%E6%9C%AF%E8%AE%A8%E8%AE%BA%E4%BC%9A%E6%96%87%E9%9B%86.html
+          - generic "系统理论中的科学方法与哲学问题 1982年北京系统论、信息论、控制论中的科学方法与哲学问题学术讨论会文集" [ref=e1063]:
+            - generic "系统理论中的科学方法与哲学问题 1982年北京系统论、信息论、控制论中的科学方法与哲学问题学术讨论会文集" [ref=e1064]:
+              - generic [ref=e1065]:
+                - generic [ref=e1070]: 系统理论中的科学方法与哲学问题 1982年北京系统论、信息论、控制论中的科学方法与哲学问题学术讨论会文集
+                - generic [ref=e1071]: 钱学森等著
+              - img [ref=e1075]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e1076]:
+                - /url: /book/6ZD9JaplOg/%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E4%B8%AD%E7%9A%84%E7%A7%91%E5%AD%A6%E6%96%B9%E6%B3%95%E4%B8%8E%E5%93%B2%E5%AD%A6%E9%97%AE%E9%A2%98-1982%E5%B9%B4%E5%8C%97%E4%BA%AC%E7%B3%BB%E7%BB%9F%E8%AE%BA%E4%BF%A1%E6%81%AF%E8%AE%BA%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%AD%E7%9A%84%E7%A7%91%E5%AD%A6%E6%96%B9%E6%B3%95%E4%B8%8E%E5%93%B2%E5%AD%A6%E9%97%AE%E9%A2%98%E5%AD%A6%E6%9C%AF%E8%AE%A8%E8%AE%BA%E4%BC%9A%E6%96%87%E9%9B%86.html
+        - generic [ref=e1077]:
+          - link "系统理论中的科学方法与哲学问题 1982年北京系统论、信息论、控制论中的科学方法与哲学问题学术讨论会文集" [ref=e1078] [cursor=pointer]:
+            - /url: /book/6ZD9JaplOg/%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E4%B8%AD%E7%9A%84%E7%A7%91%E5%AD%A6%E6%96%B9%E6%B3%95%E4%B8%8E%E5%93%B2%E5%AD%A6%E9%97%AE%E9%A2%98-1982%E5%B9%B4%E5%8C%97%E4%BA%AC%E7%B3%BB%E7%BB%9F%E8%AE%BA%E4%BF%A1%E6%81%AF%E8%AE%BA%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%AD%E7%9A%84%E7%A7%91%E5%AD%A6%E6%96%B9%E6%B3%95%E4%B8%8E%E5%93%B2%E5%AD%A6%E9%97%AE%E9%A2%98%E5%AD%A6%E6%9C%AF%E8%AE%A8%E8%AE%BA%E4%BC%9A%E6%96%87%E9%9B%86.html
+            - generic [ref=e1079]: 系统理论中的科学方法与哲学问题 1982年北京系统论、信息论、控制论中的科学方法与哲学问题学术讨论会文集
+          - link "北京：清华大学出版社" [ref=e1080] [cursor=pointer]:
+            - /url: /publisher/北京：清华大学出版社
+          - link "钱学森等著" [ref=e1082] [cursor=pointer]:
+            - /url: /author/钱学森等著
+          - generic [ref=e1084]:
+            - generic [ref=e1085]: "Year: 1984"
+            - generic [ref=e1086]: "Language: Chinese"
+            - generic [ref=e1087]: "File: PDF, 10.13 MB"
+            - generic [ref=e1088]:
+              - generic [ref=e1089]: 
+              - generic [ref=e1090]: 0.0 / 0.0
+      - generic [ref=e1094]:
+        - link "全国环境噪声及控制工程学术会议论文 化工放空消声器实验研究及应用 邱子中 Downloaded" [ref=e1096] [cursor=pointer]:
+          - /url: /book/3O6o24p3vD/%E5%85%A8%E5%9B%BD%E7%8E%AF%E5%A2%83%E5%99%AA%E5%A3%B0%E5%8F%8A%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%AD%A6%E6%9C%AF%E4%BC%9A%E8%AE%AE%E8%AE%BA%E6%96%87-%E5%8C%96%E5%B7%A5%E6%94%BE%E7%A9%BA%E6%B6%88%E5%A3%B0%E5%99%A8%E5%AE%9E%E9%AA%8C%E7%A0%94%E7%A9%B6%E5%8F%8A%E5%BA%94%E7%94%A8.html
+          - generic "全国环境噪声及控制工程学术会议论文 化工放空消声器实验研究及应用" [ref=e1097]:
+            - generic "全国环境噪声及控制工程学术会议论文 化工放空消声器实验研究及应用" [ref=e1098]:
+              - generic [ref=e1099]:
+                - generic [ref=e1104]: 全国环境噪声及控制工程学术会议论文 化工放空消声器实验研究及应用
+                - generic [ref=e1105]: 邱子中
+              - img [ref=e1109]
+              - generic:
+                - generic: Downloaded
+              - link [ref=e1110]:
+                - /url: /book/3O6o24p3vD/%E5%85%A8%E5%9B%BD%E7%8E%AF%E5%A2%83%E5%99%AA%E5%A3%B0%E5%8F%8A%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%AD%A6%E6%9C%AF%E4%BC%9A%E8%AE%AE%E8%AE%BA%E6%96%87-%E5%8C%96%E5%B7%A5%E6%94%BE%E7%A9%BA%E6%B6%88%E5%A3%B0%E5%99%A8%E5%AE%9E%E9%AA%8C%E7%A0%94%E7%A9%B6%E5%8F%8A%E5%BA%94%E7%94%A8.html
+        - generic [ref=e1111]:
+          - link "全国环境噪声及控制工程学术会议论文 化工放空消声器实验研究及应用" [ref=e1112] [cursor=pointer]:
+            - /url: /book/3O6o24p3vD/%E5%85%A8%E5%9B%BD%E7%8E%AF%E5%A2%83%E5%99%AA%E5%A3%B0%E5%8F%8A%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%AD%A6%E6%9C%AF%E4%BC%9A%E8%AE%AE%E8%AE%BA%E6%96%87-%E5%8C%96%E5%B7%A5%E6%94%BE%E7%A9%BA%E6%B6%88%E5%A3%B0%E5%99%A8%E5%AE%9E%E9%AA%8C%E7%A0%94%E7%A9%B6%E5%8F%8A%E5%BA%94%E7%94%A8.html
+            - generic [ref=e1113]: 全国环境噪声及控制工程学术会议论文 化工放空消声器实验研究及应用
+          - link "化工部第八设计院" [ref=e1114] [cursor=pointer]:
+            - /url: /publisher/化工部第八设计院
+          - link "邱子中" [ref=e1116] [cursor=pointer]:
+            - /url: /author/邱子中
+          - generic [ref=e1118]:
+            - generic [ref=e1119]: "Year: 1982"
+            - generic [ref=e1120]: "Language: Chinese"
+            - generic [ref=e1121]: "File: PDF, 583 KB"
+            - generic [ref=e1122]:
+              - generic [ref=e1123]: 
+              - generic [ref=e1124]: 0.0 / 0.0
+    - table [ref=e1126]:
+      - rowgroup [ref=e1127]:
+        - row "1 2 3":
+          - cell
+          - cell "1 2 3" [ref=e1128]:
+            - table [ref=e1129]:
+              - rowgroup [ref=e1130]:
+                - row "1 2 3" [ref=e1131]:
+                  - cell "1" [ref=e1132]:
+                    - strong [ref=e1134]: "1"
+                  - cell "2" [ref=e1135]:
+                    - link "2" [ref=e1137] [cursor=pointer]:
+                      - /url: /s/?q=%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA+%E9%92%B1%E5%AD%A6%E6%A3%AE&page=2
+                  - cell "3" [ref=e1138]:
+                    - link "3" [ref=e1140] [cursor=pointer]:
+                      - /url: /s/?q=%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA+%E9%92%B1%E5%AD%A6%E6%A3%AE&page=3
+                - row [ref=e1141]:
+                  - cell [ref=e1142]
+          - cell
+        - row [ref=e1148]:
+          - cell [ref=e1149]
+          - cell [ref=e1150]
+    - text: 
+  - generic [ref=e1153]:
+    - generic [ref=e1154]:
+      - figure "— Carlos María Domínguez" [ref=e1156]:
+        - blockquote [ref=e1157]:
+          - text: “
+          - paragraph [ref=e1158]: To build up a library is to create a life. It’s never just a random collection of books.
+          - text: ”
+        - generic [ref=e1159]: — Carlos María Domínguez
+      - list [ref=e1161]:
+        - listitem [ref=e1162]:
+          - link " Official channel" [ref=e1163] [cursor=pointer]:
+            - /url: https://x.com/Z_Lib_official
+            - generic [ref=e1164]: 
+            - text: Official channel
+        - listitem [ref=e1165]:
+          - link "" [ref=e1166] [cursor=pointer]:
+            - /url: ""
+            - generic [ref=e1167]: 
+        - listitem [ref=e1168]:
+          - link "" [ref=e1169] [cursor=pointer]:
+            - /url: https://mastodon.social/@Z_Lib_official
+            - generic [ref=e1170]: 
+      - generic [ref=e1171]:
+        - link [ref=e1172] [cursor=pointer]:
+          - /url: /z-access#desktop_app_tab
+          - article [ref=e1173]:
+            - img "Z-Library Desktop Launcher" [ref=e1174]
+            - generic [ref=e1175]: Z-Library
+        - link [ref=e1176] [cursor=pointer]:
+          - /url: /z-access#useful_link_tab
+          - article [ref=e1177]:
+            - img "Tor version" [ref=e1178]
+            - generic [ref=e1179]: Z-Library
+    - generic [ref=e1180]:
+      - generic [ref=e1181]:
+        - generic [ref=e1182]: Z-Library
+        - list [ref=e1183]:
+          - listitem [ref=e1184]:
+            - link "Blog" [ref=e1185] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e1186]:
+            - link "Z-Access" [ref=e1187] [cursor=pointer]:
+              - /url: https://library-access.sk
+          - listitem [ref=e1188]:
+            - link "Our Mission" [ref=e1189] [cursor=pointer]:
+              - /url: /mission
+          - listitem [ref=e1190]:
+            - link "Share your story" [ref=e1191] [cursor=pointer]:
+              - /url: /testimonials
+          - listitem [ref=e1192]:
+            - link "Support us" [ref=e1193] [cursor=pointer]:
+              - /url: https://www.change.org/zlibrary2023
+          - listitem [ref=e1194]:
+            - link "Institutions Support" [ref=e1195] [cursor=pointer]:
+              - /url: /request-help
+          - listitem [ref=e1196]:
+            - link "Support for authors" [ref=e1197] [cursor=pointer]:
+              - /url: /promotion/books
+          - listitem [ref=e1198]:
+            - link "LibTalks" [ref=e1199] [cursor=pointer]:
+              - /url: https://lib-talk.io
+      - generic [ref=e1200]:
+        - generic [ref=e1201]: Help
+        - list [ref=e1202]:
+          - listitem [ref=e1203]:
+            - link "DMCA" [ref=e1204] [cursor=pointer]:
+              - /url: /dmca
+          - listitem [ref=e1205]:
+            - link "Terms" [ref=e1206] [cursor=pointer]:
+              - /url: /tos
+          - listitem [ref=e1207]:
+            - link "FAQ" [ref=e1208] [cursor=pointer]:
+              - /url: /faq
+    - generic [ref=e1209]:
+      - generic [ref=e1210]:
+        - img "Z-Library" [ref=e1212]
+        - generic [ref=e1213]:
+          - link "Z-Library" [ref=e1214] [cursor=pointer]:
+            - /url: https://z-library.sk
+          - text: Since 2009
+        - link "support@z-lib.fm" [ref=e1216] [cursor=pointer]:
+          - /url: "mailto: support@z-lib.fm"
+      - generic [ref=e1219] [cursor=pointer]:
+        - generic [ref=e1220]: 
+        - generic [ref=e1221]: English
+  - generic:
+    - img
+    - generic: 

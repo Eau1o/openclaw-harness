@@ -11,6 +11,7 @@
 | 技术债务清单 | docs/exec-plans/tech-debt-tracker.md |
 | 产品规格 | docs/product-specs/ |
 | 质量评分 | docs/QUALITY_SCORE.md |
+| 本地 Wiki | WIKI.md（入口）/ wiki/（内容）|
 
 ## 铁律
 
@@ -18,6 +19,7 @@
 2. **执行任务前，先读取相关文档**
 3. **任务完成后，更新对应的文档**
 4. **发现临时方案，立即写入 tech-debt-tracker.md**
+5. **回答问题前，优先查询 Wiki 知识库**（见下方说明）
 
 ## 工作流
 

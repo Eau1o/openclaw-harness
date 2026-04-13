@@ -1,0 +1,11 @@
+{
+  "repos": {
+    "github-openclaw": {
+      "repoPath": "wiki/sources/github/openclaw",
+      "sourceDir": "docs",
+      "lastCommit": null,
+      "lastSync": "2026-04-13T16:30:00+08:00",
+      "outputDir": "wiki/pages/source/github-openclaw"
+    }
+  }
+}

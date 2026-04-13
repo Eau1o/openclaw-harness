@@ -1,0 +1,691 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4] [cursor=pointer]: 
+    - generic [ref=e6] [cursor=pointer]: 
+    - generic [ref=e8] [cursor=pointer]: 
+    - generic [ref=e10] [cursor=pointer]: 
+    - generic [ref=e12] [cursor=pointer]: 
+    - generic [ref=e14] [cursor=pointer]: 
+    - generic [ref=e16] [cursor=pointer]: 
+  - navigation [ref=e19]:
+    - generic [ref=e20]:
+      - link "Z-Library Home" [ref=e21] [cursor=pointer]:
+        - /url: /
+        - text: Z-Library Home  
+      - link "My Library" [ref=e22] [cursor=pointer]:
+        - /url: /profile#tags
+        - text: My Library  
+    - generic [ref=e26] [cursor=pointer]:
+      - generic [ref=e27]: 
+      - generic [ref=e28]: English
+    - link "Donate" [ref=e31] [cursor=pointer]:
+      - /url: /how-to-donate
+    - generic [ref=e32]:
+      - generic [ref=e34] [cursor=pointer]: 
+      - generic:
+        - generic:
+          - generic:
+            - textbox "Search for title, author, ISBN, DOI, publisher, md5…" [ref=e35]
+            - button "" [ref=e36] [cursor=pointer]:
+              - generic [ref=e37]: 
+            - button "" [ref=e38] [cursor=pointer]:
+              - generic [ref=e39]: 
+    - generic [ref=e42] [cursor=pointer]:
+      - generic [ref=e44]: 
+      - generic [ref=e45]: 
+      - generic [ref=e46]: 
+    - link "Log In" [ref=e48] [cursor=pointer]:
+      - /url: /login?redirectUrl=https%253A%252F%252Fz-library.sk%252Fbook%252F9vq2ye0WOA%252F%2525E5%2525B7%2525A5%2525E7%2525A8%25258B%2525E6%25258E%2525A7%2525E5%252588%2525B6%2525E8%2525AE%2525BA%2525E6%252596%2525B0%2525E4%2525B8%252596%2525E7%2525BA%2525AA%2525E7%252589%252588.html
+    - generic [ref=e49]:
+      - generic [ref=e51] [cursor=pointer]: 
+      - text:                         
+  - generic [ref=e54]:
+    - generic [ref=e55]:
+      - generic [ref=e56]:
+        - link [ref=e57] [cursor=pointer]:
+          - /url: /
+        - heading "工程控制论(新世纪版)" [level=2] [ref=e58]
+      - list [ref=e60]:
+        - listitem [ref=e61]:
+          - link "Main" [ref=e62] [cursor=pointer]:
+            - /url: /
+          - text: /
+        - listitem [ref=e63]:
+          - link "Engineering - Electrical & Electronic Engineering" [ref=e64] [cursor=pointer]:
+            - /url: /category/251/Engineering-Electrical--Electronic-Engineering
+          - text: /
+        - listitem [ref=e65]: 工程控制论(新世纪版)
+    - generic [ref=e67]:
+      - generic "工程控制论(新世纪版)" [ref=e69]:
+        - generic "工程控制论(新世纪版)" [ref=e70]:
+          - generic [ref=e71]:
+            - generic [ref=e76]: 工程控制论(新世纪版)
+            - generic [ref=e77]: 钱学森
+          - img [ref=e81] [cursor=pointer]
+          - generic [ref=e82] [cursor=pointer]: Mark as downloaded
+          - generic:
+            - generic: Downloaded
+      - generic [ref=e83]:
+        - heading "工程控制论(新世纪版)" [level=1] [ref=e84]
+        - link "钱学森" [ref=e86] [cursor=pointer]:
+          - /url: /author/%E9%92%B1%E5%AD%A6%E6%A3%AE
+        - generic [ref=e88]:
+          - generic [ref=e89]:
+            - link "Read Online" [ref=e92] [cursor=pointer]:
+              - /url: https://reader.z-library.sk/read/9b420bac1ac1cf1c2f72a7dfcd4a88deaf99523a3c9936283093a4e1fd691a4e/book/9vq2ye0WOA/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88.html?client_key=1fFLi67gBrNRP1j1iPy1&extension=pdf&signature=b0a6542c67e4080666c66c13860fed623df53debd1da305d353d29d00aa92e19&file_access_token=eyJleHAiOjE3NzY2ODY2MDAsInZlciI6IjEuMCIsInR5cCI6IkpXVCIsImFsZyI6IkhTMjU2In0.eyJzdWIiOiJmaWxlX2FjY2VzcyIsImZpbGVfc2hhMjU2IjoiOWI0MjBiYWMxYWMxY2YxYzJmNzJhN2RmY2Q0YTg4ZGVhZjk5NTIzYTNjOTkzNjI4MzA5M2E0ZTFmZDY5MWE0ZSIsImFjY2Vzc19sZXZlbCI6ImxpbWl0ZWQiLCJpc19wdWJsaWMiOnRydWV9.P9cW1OkJYmE9QejkS-DJOsRdfqyK_5G0CGDpDmRYdEM
+              - generic [ref=e93]: 
+              - text: Read Online
+            - generic [ref=e95]:
+              - generic [ref=e96] [cursor=pointer]:
+                - generic [ref=e97]: 
+                - text: Add to My Library
+              - text: 
+            - generic [ref=e101]:
+              - link "pdf, 21.64 MB" [ref=e102] [cursor=pointer]:
+                - /url: /dl/VBnNkmR1B1
+                - generic [ref=e103]: 
+                - text: pdf, 21.64 MB
+              - button " Toggle Dropdown" [ref=e104] [cursor=pointer]:
+                - generic [ref=e105]: 
+                - generic [ref=e106]: Toggle Dropdown
+            - button "Send to    " [ref=e109] [cursor=pointer]:
+              - text: Send to
+              - generic [ref=e110]:
+                - generic [ref=e111]: 
+                - generic [ref=e112]: 
+                - generic [ref=e113]: 
+                - generic [ref=e114]: 
+          - generic:  
+        - generic [ref=e117]:
+          - generic [ref=e118] [cursor=pointer]: About book
+          - generic [ref=e119] [cursor=pointer]: Comments 7
+        - generic [ref=e121]:
+          - generic [ref=e122]:
+            - generic [ref=e123]:
+              - generic [ref=e124] [cursor=pointer]: 
+              - text:  5.0 / 3.0
+            - generic [ref=e125]:
+              - generic [ref=e126] [cursor=pointer]: 
+              - generic [ref=e127]: Paperback
+          - generic [ref=e129]:
+            - generic [ref=e130]:
+              - generic [ref=e131]: "Categories:"
+              - link "Engineering - Electrical & Electronic Engineering" [ref=e133] [cursor=pointer]:
+                - /url: /category/251/Engineering-Electrical--Electronic-Engineering
+            - generic [ref=e134]:
+              - generic [ref=e135]: "Content Type:"
+              - generic [ref=e136]: Books
+            - generic [ref=e137]:
+              - generic [ref=e138]: "Year:"
+              - generic [ref=e139]: "2008"
+            - generic [ref=e140]:
+              - generic [ref=e141]: "Language:"
+              - generic [ref=e142]: Chinese
+            - generic [ref=e143]:
+              - generic [ref=e144]: "File:"
+              - generic [ref=e145]: PDF, 21.64 MB
+            - generic [ref=e146]:
+              - generic [ref=e147]: "IPFS:"
+              - generic [ref=e148]:
+                - generic [ref=e149] [cursor=pointer]: CID
+                - text: ","
+                - generic [ref=e150] [cursor=pointer]: CID Blake2b
+        - text: "Re: Re: "
+    - text:    
+    - generic [ref=e151]:
+      - heading "You may be interested in" [level=2] [ref=e153]
+      - generic [ref=e155]:
+        - generic [ref=e156]:
+          - link "俄语入门（练习答案） 周鼎 Downloaded":
+            - /url: /book/ZODaM4n5RL/%E4%BF%84%E8%AF%AD%E5%85%A5%E9%97%A8%E7%BB%83%E4%B9%A0%E7%AD%94%E6%A1%88.html?dsource=recommend
+            - generic "俄语入门（练习答案）" [ref=e157] [cursor=pointer]:
+              - generic "俄语入门（练习答案）" [ref=e158]:
+                - generic [ref=e159]:
+                  - generic [ref=e164]: 俄语入门（练习答案）
+                  - generic [ref=e165]: 周鼎
+                - img [ref=e167]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e168]:
+                  - /url: /book/ZODaM4n5RL/%E4%BF%84%E8%AF%AD%E5%85%A5%E9%97%A8%E7%BB%83%E4%B9%A0%E7%AD%94%E6%A1%88.html?dsource=recommend
+        - generic [ref=e169]:
+          - link "俄语入门 上册 周鼎 Downloaded":
+            - /url: /book/JR6lp2X3vN/%E4%BF%84%E8%AF%AD%E5%85%A5%E9%97%A8-%E4%B8%8A%E5%86%8C.html?dsource=recommend
+            - generic "俄语入门 上册" [ref=e170] [cursor=pointer]:
+              - generic "俄语入门 上册" [ref=e171]:
+                - generic [ref=e172]:
+                  - generic [ref=e177]: 俄语入门 上册
+                  - generic [ref=e178]: 周鼎
+                - img [ref=e180]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e181]:
+                  - /url: /book/JR6lp2X3vN/%E4%BF%84%E8%AF%AD%E5%85%A5%E9%97%A8-%E4%B8%8A%E5%86%8C.html?dsource=recommend
+        - generic [ref=e182]:
+          - link "俄语入门 下册 周鼎 Downloaded":
+            - /url: /book/ojLqX91evL/%E4%BF%84%E8%AF%AD%E5%85%A5%E9%97%A8-%E4%B8%8B%E5%86%8C.html?dsource=recommend
+            - generic "俄语入门 下册" [ref=e183] [cursor=pointer]:
+              - generic "俄语入门 下册" [ref=e184]:
+                - generic [ref=e185]:
+                  - generic [ref=e190]: 俄语入门 下册
+                  - generic [ref=e191]: 周鼎
+                - img [ref=e193]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e194]:
+                  - /url: /book/ojLqX91evL/%E4%BF%84%E8%AF%AD%E5%85%A5%E9%97%A8-%E4%B8%8B%E5%86%8C.html?dsource=recommend
+        - generic [ref=e195]:
+          - link "论系统工程 钱学森等著 Downloaded":
+            - /url: /book/wRxNZB53v4/%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B.html?dsource=recommend
+            - generic "论系统工程" [ref=e196] [cursor=pointer]:
+              - generic "论系统工程" [ref=e197]:
+                - generic [ref=e198]:
+                  - generic [ref=e203]: 论系统工程
+                  - generic [ref=e204]: 钱学森等著
+                - img [ref=e206]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e207]:
+                  - /url: /book/wRxNZB53v4/%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B.html?dsource=recommend
+        - generic [ref=e208]:
+          - link "科学发现的逻辑 卡尔·波普尔 (作者), 查汝强 (译者), 邱仁宗 (译者) Downloaded":
+            - /url: /book/bqOX4We1Ok/%E7%A7%91%E5%AD%A6%E5%8F%91%E7%8E%B0%E7%9A%84%E9%80%BB%E8%BE%91.html?dsource=recommend
+            - generic "科学发现的逻辑" [ref=e209] [cursor=pointer]:
+              - generic "科学发现的逻辑" [ref=e210]:
+                - generic [ref=e211]:
+                  - generic [ref=e216]: 科学发现的逻辑
+                  - generic [ref=e217]: 卡尔·波普尔 (作者), 查汝强 (译者), 邱仁宗 (译者)
+                - img [ref=e221]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e222]:
+                  - /url: /book/bqOX4We1Ok/%E7%A7%91%E5%AD%A6%E5%8F%91%E7%8E%B0%E7%9A%84%E9%80%BB%E8%BE%91.html?dsource=recommend
+        - generic [ref=e223]:
+          - link "军地两用人才之友续编本 沈阳军区政治部研究室 Downloaded":
+            - /url: /book/7vb9p3N1jY/%E5%86%9B%E5%9C%B0%E4%B8%A4%E7%94%A8%E4%BA%BA%E6%89%8D%E4%B9%8B%E5%8F%8B%E7%BB%AD%E7%BC%96%E6%9C%AC.html?dsource=recommend
+            - generic "军地两用人才之友续编本" [ref=e224] [cursor=pointer]:
+              - generic "军地两用人才之友续编本" [ref=e225]:
+                - generic [ref=e226]:
+                  - generic [ref=e231]: 军地两用人才之友续编本
+                  - generic [ref=e232]: 沈阳军区政治部研究室
+                - img [ref=e236]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e237]:
+                  - /url: /book/7vb9p3N1jY/%E5%86%9B%E5%9C%B0%E4%B8%A4%E7%94%A8%E4%BA%BA%E6%89%8D%E4%B9%8B%E5%8F%8B%E7%BB%AD%E7%BC%96%E6%9C%AC.html?dsource=recommend
+        - generic [ref=e238]:
+          - link "电机学 第七版 StephenD.Umans Downloaded":
+            - /url: /book/1RQJEpLrjx/%E7%94%B5%E6%9C%BA%E5%AD%A6-%E7%AC%AC%E4%B8%83%E7%89%88.html?dsource=recommend
+            - generic "电机学 第七版" [ref=e239] [cursor=pointer]:
+              - generic "电机学 第七版" [ref=e240]:
+                - generic [ref=e241]:
+                  - generic [ref=e246]: 电机学 第七版
+                  - generic [ref=e247]: StephenD.Umans
+                - img [ref=e251]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e252]:
+                  - /url: /book/1RQJEpLrjx/%E7%94%B5%E6%9C%BA%E5%AD%A6-%E7%AC%AC%E4%B8%83%E7%89%88.html?dsource=recommend
+        - generic [ref=e253]:
+          - link "电磁场与电磁波 第2版 （美）David K. Cheng著；何业军，桂良启译 Downloaded":
+            - /url: /book/2R2yQdkqOG/%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E7%94%B5%E7%A3%81%E6%B3%A2-%E7%AC%AC2%E7%89%88.html?dsource=recommend
+            - generic "电磁场与电磁波 第2版" [ref=e254] [cursor=pointer]:
+              - generic "电磁场与电磁波 第2版" [ref=e255]:
+                - generic [ref=e256]:
+                  - generic [ref=e261]: 电磁场与电磁波 第2版
+                  - generic [ref=e262]: （美）David K. Cheng著；何业军，桂良启译
+                - img [ref=e266]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e267]:
+                  - /url: /book/2R2yQdkqOG/%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E7%94%B5%E7%A3%81%E6%B3%A2-%E7%AC%AC2%E7%89%88.html?dsource=recommend
+        - generic [ref=e268]:
+          - link "论系统工程 (新世纪版) 中国系统工程学会, 上海交通大学编, 钱学森 等著 Downloaded":
+            - /url: /book/Ej8q4MP8v9/%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B-%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88.html?dsource=recommend
+            - generic "论系统工程 (新世纪版)" [ref=e269] [cursor=pointer]:
+              - generic "论系统工程 (新世纪版)" [ref=e270]:
+                - generic [ref=e271]:
+                  - generic [ref=e276]: 论系统工程 (新世纪版)
+                  - generic [ref=e277]: 中国系统工程学会, 上海交通大学编, 钱学森 等著
+                - img [ref=e281]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e282]:
+                  - /url: /book/Ej8q4MP8v9/%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B-%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88.html?dsource=recommend
+        - generic [ref=e283]:
+          - link "工程控制论 钱学森著；戴汝为等译 Downloaded":
+            - /url: /book/JR6lPeG3vN/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html?dsource=recommend
+            - generic "工程控制论" [ref=e284] [cursor=pointer]:
+              - generic "工程控制论" [ref=e285]:
+                - generic [ref=e286]:
+                  - generic [ref=e291]: 工程控制论
+                  - generic [ref=e292]: 钱学森著；戴汝为等译
+                - img [ref=e296]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e297]:
+                  - /url: /book/JR6lPeG3vN/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html?dsource=recommend
+        - generic [ref=e298]:
+          - link "创建系统学(新世纪版) 钱学森 Downloaded":
+            - /url: /book/yRaeGxgnRQ/%E5%88%9B%E5%BB%BA%E7%B3%BB%E7%BB%9F%E5%AD%A6%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88.html?dsource=recommend
+            - generic "创建系统学(新世纪版)" [ref=e299] [cursor=pointer]:
+              - generic "创建系统学(新世纪版)" [ref=e300]:
+                - generic [ref=e301]:
+                  - generic [ref=e306]: 创建系统学(新世纪版)
+                  - generic [ref=e307]: 钱学森
+                - img [ref=e311]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e312]:
+                  - /url: /book/yRaeGxgnRQ/%E5%88%9B%E5%BB%BA%E7%B3%BB%E7%BB%9F%E5%AD%A6%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88.html?dsource=recommend
+        - generic [ref=e313]:
+          - link "系统理论中的科学方法与哲学问题 1982年北京系统论、信息论、控制论中的科学方法与哲学问题学术讨论会文集 钱学森等著 Downloaded":
+            - /url: /book/5jJMy7b7Rp/%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E4%B8%AD%E7%9A%84%E7%A7%91%E5%AD%A6%E6%96%B9%E6%B3%95%E4%B8%8E%E5%93%B2%E5%AD%A6%E9%97%AE%E9%A2%98-1982%E5%B9%B4%E5%8C%97%E4%BA%AC%E7%B3%BB%E7%BB%9F%E8%AE%BA%E4%BF%A1%E6%81%AF%E8%AE%BA%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%AD%E7%9A%84%E7%A7%91%E5%AD%A6%E6%96%B9%E6%B3%95%E4%B8%8E%E5%93%B2%E5%AD%A6%E9%97%AE%E9%A2%98%E5%AD%A6%E6%9C%AF%E8%AE%A8%E8%AE%BA%E4%BC%9A%E6%96%87%E9%9B%86.html?dsource=recommend
+            - generic "系统理论中的科学方法与哲学问题 1982年北京系统论、信息论、控制论中的科学方法与哲学问题学术讨论会文集" [ref=e314] [cursor=pointer]:
+              - generic "系统理论中的科学方法与哲学问题 1982年北京系统论、信息论、控制论中的科学方法与哲学问题学术讨论会文集" [ref=e315]:
+                - generic [ref=e316]:
+                  - generic [ref=e321]: 系统理论中的科学方法与哲学问题 1982年北京系统论、信息论、控制论中的科学方法与哲学问题学术讨论会文集
+                  - generic [ref=e322]: 钱学森等著
+                - img [ref=e326]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e327]:
+                  - /url: /book/5jJMy7b7Rp/%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E4%B8%AD%E7%9A%84%E7%A7%91%E5%AD%A6%E6%96%B9%E6%B3%95%E4%B8%8E%E5%93%B2%E5%AD%A6%E9%97%AE%E9%A2%98-1982%E5%B9%B4%E5%8C%97%E4%BA%AC%E7%B3%BB%E7%BB%9F%E8%AE%BA%E4%BF%A1%E6%81%AF%E8%AE%BA%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%AD%E7%9A%84%E7%A7%91%E5%AD%A6%E6%96%B9%E6%B3%95%E4%B8%8E%E5%93%B2%E5%AD%A6%E9%97%AE%E9%A2%98%E5%AD%A6%E6%9C%AF%E8%AE%A8%E8%AE%BA%E4%BC%9A%E6%96%87%E9%9B%86.html?dsource=recommend
+        - generic [ref=e328]:
+          - link "《创造之门》（菲尔兹奖得主广中平祐自传） [日]广中平祐自传著；郭友中,高明芝译 Downloaded":
+            - /url: /book/JveM22gMvE/%E5%88%9B%E9%80%A0%E4%B9%8B%E9%97%A8%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E5%B9%BF%E4%B8%AD%E5%B9%B3%E7%A5%90%E8%87%AA%E4%BC%A0.html?dsource=recommend
+            - generic "《创造之门》（菲尔兹奖得主广中平祐自传）" [ref=e329] [cursor=pointer]:
+              - generic "《创造之门》（菲尔兹奖得主广中平祐自传）" [ref=e330]:
+                - generic [ref=e331]:
+                  - generic [ref=e336]: 《创造之门》（菲尔兹奖得主广中平祐自传）
+                  - generic [ref=e337]: "[日]广中平祐自传著；郭友中,高明芝译"
+                - img [ref=e341]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e342]:
+                  - /url: /book/JveM22gMvE/%E5%88%9B%E9%80%A0%E4%B9%8B%E9%97%A8%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E5%B9%BF%E4%B8%AD%E5%B9%B3%E7%A5%90%E8%87%AA%E4%BC%A0.html?dsource=recommend
+        - generic [ref=e343]:
+          - link "电力拖动自动控制系统 运动控制系统 第5版 阮毅，杨影，陈伯时编著 Downloaded":
+            - /url: /book/ojLaW5dZvL/%E7%94%B5%E5%8A%9B%E6%8B%96%E5%8A%A8%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F-%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F-%E7%AC%AC5%E7%89%88.html?dsource=recommend
+            - generic "电力拖动自动控制系统 运动控制系统 第5版" [ref=e344] [cursor=pointer]:
+              - generic "电力拖动自动控制系统 运动控制系统 第5版" [ref=e345]:
+                - generic [ref=e346]:
+                  - generic [ref=e351]: 电力拖动自动控制系统 运动控制系统 第5版
+                  - generic [ref=e352]: 阮毅，杨影，陈伯时编著
+                - img [ref=e356]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e357]:
+                  - /url: /book/ojLaW5dZvL/%E7%94%B5%E5%8A%9B%E6%8B%96%E5%8A%A8%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F-%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F-%E7%AC%AC5%E7%89%88.html?dsource=recommend
+        - generic [ref=e358]:
+          - link "论人体科学与现代科技 钱学森 Downloaded":
+            - /url: /book/wRxbY2Vpv4/%E8%AE%BA%E4%BA%BA%E4%BD%93%E7%A7%91%E5%AD%A6%E4%B8%8E%E7%8E%B0%E4%BB%A3%E7%A7%91%E6%8A%80.html?dsource=recommend
+            - generic "论人体科学与现代科技" [ref=e359] [cursor=pointer]:
+              - generic "论人体科学与现代科技" [ref=e360]:
+                - generic [ref=e361]:
+                  - generic [ref=e366]: 论人体科学与现代科技
+                  - generic [ref=e367]: 钱学森
+                - img [ref=e371]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e372]:
+                  - /url: /book/wRxbY2Vpv4/%E8%AE%BA%E4%BA%BA%E4%BD%93%E7%A7%91%E5%AD%A6%E4%B8%8E%E7%8E%B0%E4%BB%A3%E7%A7%91%E6%8A%80.html?dsource=recommend
+        - generic [ref=e373]:
+          - link "关于思维科学 钱学森主编 Downloaded":
+            - /url: /book/Yv330Bo5vm/%E5%85%B3%E4%BA%8E%E6%80%9D%E7%BB%B4%E7%A7%91%E5%AD%A6.html?dsource=recommend
+            - generic "关于思维科学" [ref=e374] [cursor=pointer]:
+              - generic "关于思维科学" [ref=e375]:
+                - generic [ref=e376]:
+                  - generic [ref=e381]: 关于思维科学
+                  - generic [ref=e382]: 钱学森主编
+                - img [ref=e386]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e387]:
+                  - /url: /book/Yv330Bo5vm/%E5%85%B3%E4%BA%8E%E6%80%9D%E7%BB%B4%E7%A7%91%E5%AD%A6.html?dsource=recommend
+        - generic [ref=e388]:
+          - link "工程控制论 钱学森 Downloaded":
+            - /url: /book/NOVQ0ZxMvk/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html?dsource=recommend
+            - generic "工程控制论" [ref=e389] [cursor=pointer]:
+              - generic "工程控制论" [ref=e390]:
+                - generic [ref=e391]:
+                  - generic [ref=e396]: 工程控制论
+                  - generic [ref=e397]: 钱学森
+                - img [ref=e401]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e402]:
+                  - /url: /book/NOVQ0ZxMvk/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA.html?dsource=recommend
+        - generic [ref=e403]:
+          - link "论系统工程（新世纪版） 钱学森 Downloaded":
+            - /url: /book/gjrnp7V2je/%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88.html?dsource=recommend
+            - generic "论系统工程（新世纪版）" [ref=e404] [cursor=pointer]:
+              - generic "论系统工程（新世纪版）" [ref=e405]:
+                - generic [ref=e406]:
+                  - generic [ref=e411]: 论系统工程（新世纪版）
+                  - generic [ref=e412]: 钱学森
+                - img [ref=e416]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e417]:
+                  - /url: /book/gjrnp7V2je/%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88.html?dsource=recommend
+        - generic [ref=e418]:
+          - link "电路 James W.Nilsson Downloaded":
+            - /url: /book/VOwoJBd0O3/%E7%94%B5%E8%B7%AF.html?dsource=recommend
+            - generic "电路" [ref=e419] [cursor=pointer]:
+              - generic "电路" [ref=e420]:
+                - generic [ref=e421]:
+                  - generic [ref=e426]: 电路
+                  - generic [ref=e427]: James W.Nilsson
+                - img [ref=e431]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e432]:
+                  - /url: /book/VOwoJBd0O3/%E7%94%B5%E8%B7%AF.html?dsource=recommend
+        - generic [ref=e433]:
+          - link "钱学森文集·卷1 钱学森 Downloaded":
+            - /url: /book/zOo1wM8GjQ/%E9%92%B1%E5%AD%A6%E6%A3%AE%E6%96%87%E9%9B%86%E5%8D%B71.html?dsource=recommend
+            - generic "钱学森文集·卷1" [ref=e434] [cursor=pointer]:
+              - generic "钱学森文集·卷1" [ref=e435]:
+                - generic [ref=e436]:
+                  - generic [ref=e441]: 钱学森文集·卷1
+                  - generic [ref=e442]: 钱学森
+                - img [ref=e446]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e447]:
+                  - /url: /book/zOo1wM8GjQ/%E9%92%B1%E5%AD%A6%E6%A3%AE%E6%96%87%E9%9B%86%E5%8D%B71.html?dsource=recommend
+        - generic [ref=e448]:
+          - link "钱学森文集·卷3 钱学森 Downloaded":
+            - /url: /book/ZODKr565vL/%E9%92%B1%E5%AD%A6%E6%A3%AE%E6%96%87%E9%9B%86%E5%8D%B73.html?dsource=recommend
+            - generic "钱学森文集·卷3" [ref=e449] [cursor=pointer]:
+              - generic "钱学森文集·卷3" [ref=e450]:
+                - generic [ref=e451]:
+                  - generic [ref=e456]: 钱学森文集·卷3
+                  - generic [ref=e457]: 钱学森
+                - img [ref=e461]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e462]:
+                  - /url: /book/ZODKr565vL/%E9%92%B1%E5%AD%A6%E6%A3%AE%E6%96%87%E9%9B%86%E5%8D%B73.html?dsource=recommend
+        - generic [ref=e463]:
+          - link "钱学森文集·卷4 钱学森 Downloaded":
+            - /url: /book/8jmrN1XNvZ/%E9%92%B1%E5%AD%A6%E6%A3%AE%E6%96%87%E9%9B%86%E5%8D%B74.html?dsource=recommend
+            - generic "钱学森文集·卷4" [ref=e464] [cursor=pointer]:
+              - generic "钱学森文集·卷4" [ref=e465]:
+                - generic [ref=e466]:
+                  - generic [ref=e471]: 钱学森文集·卷4
+                  - generic [ref=e472]: 钱学森
+                - img [ref=e476]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e477]:
+                  - /url: /book/8jmrN1XNvZ/%E9%92%B1%E5%AD%A6%E6%A3%AE%E6%96%87%E9%9B%86%E5%8D%B74.html?dsource=recommend
+        - generic [ref=e478]:
+          - link "钱学森文集·卷5 钱学森 Downloaded":
+            - /url: /book/3RkprayKjX/%E9%92%B1%E5%AD%A6%E6%A3%AE%E6%96%87%E9%9B%86%E5%8D%B75.html?dsource=recommend
+            - generic "钱学森文集·卷5" [ref=e479] [cursor=pointer]:
+              - generic "钱学森文集·卷5" [ref=e480]:
+                - generic [ref=e481]:
+                  - generic [ref=e486]: 钱学森文集·卷5
+                  - generic [ref=e487]: 钱学森
+                - img [ref=e491]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e492]:
+                  - /url: /book/3RkprayKjX/%E9%92%B1%E5%AD%A6%E6%A3%AE%E6%96%87%E9%9B%86%E5%8D%B75.html?dsource=recommend
+        - generic [ref=e493]:
+          - link "物理力学讲义（新世纪版） 钱学森 Downloaded":
+            - /url: /book/2RA99mwDRL/%E7%89%A9%E7%90%86%E5%8A%9B%E5%AD%A6%E8%AE%B2%E4%B9%89%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88.html?dsource=recommend
+            - generic "物理力学讲义（新世纪版）" [ref=e494] [cursor=pointer]:
+              - generic "物理力学讲义（新世纪版）" [ref=e495]:
+                - generic [ref=e496]:
+                  - generic [ref=e501]: 物理力学讲义（新世纪版）
+                  - generic [ref=e502]: 钱学森
+                - img [ref=e506]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e507]:
+                  - /url: /book/2RA99mwDRL/%E7%89%A9%E7%90%86%E5%8A%9B%E5%AD%A6%E8%AE%B2%E4%B9%89%E6%96%B0%E4%B8%96%E7%BA%AA%E7%89%88.html?dsource=recommend
+        - generic [ref=e508]:
+          - link "现代控制理论 第2版 张嗣瀛 Downloaded":
+            - /url: /book/ZjKq56yXO0/%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA-%E7%AC%AC2%E7%89%88.html?dsource=recommend
+            - generic "现代控制理论 第2版" [ref=e509] [cursor=pointer]:
+              - generic "现代控制理论 第2版" [ref=e510]:
+                - generic [ref=e511]:
+                  - generic [ref=e516]: 现代控制理论 第2版
+                  - generic [ref=e517]: 张嗣瀛
+                - img [ref=e521]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e522]:
+                  - /url: /book/ZjKq56yXO0/%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA-%E7%AC%AC2%E7%89%88.html?dsource=recommend
+        - generic [ref=e523]:
+          - link "中国人工智能系列白皮书——大模型技术（2023 版） 陶建华, 吴飞, 黄民烈, 文继荣, 王海峰, 刘知远, 刘静, 杨小康, 聂帅 Downloaded":
+            - /url: /book/DjEqngWWjo/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%B3%BB%E5%88%97%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8A%80%E6%9C%AF2023-%E7%89%88.html?dsource=recommend
+            - generic "中国人工智能系列白皮书——大模型技术（2023 版）" [ref=e524] [cursor=pointer]:
+              - generic "中国人工智能系列白皮书——大模型技术（2023 版）" [ref=e525]:
+                - generic [ref=e526]:
+                  - generic [ref=e531]: 中国人工智能系列白皮书——大模型技术（2023 版）
+                  - generic [ref=e532]: 陶建华, 吴飞, 黄民烈, 文继荣, 王海峰, 刘知远, 刘静, 杨小康, 聂帅
+                - img [ref=e536]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e537]:
+                  - /url: /book/DjEqngWWjo/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%B3%BB%E5%88%97%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8A%80%E6%9C%AF2023-%E7%89%88.html?dsource=recommend
+        - generic [ref=e538]:
+          - link "控制论：或关于在动物和机器中控制和通信的科学 [美]维纳 Downloaded":
+            - /url: /book/6Ej8kPWVR9/%E6%8E%A7%E5%88%B6%E8%AE%BA%E6%88%96%E5%85%B3%E4%BA%8E%E5%9C%A8%E5%8A%A8%E7%89%A9%E5%92%8C%E6%9C%BA%E5%99%A8%E4%B8%AD%E6%8E%A7%E5%88%B6%E5%92%8C%E9%80%9A%E4%BF%A1%E7%9A%84%E7%A7%91%E5%AD%A6.html?dsource=recommend
+            - generic "控制论：或关于在动物和机器中控制和通信的科学" [ref=e539] [cursor=pointer]:
+              - generic "控制论：或关于在动物和机器中控制和通信的科学" [ref=e540]:
+                - generic [ref=e541]:
+                  - generic [ref=e546]: 控制论：或关于在动物和机器中控制和通信的科学
+                  - generic [ref=e547]: "[美]维纳"
+                - img [ref=e551]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e552]:
+                  - /url: /book/6Ej8kPWVR9/%E6%8E%A7%E5%88%B6%E8%AE%BA%E6%88%96%E5%85%B3%E4%BA%8E%E5%9C%A8%E5%8A%A8%E7%89%A9%E5%92%8C%E6%9C%BA%E5%99%A8%E4%B8%AD%E6%8E%A7%E5%88%B6%E5%92%8C%E9%80%9A%E4%BF%A1%E7%9A%84%E7%A7%91%E5%AD%A6.html?dsource=recommend
+        - generic [ref=e553]:
+          - link "人有人的用处：控制论与社会 [美]维纳 Downloaded":
+            - /url: /book/kJR6BVYGRN/%E4%BA%BA%E6%9C%89%E4%BA%BA%E7%9A%84%E7%94%A8%E5%A4%84%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%8E%E7%A4%BE%E4%BC%9A.html?dsource=recommend
+            - generic "人有人的用处：控制论与社会" [ref=e554] [cursor=pointer]:
+              - generic "人有人的用处：控制论与社会" [ref=e555]:
+                - generic [ref=e556]:
+                  - generic [ref=e561]: 人有人的用处：控制论与社会
+                  - generic [ref=e562]: "[美]维纳"
+                - img [ref=e566]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e567]:
+                  - /url: /book/kJR6BVYGRN/%E4%BA%BA%E6%9C%89%E4%BA%BA%E7%9A%84%E7%94%A8%E5%A4%84%E6%8E%A7%E5%88%B6%E8%AE%BA%E4%B8%8E%E7%A4%BE%E4%BC%9A.html?dsource=recommend
+        - generic [ref=e568]:
+          - link "物理学大题典 力学 强元棨; 程稼夫 Downloaded":
+            - /url: /book/nBj4LW85j3/%E7%89%A9%E7%90%86%E5%AD%A6%E5%A4%A7%E9%A2%98%E5%85%B8-%E5%8A%9B%E5%AD%A6.html?dsource=recommend
+            - generic "物理学大题典 力学" [ref=e569] [cursor=pointer]:
+              - generic "物理学大题典 力学" [ref=e570]:
+                - generic [ref=e571]:
+                  - generic [ref=e576]: 物理学大题典 力学
+                  - generic [ref=e577]: 强元棨; 程稼夫
+                - img [ref=e581]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e582]:
+                  - /url: /book/nBj4LW85j3/%E7%89%A9%E7%90%86%E5%AD%A6%E5%A4%A7%E9%A2%98%E5%85%B8-%E5%8A%9B%E5%AD%A6.html?dsource=recommend
+        - generic [ref=e583]:
+          - link "工程控制论 Engineering Cybernetics 钱学森 Qian, Xuesen (Hsue Shen Tsien) Downloaded":
+            - /url: /book/BjnXgmKPO2/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-engineering-cybernetics.html?dsource=recommend
+            - generic "工程控制论 Engineering Cybernetics" [ref=e584] [cursor=pointer]:
+              - generic "工程控制论 Engineering Cybernetics" [ref=e585]:
+                - generic [ref=e586]:
+                  - generic [ref=e591]: 工程控制论 Engineering Cybernetics
+                  - generic [ref=e592]: 钱学森 Qian, Xuesen (Hsue Shen Tsien)
+                - img [ref=e596]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e597]:
+                  - /url: /book/BjnXgmKPO2/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-engineering-cybernetics.html?dsource=recommend
+        - generic [ref=e598]:
+          - link "自动控制原理 胡寿松 Downloaded":
+            - /url: /book/dRzQgGPJOo/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86.html?dsource=recommend
+            - generic "自动控制原理" [ref=e599] [cursor=pointer]:
+              - generic "自动控制原理" [ref=e600]:
+                - generic [ref=e601]:
+                  - generic [ref=e606]: 自动控制原理
+                  - generic [ref=e607]: 胡寿松
+                - img [ref=e611]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e612]:
+                  - /url: /book/dRzQgGPJOo/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86.html?dsource=recommend
+        - generic [ref=e613]:
+          - link "自动控制中的矩阵理论 [日]须田信英 曹长修译 Made by jdg@hit Downloaded":
+            - /url: /book/qOXq9V4JRk/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E4%B8%AD%E7%9A%84%E7%9F%A9%E9%98%B5%E7%90%86%E8%AE%BA.html?dsource=recommend
+            - generic "自动控制中的矩阵理论" [ref=e614] [cursor=pointer]:
+              - generic "自动控制中的矩阵理论" [ref=e615]:
+                - generic [ref=e616]:
+                  - generic [ref=e621]: 自动控制中的矩阵理论
+                  - generic [ref=e622]: "[日]须田信英 曹长修译 Made by jdg@hit"
+                - img [ref=e626]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e627]:
+                  - /url: /book/qOXq9V4JRk/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E4%B8%AD%E7%9A%84%E7%9F%A9%E9%98%B5%E7%90%86%E8%AE%BA.html?dsource=recommend
+        - generic [ref=e628]:
+          - link "Advanced engineering mathematics with MATLAB Dean G. Duffy Downloaded":
+            - /url: /book/d5R06wl5vp/advanced-engineering-mathematics-with-matlab.html?dsource=recommend
+            - generic "Advanced engineering mathematics with MATLAB" [ref=e629] [cursor=pointer]:
+              - generic "Advanced engineering mathematics with MATLAB" [ref=e630]:
+                - generic [ref=e631]:
+                  - generic [ref=e636]: Advanced engineering mathematics with MATLAB
+                  - generic [ref=e637]: Dean G. Duffy
+                - img [ref=e641]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e642]:
+                  - /url: /book/d5R06wl5vp/advanced-engineering-mathematics-with-matlab.html?dsource=recommend
+        - generic [ref=e643]:
+          - link "科学的艺术与艺术的科学 钱学森 Downloaded":
+            - /url: /book/JR65E0mgON/%E7%A7%91%E5%AD%A6%E7%9A%84%E8%89%BA%E6%9C%AF%E4%B8%8E%E8%89%BA%E6%9C%AF%E7%9A%84%E7%A7%91%E5%AD%A6.html?dsource=recommend
+            - generic "科学的艺术与艺术的科学" [ref=e644] [cursor=pointer]:
+              - generic "科学的艺术与艺术的科学" [ref=e645]:
+                - generic [ref=e646]:
+                  - generic [ref=e651]: 科学的艺术与艺术的科学
+                  - generic [ref=e652]: 钱学森
+                - img [ref=e656]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e657]:
+                  - /url: /book/JR65E0mgON/%E7%A7%91%E5%AD%A6%E7%9A%84%E8%89%BA%E6%9C%AF%E4%B8%8E%E8%89%BA%E6%9C%AF%E7%9A%84%E7%A7%91%E5%AD%A6.html?dsource=recommend
+        - generic [ref=e658]:
+          - link "工程控制论 (上册) (第三版) 钱学森, 宋健 Downloaded":
+            - /url: /book/QRMQoyJARV/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E4%B8%8A%E5%86%8C-%E7%AC%AC%E4%B8%89%E7%89%88.html?dsource=recommend
+            - generic "工程控制论 (上册) (第三版)" [ref=e659] [cursor=pointer]:
+              - generic "工程控制论 (上册) (第三版)" [ref=e660]:
+                - generic [ref=e661]:
+                  - generic [ref=e666]: 工程控制论 (上册) (第三版)
+                  - generic [ref=e667]: 钱学森, 宋健
+                - img [ref=e671]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e672]:
+                  - /url: /book/QRMQoyJARV/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E4%B8%8A%E5%86%8C-%E7%AC%AC%E4%B8%89%E7%89%88.html?dsource=recommend
+        - generic [ref=e673]:
+          - link "工程控制论 (下册) (第三版) 钱学森, 宋健 Downloaded":
+            - /url: /book/NOVLd6ldjk/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E4%B8%8B%E5%86%8C-%E7%AC%AC%E4%B8%89%E7%89%88.html?dsource=recommend
+            - generic "工程控制论 (下册) (第三版)" [ref=e674] [cursor=pointer]:
+              - generic "工程控制论 (下册) (第三版)" [ref=e675]:
+                - generic [ref=e676]:
+                  - generic [ref=e681]: 工程控制论 (下册) (第三版)
+                  - generic [ref=e682]: 钱学森, 宋健
+                - img [ref=e686]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e687]:
+                  - /url: /book/NOVLd6ldjk/%E5%B7%A5%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AE%BA-%E4%B8%8B%E5%86%8C-%E7%AC%AC%E4%B8%89%E7%89%88.html?dsource=recommend
+        - generic [ref=e688]:
+          - link "10000个科学难题·农业科学卷 《10000个科学难题》农业科学编委会 Downloaded":
+            - /url: /book/GQOP7X9wvX/10000%E4%B8%AA%E7%A7%91%E5%AD%A6%E9%9A%BE%E9%A2%98%E5%86%9C%E4%B8%9A%E7%A7%91%E5%AD%A6%E5%8D%B7.html?dsource=recommend
+            - generic "10000个科学难题·农业科学卷" [ref=e689] [cursor=pointer]:
+              - generic "10000个科学难题·农业科学卷" [ref=e690]:
+                - generic [ref=e691]:
+                  - generic [ref=e696]: 10000个科学难题·农业科学卷
+                  - generic [ref=e697]: 《10000个科学难题》农业科学编委会
+                - img [ref=e701]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e702]:
+                  - /url: /book/GQOP7X9wvX/10000%E4%B8%AA%E7%A7%91%E5%AD%A6%E9%9A%BE%E9%A2%98%E5%86%9C%E4%B8%9A%E7%A7%91%E5%AD%A6%E5%8D%B7.html?dsource=recommend
+        - generic [ref=e703]:
+          - link "普林斯顿数学指南(全三卷带目录） (英)高尔斯(Gowers T.)主编, 齐民友 译 Downloaded":
+            - /url: /book/0OZLwJ1Ljd/%E6%99%AE%E6%9E%97%E6%96%AF%E9%A1%BF%E6%95%B0%E5%AD%A6%E6%8C%87%E5%8D%97%E5%85%A8%E4%B8%89%E5%8D%B7%E5%B8%A6%E7%9B%AE%E5%BD%95.html?dsource=recommend
+            - generic "普林斯顿数学指南(全三卷带目录）" [ref=e704] [cursor=pointer]:
+              - generic "普林斯顿数学指南(全三卷带目录）" [ref=e705]:
+                - generic [ref=e706]:
+                  - generic [ref=e711]: 普林斯顿数学指南(全三卷带目录）
+                  - generic [ref=e712]: (英)高尔斯(Gowers T.)主编, 齐民友 译
+                - img [ref=e716]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e717]:
+                  - /url: /book/0OZLwJ1Ljd/%E6%99%AE%E6%9E%97%E6%96%AF%E9%A1%BF%E6%95%B0%E5%AD%A6%E6%8C%87%E5%8D%97%E5%85%A8%E4%B8%89%E5%8D%B7%E5%B8%A6%E7%9B%AE%E5%BD%95.html?dsource=recommend
+        - generic [ref=e718]:
+          - link "自动控制原理（第七版） 胡寿松 Downloaded":
+            - /url: /book/0vpp160Wvr/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86%E7%AC%AC%E4%B8%83%E7%89%88.html?dsource=recommend
+            - generic "自动控制原理（第七版）" [ref=e719] [cursor=pointer]:
+              - generic "自动控制原理（第七版）" [ref=e720]:
+                - generic [ref=e721]:
+                  - generic [ref=e726]: 自动控制原理（第七版）
+                  - generic [ref=e727]: 胡寿松
+                - img [ref=e731]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e732]:
+                  - /url: /book/0vpp160Wvr/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86%E7%AC%AC%E4%B8%83%E7%89%88.html?dsource=recommend
+        - generic [ref=e733]:
+          - link "理论力学教程(周衍柏, 第二版)学习辅导书 张宏宝 Downloaded":
+            - /url: /book/0vpxBKgpvr/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E6%95%99%E7%A8%8B%E5%91%A8%E8%A1%8D%E6%9F%8F-%E7%AC%AC%E4%BA%8C%E7%89%88%E5%AD%A6%E4%B9%A0%E8%BE%85%E5%AF%BC%E4%B9%A6.html?dsource=recommend
+            - generic "理论力学教程(周衍柏, 第二版)学习辅导书" [ref=e734] [cursor=pointer]:
+              - generic "理论力学教程(周衍柏, 第二版)学习辅导书" [ref=e735]:
+                - generic [ref=e736]:
+                  - generic [ref=e741]: 理论力学教程(周衍柏, 第二版)学习辅导书
+                  - generic [ref=e742]: 张宏宝
+                - img [ref=e746]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e747]:
+                  - /url: /book/0vpxBKgpvr/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E6%95%99%E7%A8%8B%E5%91%A8%E8%A1%8D%E6%9F%8F-%E7%AC%AC%E4%BA%8C%E7%89%88%E5%AD%A6%E4%B9%A0%E8%BE%85%E5%AF%BC%E4%B9%A6.html?dsource=recommend
+        - generic [ref=e748]:
+          - link "经典力学的数学方法 В. И. 阿诺尔德 ; 齐民友 Downloaded":
+            - /url: /book/P0vpWagLjr/%E7%BB%8F%E5%85%B8%E5%8A%9B%E5%AD%A6%E7%9A%84%E6%95%B0%E5%AD%A6%E6%96%B9%E6%B3%95.html?dsource=recommend
+            - generic "经典力学的数学方法" [ref=e749] [cursor=pointer]:
+              - generic "经典力学的数学方法" [ref=e750]:
+                - generic [ref=e751]:
+                  - generic [ref=e756]: 经典力学的数学方法
+                  - generic [ref=e757]: В. И. 阿诺尔德 ; 齐民友
+                - img [ref=e761]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e762]:
+                  - /url: /book/P0vpWagLjr/%E7%BB%8F%E5%85%B8%E5%8A%9B%E5%AD%A6%E7%9A%84%E6%95%B0%E5%AD%A6%E6%96%B9%E6%B3%95.html?dsource=recommend
+        - generic [ref=e763]:
+          - 'link "电路: 修订第5版 邱关源 Downloaded"':
+            - /url: /book/BjnYPdmzR2/%E7%94%B5%E8%B7%AF-%E4%BF%AE%E8%AE%A2%E7%AC%AC5%E7%89%88.html?dsource=recommend
+            - 'generic "电路: 修订第5版" [ref=e764] [cursor=pointer]':
+              - 'generic "电路: 修订第5版" [ref=e765]':
+                - generic [ref=e766]:
+                  - generic [ref=e771]: "电路: 修订第5版"
+                  - generic [ref=e772]: 邱关源
+                - img [ref=e776]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e777]:
+                  - /url: /book/BjnYPdmzR2/%E7%94%B5%E8%B7%AF-%E4%BF%AE%E8%AE%A2%E7%AC%AC5%E7%89%88.html?dsource=recommend
+      - generic [ref=e780] [cursor=pointer]:
+        - generic [ref=e781]:
+          - generic: Load more
+        - generic [ref=e782]: 
+        - img [ref=e783]
+  - generic:
+    - img
+    - generic: 

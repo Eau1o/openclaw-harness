@@ -1,0 +1,591 @@
+- generic [ref=e1]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]:
+      - link "Z-Library Home" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - text: Z-Library Home  
+      - link "My Library" [ref=e7] [cursor=pointer]:
+        - /url: /profile#tags
+        - text: My Library  
+    - generic [ref=e12] [cursor=pointer]: English
+    - link "Donate" [ref=e15] [cursor=pointer]:
+      - /url: /how-to-donate
+    - generic [ref=e16]:
+      - generic [ref=e18] [cursor=pointer]: 
+      - generic:
+        - generic:
+          - generic:
+            - textbox "Search for title, author, ISBN, DOI, publisher, md5…" [ref=e19]
+            - button "" [ref=e20] [cursor=pointer]:
+              - generic [ref=e21]: 
+            - button "" [ref=e22] [cursor=pointer]:
+              - generic [ref=e23]: 
+    - generic [ref=e26] [cursor=pointer]:
+      - generic [ref=e28]: 
+      - generic [ref=e29]: 
+      - generic [ref=e30]: 
+    - link "Log In" [ref=e32] [cursor=pointer]:
+      - /url: /login?redirectUrl=https%253A%252F%252F1lib.sk%252F
+    - generic [ref=e33]:
+      - generic [ref=e35] [cursor=pointer]: 
+      - text:                         
+  - generic [ref=e38]:
+    - generic [ref=e39]:
+      - generic [ref=e40]:
+        - link "Z-Library" [ref=e42] [cursor=pointer]:
+          - /url: /
+          - img "Z-Library" [ref=e43]
+        - generic [ref=e44]: Your gateway to knowledge and culture. Accessible for everyone.
+      - generic [ref=e45]:
+        - text: Are you familiar with a high-risk merchant or do you process payments?
+        - link "Yes, I am." [ref=e46] [cursor=pointer]:
+          - /url: javascript://
+        - link "×" [ref=e47] [cursor=pointer]:
+          - /url: javascript://
+      - generic [ref=e48]:
+        - list [ref=e49]:
+          - listitem [ref=e51]:
+            - tab "General Search" [ref=e52] [cursor=pointer]
+          - listitem [ref=e54]:
+            - tab "Full-Text Search" [ref=e55] [cursor=pointer]
+        - generic [ref=e58]:
+          - textbox "Search for title, author, ISBN, DOI, publisher, md5…" [active] [ref=e60]
+          - button "Search" [ref=e63] [cursor=pointer]: Search 
+        - generic [ref=e67] [cursor=pointer]: Search options
+    - generic [ref=e68]:
+      - generic [ref=e69]:
+        - heading "Most Popular" [level=2] [ref=e70]
+        - generic [ref=e73]:
+          - text: Explore books in
+          - generic [ref=e74]:
+            - generic [ref=e75]: 
+            - link "Z-Recommend!" [ref=e76] [cursor=pointer]:
+              - /url: /users/zrecommended#17576434,121881882,119661982,30152455,1646104,103073205,124627236,124218393,117313875,124226011,28307349,123819642,24253049,88886268,116914383,5529984,633777,115919952,17052070,26899268,28826820,119638511,17524597,119684129,11735659,3558229,124477843,2474831,5816907,122037602,11686419,24926554,123486655,1571773,122037600,5040527,24330566,5781799,124280934,117069468
+      - generic [ref=e78]:
+        - generic [ref=e79]:
+          - link "Project Hail Mary Andy Weir Downloaded":
+            - /url: /book/4vrAp1VDOn/project-hail-mary.html?dsource=mostpopular
+            - generic "Project Hail Mary" [ref=e80] [cursor=pointer]:
+              - generic "Project Hail Mary" [ref=e81]:
+                - generic [ref=e82]:
+                  - generic [ref=e87]: Project Hail Mary
+                  - generic [ref=e88]: Andy Weir
+                - img [ref=e92]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e93]:
+                  - /url: /book/4vrAp1VDOn/project-hail-mary.html?dsource=mostpopular
+        - generic [ref=e94]:
+          - 'link "The Art of Spending Money: Simple Choices for a Richer Life Morgan Housel Downloaded"':
+            - /url: /book/KOyABNBEOM/the-art-of-spending-money-simple-choices-for-a-richer-life.html?dsource=mostpopular
+            - 'generic "The Art of Spending Money: Simple Choices for a Richer Life" [ref=e95] [cursor=pointer]':
+              - 'generic "The Art of Spending Money: Simple Choices for a Richer Life" [ref=e96]':
+                - generic [ref=e97]:
+                  - generic [ref=e102]: "The Art of Spending Money: Simple Choices for a Richer Life"
+                  - generic [ref=e103]: Morgan Housel
+                - img [ref=e107]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e108]:
+                  - /url: /book/KOyABNBEOM/the-art-of-spending-money-simple-choices-for-a-richer-life.html?dsource=mostpopular
+        - generic [ref=e109]:
+          - 'link "Building Applications with AI Agents: Designing and Implementing Multiagent Systems Michael Albada Downloaded"':
+            - /url: /book/KOy3rAoBPM/building-applications-with-ai-agents-designing-and-implementing-multiagent-systems.html?dsource=mostpopular
+            - 'generic "Building Applications with AI Agents: Designing and Implementing Multiagent Systems" [ref=e110] [cursor=pointer]':
+              - 'generic "Building Applications with AI Agents: Designing and Implementing Multiagent Systems" [ref=e111]':
+                - generic [ref=e112]:
+                  - generic [ref=e117]: "Building Applications with AI Agents: Designing and Implementing Multiagent Systems"
+                  - generic [ref=e118]: Michael Albada
+                - img [ref=e122]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e123]:
+                  - /url: /book/KOy3rAoBPM/building-applications-with-ai-agents-designing-and-implementing-multiagent-systems.html?dsource=mostpopular
+        - generic [ref=e124]:
+          - link "Atomic Habits James Clear Downloaded":
+            - /url: /book/8vEb71yJPB/atomic-habits.html?dsource=mostpopular
+            - generic "Atomic Habits" [ref=e125] [cursor=pointer]:
+              - generic "Atomic Habits" [ref=e126]:
+                - generic [ref=e127]:
+                  - generic [ref=e132]: Atomic Habits
+                  - generic [ref=e133]: James Clear
+                - img [ref=e137]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e138]:
+                  - /url: /book/8vEb71yJPB/atomic-habits.html?dsource=mostpopular
+        - generic [ref=e139]:
+          - link "Wuthering Heights Emily Brontë Downloaded":
+            - /url: /book/ljPQdwqgvV/wuthering-heights.html?dsource=mostpopular
+            - generic "Wuthering Heights" [ref=e140] [cursor=pointer]:
+              - generic "Wuthering Heights" [ref=e141]:
+                - generic [ref=e142]:
+                  - generic [ref=e147]: Wuthering Heights
+                  - generic [ref=e148]: Emily Brontë
+                - img [ref=e152]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e153]:
+                  - /url: /book/ljPQdwqgvV/wuthering-heights.html?dsource=mostpopular
+        - generic [ref=e154]:
+          - 'link "The Let Them Theory: A Life-Changing Tool That Millions of People Can’t Stop Talking About Mel Robbins, Sawyer Robbins Downloaded"':
+            - /url: /book/6ZeJomYAOa/the-let-them-theory-a-lifechanging-tool-that-millions-of-people-cant-stop-talking-about.html?dsource=mostpopular
+            - 'generic "The Let Them Theory: A Life-Changing Tool That Millions of People Can’t Stop Talking About" [ref=e155] [cursor=pointer]':
+              - 'generic "The Let Them Theory: A Life-Changing Tool That Millions of People Can’t Stop Talking About" [ref=e156]':
+                - generic [ref=e157]:
+                  - generic [ref=e162]: "The Let Them Theory: A Life-Changing Tool That Millions of People Can’t Stop Talking About"
+                  - generic [ref=e163]: Mel Robbins, Sawyer Robbins
+                - img [ref=e167]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e168]:
+                  - /url: /book/6ZeJomYAOa/the-let-them-theory-a-lifechanging-tool-that-millions-of-people-cant-stop-talking-about.html?dsource=mostpopular
+        - generic [ref=e169]:
+          - link "In Her Own League Liz Tomforde Downloaded":
+            - /url: /book/rZjKydDkO1/in-her-own-league.html?dsource=mostpopular
+            - generic "In Her Own League" [ref=e170] [cursor=pointer]:
+              - generic "In Her Own League" [ref=e171]:
+                - generic [ref=e172]:
+                  - generic [ref=e177]: In Her Own League
+                  - generic [ref=e178]: Liz Tomforde
+                - img [ref=e182]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e183]:
+                  - /url: /book/rZjKydDkO1/in-her-own-league.html?dsource=mostpopular
+        - generic [ref=e184]:
+          - link "And Now, Back to You B.K. Borison Downloaded":
+            - /url: /book/6Ze8MK5wPa/and-now-back-to-you.html?dsource=mostpopular
+            - generic "And Now, Back to You" [ref=e185] [cursor=pointer]:
+              - generic "And Now, Back to You" [ref=e186]:
+                - generic [ref=e187]:
+                  - generic [ref=e192]: And Now, Back to You
+                  - generic [ref=e193]: B.K. Borison
+                - img [ref=e197]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e198]:
+                  - /url: /book/6Ze8MK5wPa/and-now-back-to-you.html?dsource=mostpopular
+        - generic [ref=e199]:
+          - link "The Correspondent Virginia Evans Downloaded":
+            - /url: /book/LvA9wA0jvE/the-correspondent.html?dsource=mostpopular
+            - generic "The Correspondent" [ref=e200] [cursor=pointer]:
+              - generic "The Correspondent" [ref=e201]:
+                - generic [ref=e202]:
+                  - generic [ref=e207]: The Correspondent
+                  - generic [ref=e208]: Virginia Evans
+                - img [ref=e212]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e213]:
+                  - /url: /book/LvA9wA0jvE/the-correspondent.html?dsource=mostpopular
+        - generic [ref=e214]:
+          - link "Two Can Play Ali Hazelwood Downloaded":
+            - /url: /book/8vEoLrrmZB/two-can-play.html?dsource=mostpopular
+            - generic "Two Can Play" [ref=e215] [cursor=pointer]:
+              - generic "Two Can Play" [ref=e216]:
+                - generic [ref=e217]:
+                  - generic [ref=e222]: Two Can Play
+                  - generic [ref=e223]: Ali Hazelwood
+                - img [ref=e227]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e228]:
+                  - /url: /book/8vEoLrrmZB/two-can-play.html?dsource=mostpopular
+        - generic [ref=e229]:
+          - link "Dictionary of Fine Distinctions. Nuances, Niceties, and Subtle Shades of Meaning Eli Burnstein Downloaded":
+            - /url: /book/6ZezGwGAOa/dictionary-of-fine-distinctions-nuances-niceties-and-subtle-shades-of-meaning.html?dsource=mostpopular
+            - generic "Dictionary of Fine Distinctions. Nuances, Niceties, and Subtle Shades of Meaning" [ref=e230] [cursor=pointer]:
+              - generic "Dictionary of Fine Distinctions. Nuances, Niceties, and Subtle Shades of Meaning" [ref=e231]:
+                - generic [ref=e232]:
+                  - generic [ref=e237]: Dictionary of Fine Distinctions. Nuances, Niceties, and Subtle Shades of Meaning
+                  - generic [ref=e238]: Eli Burnstein
+                - img [ref=e242]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e243]:
+                  - /url: /book/6ZezGwGAOa/dictionary-of-fine-distinctions-nuances-niceties-and-subtle-shades-of-meaning.html?dsource=mostpopular
+        - generic [ref=e244]:
+          - link "Alchemised SenLinYu Downloaded":
+            - /url: /book/qZL1nA84O8/alchemised.html?dsource=mostpopular
+            - generic "Alchemised" [ref=e245] [cursor=pointer]:
+              - generic "Alchemised" [ref=e246]:
+                - generic [ref=e247]:
+                  - generic [ref=e252]: Alchemised
+                  - generic [ref=e253]: SenLinYu
+                - img [ref=e257]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e258]:
+                  - /url: /book/qZL1nA84O8/alchemised.html?dsource=mostpopular
+        - generic [ref=e259]:
+          - 'link "Atomic Habits: Tiny Changes, Remarkable Results James Clear Downloaded"':
+            - /url: /book/6ZeMx354Za/atomic-habits-tiny-changes-remarkable-results.html?dsource=mostpopular
+            - 'generic "Atomic Habits: Tiny Changes, Remarkable Results" [ref=e260] [cursor=pointer]':
+              - 'generic "Atomic Habits: Tiny Changes, Remarkable Results" [ref=e261]':
+                - generic [ref=e262]:
+                  - generic [ref=e267]: "Atomic Habits: Tiny Changes, Remarkable Results"
+                  - generic [ref=e268]: James Clear
+                - img [ref=e272]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e273]:
+                  - /url: /book/6ZeMx354Za/atomic-habits-tiny-changes-remarkable-results.html?dsource=mostpopular
+        - generic [ref=e274]:
+          - 'link "AI Engineering: Building Applications with Foundation Models Chip Huyen Downloaded"':
+            - /url: /book/lZVj5RyRZk/ai-engineering-building-applications-with-foundation-models.html?dsource=mostpopular
+            - 'generic "AI Engineering: Building Applications with Foundation Models" [ref=e275] [cursor=pointer]':
+              - 'generic "AI Engineering: Building Applications with Foundation Models" [ref=e276]':
+                - generic [ref=e277]:
+                  - generic [ref=e282]: "AI Engineering: Building Applications with Foundation Models"
+                  - generic [ref=e283]: Chip Huyen
+                - img [ref=e287]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e288]:
+                  - /url: /book/lZVj5RyRZk/ai-engineering-building-applications-with-foundation-models.html?dsource=mostpopular
+        - generic [ref=e289]:
+          - 'link "The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery Brianna Wiest Downloaded"':
+            - /url: /book/mZ3oDW8qZo/the-mountain-is-you-transforming-selfsabotage-into-selfmastery.html?dsource=mostpopular
+            - 'generic "The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery" [ref=e290] [cursor=pointer]':
+              - 'generic "The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery" [ref=e291]':
+                - generic [ref=e292]:
+                  - generic [ref=e297]: "The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery"
+                  - generic [ref=e298]: Brianna Wiest
+                - img [ref=e302]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e303]:
+                  - /url: /book/mZ3oDW8qZo/the-mountain-is-you-transforming-selfsabotage-into-selfmastery.html?dsource=mostpopular
+        - generic [ref=e304]:
+          - link "Hamnet Maggie O’Farrell Downloaded":
+            - /url: /book/XZzyjbMjP0/hamnet.html?dsource=mostpopular
+            - generic "Hamnet" [ref=e305] [cursor=pointer]:
+              - generic "Hamnet" [ref=e306]:
+                - generic [ref=e307]:
+                  - generic [ref=e312]: Hamnet
+                  - generic [ref=e313]: Maggie O’Farrell
+                - img [ref=e317]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e318]:
+                  - /url: /book/XZzyjbMjP0/hamnet.html?dsource=mostpopular
+        - generic [ref=e319]:
+          - 'link "How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships Leil Lowndes Downloaded"':
+            - /url: /book/2dPpdagbPw/how-to-talk-to-anyone-92-little-tricks-for-big-success-in-relationships.html?dsource=mostpopular
+            - 'generic "How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships" [ref=e320] [cursor=pointer]':
+              - 'generic "How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships" [ref=e321]':
+                - generic [ref=e322]:
+                  - generic [ref=e327]: "How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships"
+                  - generic [ref=e328]: Leil Lowndes
+                - img [ref=e332]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e333]:
+                  - /url: /book/2dPpdagbPw/how-to-talk-to-anyone-92-little-tricks-for-big-success-in-relationships.html?dsource=mostpopular
+        - generic [ref=e334]:
+          - link "AI Agents in Action Micheal Lanham Downloaded":
+            - /url: /book/Dv8368MXOK/ai-agents-in-action.html?dsource=mostpopular
+            - generic "AI Agents in Action" [ref=e335] [cursor=pointer]:
+              - generic "AI Agents in Action" [ref=e336]:
+                - generic [ref=e337]:
+                  - generic [ref=e342]: AI Agents in Action
+                  - generic [ref=e343]: Micheal Lanham
+                - img [ref=e347]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e348]:
+                  - /url: /book/Dv8368MXOK/ai-agents-in-action.html?dsource=mostpopular
+        - generic [ref=e349]:
+          - link "Red Rising Pierce Brown Downloaded":
+            - /url: /book/MPgxGdBQZ2/red-rising.html?dsource=mostpopular
+            - generic "Red Rising" [ref=e350] [cursor=pointer]:
+              - generic "Red Rising" [ref=e351]:
+                - generic [ref=e352]:
+                  - generic [ref=e357]: Red Rising
+                  - generic [ref=e358]: Pierce Brown
+                - img [ref=e362]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e363]:
+                  - /url: /book/MPgxGdBQZ2/red-rising.html?dsource=mostpopular
+        - generic [ref=e364]:
+          - link "Thinking, Fast and Slow Daniel Kahneman Downloaded":
+            - /url: /book/lZVKKD2xOk/thinking-fast-and-slow.html?dsource=mostpopular
+            - generic "Thinking, Fast and Slow" [ref=e365] [cursor=pointer]:
+              - generic "Thinking, Fast and Slow" [ref=e366]:
+                - generic [ref=e367]:
+                  - generic [ref=e372]: Thinking, Fast and Slow
+                  - generic [ref=e373]: Daniel Kahneman
+                - img [ref=e377]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e378]:
+                  - /url: /book/lZVKKD2xOk/thinking-fast-and-slow.html?dsource=mostpopular
+        - generic [ref=e379]:
+          - link "Behave Robert M. Sapolsky Downloaded":
+            - /url: /book/APMGd8X7O9/behave.html?dsource=mostpopular
+            - generic "Behave" [ref=e380] [cursor=pointer]:
+              - generic "Behave" [ref=e381]:
+                - generic [ref=e382]:
+                  - generic [ref=e387]: Behave
+                  - generic [ref=e388]: Robert M. Sapolsky
+                - img [ref=e392]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e393]:
+                  - /url: /book/APMGd8X7O9/behave.html?dsource=mostpopular
+        - generic [ref=e394]:
+          - link "Heart the Lover Lily King Downloaded":
+            - /url: /book/8vE5YqoJvB/heart-the-lover.html?dsource=mostpopular
+            - generic "Heart the Lover" [ref=e395] [cursor=pointer]:
+              - generic "Heart the Lover" [ref=e396]:
+                - generic [ref=e397]:
+                  - generic [ref=e402]: Heart the Lover
+                  - generic [ref=e403]: Lily King
+                - img [ref=e407]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e408]:
+                  - /url: /book/8vE5YqoJvB/heart-the-lover.html?dsource=mostpopular
+        - generic [ref=e409]:
+          - link "The Laws of Human Nature Robert Greene Downloaded":
+            - /url: /book/3O64EXx6PD/the-laws-of-human-nature.html?dsource=mostpopular
+            - generic "The Laws of Human Nature" [ref=e410] [cursor=pointer]:
+              - generic "The Laws of Human Nature" [ref=e411]:
+                - generic [ref=e412]:
+                  - generic [ref=e417]: The Laws of Human Nature
+                  - generic [ref=e418]: Robert Greene
+                - img [ref=e422]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e423]:
+                  - /url: /book/3O64EXx6PD/the-laws-of-human-nature.html?dsource=mostpopular
+        - generic [ref=e424]:
+          - link "The Poison Daughter Sheila Masterson Downloaded":
+            - /url: /book/pZq3Be25vK/the-poison-daughter.html?dsource=mostpopular
+            - generic "The Poison Daughter" [ref=e425] [cursor=pointer]:
+              - generic "The Poison Daughter" [ref=e426]:
+                - generic [ref=e427]:
+                  - generic [ref=e432]: The Poison Daughter
+                  - generic [ref=e433]: Sheila Masterson
+                - img [ref=e437]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e438]:
+                  - /url: /book/pZq3Be25vK/the-poison-daughter.html?dsource=mostpopular
+        - generic [ref=e439]:
+          - link "Dune Frank Herbert Downloaded":
+            - /url: /book/aOlyBlrwvl/dune.html?dsource=mostpopular
+            - generic "Dune" [ref=e440] [cursor=pointer]:
+              - generic "Dune" [ref=e441]:
+                - generic [ref=e442]:
+                  - generic [ref=e447]: Dune
+                  - generic [ref=e448]: Frank Herbert
+                - img [ref=e452]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e453]:
+                  - /url: /book/aOlyBlrwvl/dune.html?dsource=mostpopular
+        - generic [ref=e454]:
+          - link "The Alchemist Paulo Coelho Downloaded":
+            - /url: /book/YpZqBMg5OK/the-alchemist.html?dsource=mostpopular
+            - generic "The Alchemist" [ref=e455] [cursor=pointer]:
+              - generic "The Alchemist" [ref=e456]:
+                - generic [ref=e457]:
+                  - generic [ref=e462]: The Alchemist
+                  - generic [ref=e463]: Paulo Coelho
+                - img [ref=e467]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e468]:
+                  - /url: /book/YpZqBMg5OK/the-alchemist.html?dsource=mostpopular
+        - generic [ref=e469]:
+          - link "Strange Buildings Uketsu, Jim Rion (translator) Downloaded":
+            - /url: /book/GZoJMX7dPQ/strange-buildings.html?dsource=mostpopular
+            - generic "Strange Buildings" [ref=e470] [cursor=pointer]:
+              - generic "Strange Buildings" [ref=e471]:
+                - generic [ref=e472]:
+                  - generic [ref=e477]: Strange Buildings
+                  - generic [ref=e478]: Uketsu, Jim Rion (translator)
+                - img [ref=e482]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e483]:
+                  - /url: /book/GZoJMX7dPQ/strange-buildings.html?dsource=mostpopular
+        - generic [ref=e484]:
+          - link "The Martian Andy Weir Downloaded":
+            - /url: /book/eLvAYR2DvE/the-martian.html?dsource=mostpopular
+            - generic "The Martian" [ref=e485] [cursor=pointer]:
+              - generic "The Martian" [ref=e486]:
+                - generic [ref=e487]:
+                  - generic [ref=e492]: The Martian
+                  - generic [ref=e493]: Andy Weir
+                - img [ref=e497]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e498]:
+                  - /url: /book/eLvAYR2DvE/the-martian.html?dsource=mostpopular
+        - generic [ref=e499]:
+          - link "Dungeon Crawler Carl Matt Dinniman Downloaded":
+            - /url: /book/dvazG7EgPa/dungeon-crawler-carl.html?dsource=mostpopular
+            - generic "Dungeon Crawler Carl" [ref=e500] [cursor=pointer]:
+              - generic "Dungeon Crawler Carl" [ref=e501]:
+                - generic [ref=e502]:
+                  - generic [ref=e507]: Dungeon Crawler Carl
+                  - generic [ref=e508]: Matt Dinniman
+                - img [ref=e512]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e513]:
+                  - /url: /book/dvazG7EgPa/dungeon-crawler-carl.html?dsource=mostpopular
+        - generic [ref=e514]:
+          - link "Common Goal (Game Changers 4) MM Rachel Reid Downloaded":
+            - /url: /book/9OmXGgmlZR/common-goal-game-changers-4-mm.html?dsource=mostpopular
+            - generic "Common Goal (Game Changers 4) MM" [ref=e515] [cursor=pointer]:
+              - generic "Common Goal (Game Changers 4) MM" [ref=e516]:
+                - generic [ref=e517]:
+                  - generic [ref=e522]: Common Goal (Game Changers 4) MM
+                  - generic [ref=e523]: Rachel Reid
+                - img [ref=e527]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e528]:
+                  - /url: /book/9OmXGgmlZR/common-goal-game-changers-4-mm.html?dsource=mostpopular
+        - generic [ref=e529]:
+          - link "A Court of Thorns and Roses Sarah J. Maas Downloaded":
+            - /url: /book/2OXrV6MgPN/a-court-of-thorns-and-roses.html?dsource=mostpopular
+            - generic "A Court of Thorns and Roses" [ref=e530] [cursor=pointer]:
+              - generic "A Court of Thorns and Roses" [ref=e531]:
+                - generic [ref=e532]:
+                  - generic [ref=e537]: A Court of Thorns and Roses
+                  - generic [ref=e538]: Sarah J. Maas
+                - img [ref=e542]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e543]:
+                  - /url: /book/2OXrV6MgPN/a-court-of-thorns-and-roses.html?dsource=mostpopular
+        - generic [ref=e544]:
+          - link "Educated Tara Westover Downloaded":
+            - /url: /book/6ZDkzyEpPg/educated.html?dsource=mostpopular
+            - generic "Educated" [ref=e545] [cursor=pointer]:
+              - generic "Educated" [ref=e546]:
+                - generic [ref=e547]:
+                  - generic [ref=e552]: Educated
+                  - generic [ref=e553]: Tara Westover
+                - img [ref=e557]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e558]:
+                  - /url: /book/6ZDkzyEpPg/educated.html?dsource=mostpopular
+        - generic [ref=e559]:
+          - link "Anatomy of an Alibi Ashley Elston Downloaded":
+            - /url: /book/8vE3nzxEZB/anatomy-of-an-alibi.html?dsource=mostpopular
+            - generic "Anatomy of an Alibi" [ref=e560] [cursor=pointer]:
+              - generic "Anatomy of an Alibi" [ref=e561]:
+                - generic [ref=e562]:
+                  - generic [ref=e567]: Anatomy of an Alibi
+                  - generic [ref=e568]: Ashley Elston
+                - img [ref=e572]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e573]:
+                  - /url: /book/8vE3nzxEZB/anatomy-of-an-alibi.html?dsource=mostpopular
+        - generic [ref=e574]:
+          - link "Fahrenheit 451 Ray Bradbury Downloaded":
+            - /url: /book/YpZq68XLOK/fahrenheit-451.html?dsource=mostpopular
+            - generic "Fahrenheit 451" [ref=e575] [cursor=pointer]:
+              - generic "Fahrenheit 451" [ref=e576]:
+                - generic [ref=e577]:
+                  - generic [ref=e582]: Fahrenheit 451
+                  - generic [ref=e583]: Ray Bradbury
+                - img [ref=e587]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e588]:
+                  - /url: /book/YpZq68XLOK/fahrenheit-451.html?dsource=mostpopular
+        - generic [ref=e589]:
+          - 'link "Game Changers 3: Tough Guy Rachel Reid Downloaded"':
+            - /url: /book/ov4gyW2QO9/game-changers-3-tough-guy.html?dsource=mostpopular
+            - 'generic "Game Changers 3: Tough Guy" [ref=e590] [cursor=pointer]':
+              - 'generic "Game Changers 3: Tough Guy" [ref=e591]':
+                - generic [ref=e592]:
+                  - generic [ref=e597]: "Game Changers 3: Tough Guy"
+                  - generic [ref=e598]: Rachel Reid
+                - img [ref=e602]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e603]:
+                  - /url: /book/ov4gyW2QO9/game-changers-3-tough-guy.html?dsource=mostpopular
+        - generic [ref=e604]:
+          - link "Normal People Sally Rooney Downloaded":
+            - /url: /book/JP2goYQjZ3/normal-people.html?dsource=mostpopular
+            - generic "Normal People" [ref=e605] [cursor=pointer]:
+              - generic "Normal People" [ref=e606]:
+                - generic [ref=e607]:
+                  - generic [ref=e612]: Normal People
+                  - generic [ref=e613]: Sally Rooney
+                - img [ref=e617]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e618]:
+                  - /url: /book/JP2goYQjZ3/normal-people.html?dsource=mostpopular
+        - generic [ref=e619]:
+          - link "I Who Have Never Known Men Jacqueline Harpman Downloaded":
+            - /url: /book/oOYx6o9wZK/i-who-have-never-known-men.html?dsource=mostpopular
+            - generic "I Who Have Never Known Men" [ref=e620] [cursor=pointer]:
+              - generic "I Who Have Never Known Men" [ref=e621]:
+                - generic [ref=e622]:
+                  - generic [ref=e627]: I Who Have Never Known Men
+                  - generic [ref=e628]: Jacqueline Harpman
+                - img [ref=e632]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e633]:
+                  - /url: /book/oOYx6o9wZK/i-who-have-never-known-men.html?dsource=mostpopular
+        - generic [ref=e634]:
+          - 'link "The Courage to Be Disliked: The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness Ichiro Kishimi, Fumitake Koga Downloaded"':
+            - /url: /book/8vE78Kq8ZB/the-courage-to-be-disliked-the-japanese-phenomenon-that-shows-you-how-to-change-your-life-and-achie.html?dsource=mostpopular
+            - 'generic "The Courage to Be Disliked: The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness" [ref=e635] [cursor=pointer]':
+              - 'generic "The Courage to Be Disliked: The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness" [ref=e636]':
+                - generic [ref=e637]:
+                  - generic [ref=e642]: "The Courage to Be Disliked: The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness"
+                  - generic [ref=e643]: Ichiro Kishimi, Fumitake Koga
+                - img [ref=e647]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e648]:
+                  - /url: /book/8vE78Kq8ZB/the-courage-to-be-disliked-the-japanese-phenomenon-that-shows-you-how-to-change-your-life-and-achie.html?dsource=mostpopular
+        - generic [ref=e649]:
+          - 'link "Claude Code for Product Managers: Harnessing Agentic AI for Strategic Outcomes Robin Jones Downloaded"':
+            - /url: /book/4vrR0Xppvn/claude-code-for-product-managers-harnessing-agentic-ai-for-strategic-outcomes.html?dsource=mostpopular
+            - 'generic "Claude Code for Product Managers: Harnessing Agentic AI for Strategic Outcomes" [ref=e650] [cursor=pointer]':
+              - 'generic "Claude Code for Product Managers: Harnessing Agentic AI for Strategic Outcomes" [ref=e651]':
+                - generic [ref=e652]:
+                  - generic [ref=e657]: "Claude Code for Product Managers: Harnessing Agentic AI for Strategic Outcomes"
+                  - generic [ref=e658]: Robin Jones
+                - img [ref=e662]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e663]:
+                  - /url: /book/4vrR0Xppvn/claude-code-for-product-managers-harnessing-agentic-ai-for-strategic-outcomes.html?dsource=mostpopular
+        - generic [ref=e664]:
+          - 'link "Vibe Coding: The Future of Programming (First Early Release) Addy Osmani Downloaded"':
+            - /url: /book/lZV56qgzPk/vibe-coding-the-future-of-programming-first-early-release.html?dsource=mostpopular
+            - 'generic "Vibe Coding: The Future of Programming (First Early Release)" [ref=e665] [cursor=pointer]':
+              - 'generic "Vibe Coding: The Future of Programming (First Early Release)" [ref=e666]':
+                - generic [ref=e667]:
+                  - generic [ref=e672]: "Vibe Coding: The Future of Programming (First Early Release)"
+                  - generic [ref=e673]: Addy Osmani
+                - img [ref=e677]
+                - generic:
+                  - generic: Downloaded
+                - link [ref=e678]:
+                  - /url: /book/lZV56qgzPk/vibe-coding-the-future-of-programming-first-early-release.html?dsource=mostpopular
+      - generic [ref=e681] [cursor=pointer]:
+        - generic [ref=e682]:
+          - generic: Load more
+        - img
+  - generic:
+    - img
+    - generic: 
